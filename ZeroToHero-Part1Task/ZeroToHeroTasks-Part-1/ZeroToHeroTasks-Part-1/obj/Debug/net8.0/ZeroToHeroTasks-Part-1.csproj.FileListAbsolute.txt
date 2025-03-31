@@ -1,0 +1,14 @@
+C:\Users\stduser\Desktop\ZeroToHeroTasks-Part-1\ZeroToHeroTasks-Part-1\bin\Debug\net8.0\ZeroToHeroTasks-Part-1.exe
+C:\Users\stduser\Desktop\ZeroToHeroTasks-Part-1\ZeroToHeroTasks-Part-1\bin\Debug\net8.0\ZeroToHeroTasks-Part-1.deps.json
+C:\Users\stduser\Desktop\ZeroToHeroTasks-Part-1\ZeroToHeroTasks-Part-1\bin\Debug\net8.0\ZeroToHeroTasks-Part-1.runtimeconfig.json
+C:\Users\stduser\Desktop\ZeroToHeroTasks-Part-1\ZeroToHeroTasks-Part-1\bin\Debug\net8.0\ZeroToHeroTasks-Part-1.dll
+C:\Users\stduser\Desktop\ZeroToHeroTasks-Part-1\ZeroToHeroTasks-Part-1\bin\Debug\net8.0\ZeroToHeroTasks-Part-1.pdb
+C:\Users\stduser\Desktop\ZeroToHeroTasks-Part-1\ZeroToHeroTasks-Part-1\obj\Debug\net8.0\ZeroToHeroTasks-Part-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stduser\Desktop\ZeroToHeroTasks-Part-1\ZeroToHeroTasks-Part-1\obj\Debug\net8.0\ZeroToHeroTasks-Part-1.AssemblyInfoInputs.cache
+C:\Users\stduser\Desktop\ZeroToHeroTasks-Part-1\ZeroToHeroTasks-Part-1\obj\Debug\net8.0\ZeroToHeroTasks-Part-1.AssemblyInfo.cs
+C:\Users\stduser\Desktop\ZeroToHeroTasks-Part-1\ZeroToHeroTasks-Part-1\obj\Debug\net8.0\ZeroToHeroTasks-Part-1.csproj.CoreCompileInputs.cache
+C:\Users\stduser\Desktop\ZeroToHeroTasks-Part-1\ZeroToHeroTasks-Part-1\obj\Debug\net8.0\ZeroToHeroTasks-Part-1.dll
+C:\Users\stduser\Desktop\ZeroToHeroTasks-Part-1\ZeroToHeroTasks-Part-1\obj\Debug\net8.0\refint\ZeroToHeroTasks-Part-1.dll
+C:\Users\stduser\Desktop\ZeroToHeroTasks-Part-1\ZeroToHeroTasks-Part-1\obj\Debug\net8.0\ZeroToHeroTasks-Part-1.pdb
+C:\Users\stduser\Desktop\ZeroToHeroTasks-Part-1\ZeroToHeroTasks-Part-1\obj\Debug\net8.0\ZeroToHeroTasks-Part-1.genruntimeconfig.cache
+C:\Users\stduser\Desktop\ZeroToHeroTasks-Part-1\ZeroToHeroTasks-Part-1\obj\Debug\net8.0\ref\ZeroToHeroTasks-Part-1.dll

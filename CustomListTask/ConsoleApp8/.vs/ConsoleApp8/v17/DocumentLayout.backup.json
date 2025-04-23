@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\II Novbe\\source\\repos\\ConsoleApp8\\",
+  "WorkspaceRootPath": "C:\\Users\\II Novbe\\Desktop\\ConsoleApp8\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E4C25C72-5EB3-473B-B044-D9A192D89244}|ConsoleApp8\\ConsoleApp8.csproj|c:\\users\\ii novbe\\source\\repos\\consoleapp8\\consoleapp8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E4C25C72-5EB3-473B-B044-D9A192D89244}|ConsoleApp8\\ConsoleApp8.csproj|c:\\users\\ii novbe\\desktop\\consoleapp8\\consoleapp8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4C25C72-5EB3-473B-B044-D9A192D89244}|ConsoleApp8\\ConsoleApp8.csproj|solutionrelative:consoleapp8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4C25C72-5EB3-473B-B044-D9A192D89244}|ConsoleApp8\\ConsoleApp8.csproj|c:\\users\\ii novbe\\source\\repos\\consoleapp8\\consoleapp8\\customlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E4C25C72-5EB3-473B-B044-D9A192D89244}|ConsoleApp8\\ConsoleApp8.csproj|c:\\users\\ii novbe\\desktop\\consoleapp8\\consoleapp8\\customlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4C25C72-5EB3-473B-B044-D9A192D89244}|ConsoleApp8\\ConsoleApp8.csproj|solutionrelative:consoleapp8\\customlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ConsoleApp8\\ConsoleApp8\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\ConsoleApp8\\ConsoleApp8\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp8\\Program.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ConsoleApp8\\ConsoleApp8\\Program.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\ConsoleApp8\\ConsoleApp8\\Program.cs",
               "RelativeToolTip": "ConsoleApp8\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -37,14 +37,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "CustomList.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ConsoleApp8\\ConsoleApp8\\CustomList.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\ConsoleApp8\\ConsoleApp8\\CustomList.cs",
               "RelativeDocumentMoniker": "ConsoleApp8\\CustomList.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ConsoleApp8\\ConsoleApp8\\CustomList.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\ConsoleApp8\\ConsoleApp8\\CustomList.cs",
               "RelativeToolTip": "ConsoleApp8\\CustomList.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAuwDwAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T13:39:19.337Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-23T13:39:19.337Z"
             }
           ]
         }

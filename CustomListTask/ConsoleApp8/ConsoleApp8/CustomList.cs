@@ -60,11 +60,9 @@ class CustomList<T> : IEnumerable<T>
 
     public int Count() { return _array.Length; }
 
-    public delegate bool Check(T obj);
-
-    public T? Find(Predicate<T> match)
+    public T? Find(Predicate<T> pre)
     {
-        if (match is null)
+        if (pre is null)
         {
             throw new NullReferenceException("Parameter cannot be null");
         }
@@ -72,13 +70,12 @@ class CustomList<T> : IEnumerable<T>
         for (int i = 0; i < _array.Length; i++)
         {
 
-            if (match(_array[i]))
+            if (pre(_array[i]))
             {
                 return _array[i];
             }
 
         }
-
         return default;
     }
 

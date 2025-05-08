@@ -1,0 +1,230 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stduser\\source\\repos\\WebAppTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C64ACF34-DF86-4CAD-AA80-0ED865FCD764}|WebAppTask\\WebAppTask.csproj|c:\\users\\stduser\\source\\repos\\webapptask\\webapptask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C64ACF34-DF86-4CAD-AA80-0ED865FCD764}|WebAppTask\\WebAppTask.csproj|solutionrelative:webapptask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64ACF34-DF86-4CAD-AA80-0ED865FCD764}|WebAppTask\\WebAppTask.csproj|c:\\users\\stduser\\source\\repos\\webapptask\\webapptask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C64ACF34-DF86-4CAD-AA80-0ED865FCD764}|WebAppTask\\WebAppTask.csproj|solutionrelative:webapptask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64ACF34-DF86-4CAD-AA80-0ED865FCD764}|WebAppTask\\WebAppTask.csproj|c:\\users\\stduser\\source\\repos\\webapptask\\webapptask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C64ACF34-DF86-4CAD-AA80-0ED865FCD764}|WebAppTask\\WebAppTask.csproj|solutionrelative:webapptask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64ACF34-DF86-4CAD-AA80-0ED865FCD764}|WebAppTask\\WebAppTask.csproj|c:\\users\\stduser\\source\\repos\\webapptask\\webapptask\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C64ACF34-DF86-4CAD-AA80-0ED865FCD764}|WebAppTask\\WebAppTask.csproj|solutionrelative:webapptask\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64ACF34-DF86-4CAD-AA80-0ED865FCD764}|WebAppTask\\WebAppTask.csproj|c:\\users\\stduser\\source\\repos\\webapptask\\webapptask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C64ACF34-DF86-4CAD-AA80-0ED865FCD764}|WebAppTask\\WebAppTask.csproj|solutionrelative:webapptask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64ACF34-DF86-4CAD-AA80-0ED865FCD764}|WebAppTask\\WebAppTask.csproj|c:\\users\\stduser\\source\\repos\\webapptask\\webapptask\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C64ACF34-DF86-4CAD-AA80-0ED865FCD764}|WebAppTask\\WebAppTask.csproj|solutionrelative:webapptask\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64ACF34-DF86-4CAD-AA80-0ED865FCD764}|WebAppTask\\WebAppTask.csproj|c:\\users\\stduser\\source\\repos\\webapptask\\webapptask\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C64ACF34-DF86-4CAD-AA80-0ED865FCD764}|WebAppTask\\WebAppTask.csproj|solutionrelative:webapptask\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64ACF34-DF86-4CAD-AA80-0ED865FCD764}|WebAppTask\\WebAppTask.csproj|c:\\users\\stduser\\source\\repos\\webapptask\\webapptask\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C64ACF34-DF86-4CAD-AA80-0ED865FCD764}|WebAppTask\\WebAppTask.csproj|solutionrelative:webapptask\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64ACF34-DF86-4CAD-AA80-0ED865FCD764}|WebAppTask\\WebAppTask.csproj|c:\\users\\stduser\\source\\repos\\webapptask\\webapptask\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C64ACF34-DF86-4CAD-AA80-0ED865FCD764}|WebAppTask\\WebAppTask.csproj|solutionrelative:webapptask\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64ACF34-DF86-4CAD-AA80-0ED865FCD764}|WebAppTask\\WebAppTask.csproj|c:\\users\\stduser\\source\\repos\\webapptask\\webapptask\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C64ACF34-DF86-4CAD-AA80-0ED865FCD764}|WebAppTask\\WebAppTask.csproj|solutionrelative:webapptask\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64ACF34-DF86-4CAD-AA80-0ED865FCD764}|WebAppTask\\WebAppTask.csproj|c:\\users\\stduser\\source\\repos\\webapptask\\webapptask\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C64ACF34-DF86-4CAD-AA80-0ED865FCD764}|WebAppTask\\WebAppTask.csproj|solutionrelative:webapptask\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64ACF34-DF86-4CAD-AA80-0ED865FCD764}|WebAppTask\\WebAppTask.csproj|c:\\users\\stduser\\source\\repos\\webapptask\\webapptask\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C64ACF34-DF86-4CAD-AA80-0ED865FCD764}|WebAppTask\\WebAppTask.csproj|solutionrelative:webapptask\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64ACF34-DF86-4CAD-AA80-0ED865FCD764}|WebAppTask\\WebAppTask.csproj|c:\\users\\stduser\\source\\repos\\webapptask\\webapptask\\migrations\\20250508182155_newprop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C64ACF34-DF86-4CAD-AA80-0ED865FCD764}|WebAppTask\\WebAppTask.csproj|solutionrelative:webapptask\\migrations\\20250508182155_newprop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\stduser\\source\\repos\\WebAppTask\\WebAppTask\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebAppTask\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\stduser\\source\\repos\\WebAppTask\\WebAppTask\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebAppTask\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAE0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T18:15:58.116Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\stduser\\source\\repos\\WebAppTask\\WebAppTask\\Program.cs",
+              "RelativeDocumentMoniker": "WebAppTask\\Program.cs",
+              "ToolTip": "C:\\Users\\stduser\\source\\repos\\WebAppTask\\WebAppTask\\Program.cs",
+              "RelativeToolTip": "WebAppTask\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T18:35:57.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\stduser\\source\\repos\\WebAppTask\\WebAppTask\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeDocumentMoniker": "WebAppTask\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ToolTip": "C:\\Users\\stduser\\source\\repos\\WebAppTask\\WebAppTask\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeToolTip": "WebAppTask\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAAKIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T18:29:33.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\stduser\\source\\repos\\WebAppTask\\WebAppTask\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebAppTask\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\stduser\\source\\repos\\WebAppTask\\WebAppTask\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "WebAppTask\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAAAKcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T18:29:00.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\stduser\\source\\repos\\WebAppTask\\WebAppTask\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebAppTask\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\stduser\\source\\repos\\WebAppTask\\WebAppTask\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "WebAppTask\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAALcAAAAAAAAAAAAAAL0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T18:27:59.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\stduser\\source\\repos\\WebAppTask\\WebAppTask\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebAppTask\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\stduser\\source\\repos\\WebAppTask\\WebAppTask\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebAppTask\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T18:24:28.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\stduser\\source\\repos\\WebAppTask\\WebAppTask\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebAppTask\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\stduser\\source\\repos\\WebAppTask\\WebAppTask\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebAppTask\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T18:22:46.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\stduser\\source\\repos\\WebAppTask\\WebAppTask\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebAppTask\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\stduser\\source\\repos\\WebAppTask\\WebAppTask\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebAppTask\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T18:13:21.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\stduser\\source\\repos\\WebAppTask\\WebAppTask\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebAppTask\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\stduser\\source\\repos\\WebAppTask\\WebAppTask\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebAppTask\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAGcBAAAAAAAAAADwv4sBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T18:33:35.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250508182155_NewProp.cs",
+              "DocumentMoniker": "C:\\Users\\stduser\\source\\repos\\WebAppTask\\WebAppTask\\Migrations\\20250508182155_NewProp.cs",
+              "RelativeDocumentMoniker": "WebAppTask\\Migrations\\20250508182155_NewProp.cs",
+              "ToolTip": "C:\\Users\\stduser\\source\\repos\\WebAppTask\\WebAppTask\\Migrations\\20250508182155_NewProp.cs",
+              "RelativeToolTip": "WebAppTask\\Migrations\\20250508182155_NewProp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T18:21:56.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\stduser\\source\\repos\\WebAppTask\\WebAppTask\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "WebAppTask\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\stduser\\source\\repos\\WebAppTask\\WebAppTask\\Models\\Product.cs",
+              "RelativeToolTip": "WebAppTask\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T18:21:08.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\stduser\\source\\repos\\WebAppTask\\WebAppTask\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "WebAppTask\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\stduser\\source\\repos\\WebAppTask\\WebAppTask\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "WebAppTask\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T18:14:29.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\stduser\\source\\repos\\WebAppTask\\WebAppTask\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebAppTask\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\stduser\\source\\repos\\WebAppTask\\WebAppTask\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebAppTask\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T18:14:23.952Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

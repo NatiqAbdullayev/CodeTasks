@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QXfb2XfOE5Q=",
+  "dgSpecHash": "loJPr5vv6uI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.DAL\\FashionMVC.DAL.csproj",
+  "projectFilePath": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.DAL\\FashionMVC.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\II Novbe\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\II Novbe\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

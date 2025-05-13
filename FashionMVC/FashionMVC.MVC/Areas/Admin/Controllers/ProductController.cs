@@ -29,4 +29,17 @@ public class ProductController : Controller
         _productService.Create(carVM);
         return RedirectToAction(nameof(Index));
     }
+
+    [HttpGet]
+    public IActionResult Delete(int id) { return View(); }
+
+    [HttpPost]
+    [ActionName("Delete")]
+    public IActionResult DeleteProduct(int id) { return View(); }
+
+    [HttpGet]
+    public IActionResult Update(int id) { return View(); }
+
+    [HttpPost]
+    public IActionResult Update(int id,Object a) { return View(); }
 }

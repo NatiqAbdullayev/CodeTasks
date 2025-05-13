@@ -23,19 +23,20 @@ public class ProductService : IProductService
         {
             throw new ProductException("Product cannot be null");
         }
-
+        //Mapping
         Product p = new Product();
         p.Price = productVM.Price;
         p.Description = productVM.Description;
         p.Name = productVM.Name;
 
-
+        //File
         string fileName = Path.GetFileNameWithoutExtension(productVM.ImageFile.FileName);
         string extension = Path.GetExtension(productVM.ImageFile.FileName);
         string resultName = fileName + "-" + Guid.NewGuid().ToString() + extension;
         p.ImageName = resultName;
 
-        string path = "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\UplodedImages";
+        //Save
+        string path = "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\UplodedImages";
 
         path = Path.Combine(path,resultName);
 

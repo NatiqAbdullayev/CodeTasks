@@ -73,7 +73,12 @@
                                 <td>@item.Name</td>
                                 <td>@item.Description</td>
                                 <td>$ @item.Price</td>
-                                <td></td>
+                                <td>
+                                    <a asp-area="Admin" asp-controller="Product" asp-action="Update" asp-route-id="@item.Id" type="button" class="btn btn-warning">Update</a>
+                                </td>
+                                <td>
+                                    <button asp-area="Admin" asp-controller="Product" asp-action="Delete" asp-route-id="@item.Id" type="button" class="btn btn-warning">Delete</button>
+                                </td>
                             </tr>
                         }
 

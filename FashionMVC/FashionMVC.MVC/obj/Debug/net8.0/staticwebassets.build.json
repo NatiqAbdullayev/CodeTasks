@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "eXQjWSzhWQYgc/JkgHchoRz5etd6lsOw8IA6Etiyty0=",
+  "Hash": "rHQKb3mIHlDIm9zddfNWj6z2NoSLYJ2BKaLGGXe09lI=",
   "Source": "FashionMVC.MVC",
   "BasePath": "_content/FashionMVC.MVC",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "FashionMVC.MVC\\wwwroot",
       "Source": "FashionMVC.MVC",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
       "BasePath": "_content/FashionMVC.MVC",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\Admin\\assets\\css\\styles.css",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\Admin\\assets\\css\\styles.css",
       "SourceId": "FashionMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
       "BasePath": "_content/FashionMVC.MVC",
       "RelativePath": "Admin/assets/css/styles#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -38,10 +38,10 @@
       "OriginalItemSpec": "wwwroot\\Admin\\assets\\css\\styles.css"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\Admin\\assets\\demo\\chart-area-demo.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\Admin\\assets\\demo\\chart-area-demo.js",
       "SourceId": "FashionMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
       "BasePath": "_content/FashionMVC.MVC",
       "RelativePath": "Admin/assets/demo/chart-area-demo#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -59,10 +59,10 @@
       "OriginalItemSpec": "wwwroot\\Admin\\assets\\demo\\chart-area-demo.js"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\Admin\\assets\\demo\\chart-bar-demo.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\Admin\\assets\\demo\\chart-bar-demo.js",
       "SourceId": "FashionMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
       "BasePath": "_content/FashionMVC.MVC",
       "RelativePath": "Admin/assets/demo/chart-bar-demo#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\Admin\\assets\\demo\\chart-bar-demo.js"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\Admin\\assets\\demo\\chart-pie-demo.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\Admin\\assets\\demo\\chart-pie-demo.js",
       "SourceId": "FashionMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
       "BasePath": "_content/FashionMVC.MVC",
       "RelativePath": "Admin/assets/demo/chart-pie-demo#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\Admin\\assets\\demo\\chart-pie-demo.js"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\Admin\\assets\\demo\\datatables-demo.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\Admin\\assets\\demo\\datatables-demo.js",
       "SourceId": "FashionMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
       "BasePath": "_content/FashionMVC.MVC",
       "RelativePath": "Admin/assets/demo/datatables-demo#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\Admin\\assets\\demo\\datatables-demo.js"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\Admin\\assets\\img\\error-404-monochrome.svg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\Admin\\assets\\img\\error-404-monochrome.svg",
       "SourceId": "FashionMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
       "BasePath": "_content/FashionMVC.MVC",
       "RelativePath": "Admin/assets/img/error-404-monochrome#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\Admin\\assets\\img\\error-404-monochrome.svg"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\Admin\\assets\\js\\datatables-simple-demo.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\Admin\\assets\\js\\datatables-simple-demo.js",
       "SourceId": "FashionMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
       "BasePath": "_content/FashionMVC.MVC",
       "RelativePath": "Admin/assets/js/datatables-simple-demo#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -164,10 +164,10 @@
       "OriginalItemSpec": "wwwroot\\Admin\\assets\\js\\datatables-simple-demo.js"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\Admin\\assets\\js\\scripts.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\Admin\\assets\\js\\scripts.js",
       "SourceId": "FashionMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
       "BasePath": "_content/FashionMVC.MVC",
       "RelativePath": "Admin/assets/js/scripts#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -185,10 +185,10 @@
       "OriginalItemSpec": "wwwroot\\Admin\\assets\\js\\scripts.js"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\css\\bootstrap.min.css",
       "SourceId": "FashionMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
       "BasePath": "_content/FashionMVC.MVC",
       "RelativePath": "assets/css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -206,10 +206,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\css\\bootstrap-icons.css",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\css\\bootstrap-icons.css",
       "SourceId": "FashionMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
       "BasePath": "_content/FashionMVC.MVC",
       "RelativePath": "assets/css/bootstrap-icons#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -227,10 +227,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\bootstrap-icons.css"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\css\\slick.css",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\css\\slick.css",
       "SourceId": "FashionMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
       "BasePath": "_content/FashionMVC.MVC",
       "RelativePath": "assets/css/slick#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -248,10 +248,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\slick.css"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\css\\tooplate-little-fashion.css",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\css\\tooplate-little-fashion.css",
       "SourceId": "FashionMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
       "BasePath": "_content/FashionMVC.MVC",
       "RelativePath": "assets/css/tooplate-little-fashion#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -269,10 +269,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\tooplate-little-fashion.css"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\fonts\\bootstrap-icons.woff",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\fonts\\bootstrap-icons.woff",
       "SourceId": "FashionMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
       "BasePath": "_content/FashionMVC.MVC",
       "RelativePath": "assets/fonts/bootstrap-icons#[.{fingerprint}]?.woff",
       "AssetKind": "All",
@@ -290,10 +290,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\bootstrap-icons.woff"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\fonts\\bootstrap-icons.woff2",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\fonts\\bootstrap-icons.woff2",
       "SourceId": "FashionMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
       "BasePath": "_content/FashionMVC.MVC",
       "RelativePath": "assets/fonts/bootstrap-icons#[.{fingerprint}]?.woff2",
       "AssetKind": "All",
@@ -311,10 +311,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\bootstrap-icons.woff2"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\cody-lannom-G95AReIh_Ko-unsplash.jpeg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\cody-lannom-G95AReIh_Ko-unsplash.jpeg",
       "SourceId": "FashionMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
       "BasePath": "_content/FashionMVC.MVC",
       "RelativePath": "assets/images/cody-lannom-G95AReIh_Ko-unsplash#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
@@ -332,10 +332,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\cody-lannom-G95AReIh_Ko-unsplash.jpeg"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\header\\businesspeople-meeting-office-working.jpg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\header\\businesspeople-meeting-office-working.jpg",
       "SourceId": "FashionMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
       "BasePath": "_content/FashionMVC.MVC",
       "RelativePath": "assets/images/header/businesspeople-meeting-office-working#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -353,10 +353,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\header\\businesspeople-meeting-office-working.jpg"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\header\\positive-european-woman-has-break-after-work.jpg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\header\\positive-european-woman-has-break-after-work.jpg",
       "SourceId": "FashionMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
       "BasePath": "_content/FashionMVC.MVC",
       "RelativePath": "assets/images/header/positive-european-woman-has-break-after-work#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\header\\positive-european-woman-has-break-after-work.jpg"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\people\\beautiful-woman-face-portrait-brown-background.jpeg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\people\\beautiful-woman-face-portrait-brown-background.jpeg",
       "SourceId": "FashionMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
       "BasePath": "_content/FashionMVC.MVC",
       "RelativePath": "assets/images/people/beautiful-woman-face-portrait-brown-background#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
@@ -395,10 +395,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\people\\beautiful-woman-face-portrait-brown-background.jpeg"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\people\\portrait-british-woman.jpeg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\people\\portrait-british-woman.jpeg",
       "SourceId": "FashionMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
       "BasePath": "_content/FashionMVC.MVC",
       "RelativePath": "assets/images/people/portrait-british-woman#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\people\\portrait-british-woman.jpeg"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\people\\senior-man-wearing-white-face-mask-covid-19-campaign-with-design-space.jpeg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\people\\senior-man-wearing-white-face-mask-covid-19-campaign-with-design-space.jpeg",
       "SourceId": "FashionMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
       "BasePath": "_content/FashionMVC.MVC",
       "RelativePath": "assets/images/people/senior-man-wearing-white-face-mask-covid-19-campaign-with-design-space#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
@@ -437,10 +437,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\people\\senior-man-wearing-white-face-mask-covid-19-campaign-with-design-space.jpeg"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\people\\woman-wearing-mask-face-closeup-covid-19-green-background.jpeg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\people\\woman-wearing-mask-face-closeup-covid-19-green-background.jpeg",
       "SourceId": "FashionMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
       "BasePath": "_content/FashionMVC.MVC",
       "RelativePath": "assets/images/people/woman-wearing-mask-face-closeup-covid-19-green-background#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
@@ -458,10 +458,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\people\\woman-wearing-mask-face-closeup-covid-19-green-background.jpeg"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\pim-chu-z6NZ76_UTDI-unsplash.jpeg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\pim-chu-z6NZ76_UTDI-unsplash.jpeg",
       "SourceId": "FashionMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
       "BasePath": "_content/FashionMVC.MVC",
       "RelativePath": "assets/images/pim-chu-z6NZ76_UTDI-unsplash#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
@@ -479,10 +479,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\pim-chu-z6NZ76_UTDI-unsplash.jpeg"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\product\\anis-m-WnVrO-DvxcE-unsplash.jpeg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\product\\anis-m-WnVrO-DvxcE-unsplash.jpeg",
       "SourceId": "FashionMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
       "BasePath": "_content/FashionMVC.MVC",
       "RelativePath": "assets/images/product/anis-m-WnVrO-DvxcE-unsplash#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
@@ -500,10 +500,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\product\\anis-m-WnVrO-DvxcE-unsplash.jpeg"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\product\\evan-mcdougall-qnh1odlqOmk-unsplash.jpeg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\product\\evan-mcdougall-qnh1odlqOmk-unsplash.jpeg",
       "SourceId": "FashionMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
       "BasePath": "_content/FashionMVC.MVC",
       "RelativePath": "assets/images/product/evan-mcdougall-qnh1odlqOmk-unsplash#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
@@ -521,10 +521,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\product\\evan-mcdougall-qnh1odlqOmk-unsplash.jpeg"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\product\\jordan-nix-CkCUvwMXAac-unsplash.jpeg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\product\\jordan-nix-CkCUvwMXAac-unsplash.jpeg",
       "SourceId": "FashionMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
       "BasePath": "_content/FashionMVC.MVC",
       "RelativePath": "assets/images/product/jordan-nix-CkCUvwMXAac-unsplash#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
@@ -542,10 +542,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\product\\jordan-nix-CkCUvwMXAac-unsplash.jpeg"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\product\\nature-zen-3Dn1BZZv3m8-unsplash.jpeg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\product\\nature-zen-3Dn1BZZv3m8-unsplash.jpeg",
       "SourceId": "FashionMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
       "BasePath": "_content/FashionMVC.MVC",
       "RelativePath": "assets/images/product/nature-zen-3Dn1BZZv3m8-unsplash#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
@@ -563,10 +563,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\product\\nature-zen-3Dn1BZZv3m8-unsplash.jpeg"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\product\\quokkabottles-kFc1_G1GvKA-unsplash.jpeg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\product\\quokkabottles-kFc1_G1GvKA-unsplash.jpeg",
       "SourceId": "FashionMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
       "BasePath": "_content/FashionMVC.MVC",
       "RelativePath": "assets/images/product/quokkabottles-kFc1_G1GvKA-unsplash#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
@@ -584,10 +584,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\product\\quokkabottles-kFc1_G1GvKA-unsplash.jpeg"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\product\\team-fredi-8HRKoay8VJE-unsplash.jpeg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\product\\team-fredi-8HRKoay8VJE-unsplash.jpeg",
       "SourceId": "FashionMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
       "BasePath": "_content/FashionMVC.MVC",
       "RelativePath": "assets/images/product/team-fredi-8HRKoay8VJE-unsplash#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
@@ -605,10 +605,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\product\\team-fredi-8HRKoay8VJE-unsplash.jpeg"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\retail-shop-owner-mask-social-distancing-shopping.jpg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\retail-shop-owner-mask-social-distancing-shopping.jpg",
       "SourceId": "FashionMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
       "BasePath": "_content/FashionMVC.MVC",
       "RelativePath": "assets/images/retail-shop-owner-mask-social-distancing-shopping#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -626,10 +626,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\retail-shop-owner-mask-social-distancing-shopping.jpg"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\servicescape-incorporated-_48JSlVLX6g-unsplash.jpeg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\servicescape-incorporated-_48JSlVLX6g-unsplash.jpeg",
       "SourceId": "FashionMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
       "BasePath": "_content/FashionMVC.MVC",
       "RelativePath": "assets/images/servicescape-incorporated-_48JSlVLX6g-unsplash#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
@@ -647,10 +647,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\servicescape-incorporated-_48JSlVLX6g-unsplash.jpeg"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\slideshow\\medium-shot-business-women-high-five.jpeg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\slideshow\\medium-shot-business-women-high-five.jpeg",
       "SourceId": "FashionMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
       "BasePath": "_content/FashionMVC.MVC",
       "RelativePath": "assets/images/slideshow/medium-shot-business-women-high-five#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
@@ -668,10 +668,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\slideshow\\medium-shot-business-women-high-five.jpeg"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\slideshow\\team-meeting-renewable-energy-project.jpeg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\slideshow\\team-meeting-renewable-energy-project.jpeg",
       "SourceId": "FashionMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
       "BasePath": "_content/FashionMVC.MVC",
       "RelativePath": "assets/images/slideshow/team-meeting-renewable-energy-project#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
@@ -689,10 +689,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\slideshow\\team-meeting-renewable-energy-project.jpeg"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\slideshow\\two-business-partners-working-together-office-computer.jpeg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\slideshow\\two-business-partners-working-together-office-computer.jpeg",
       "SourceId": "FashionMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
       "BasePath": "_content/FashionMVC.MVC",
       "RelativePath": "assets/images/slideshow/two-business-partners-working-together-office-computer#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
@@ -710,10 +710,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\slideshow\\two-business-partners-working-together-office-computer.jpeg"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
       "SourceId": "FashionMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
       "BasePath": "_content/FashionMVC.MVC",
       "RelativePath": "assets/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\js\\custom.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\js\\custom.js",
       "SourceId": "FashionMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
       "BasePath": "_content/FashionMVC.MVC",
       "RelativePath": "assets/js/custom#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -752,10 +752,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\custom.js"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\js\\Headroom.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\js\\Headroom.js",
       "SourceId": "FashionMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
       "BasePath": "_content/FashionMVC.MVC",
       "RelativePath": "assets/js/Headroom#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -773,10 +773,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\Headroom.js"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\js\\jQuery.headroom.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\js\\jQuery.headroom.js",
       "SourceId": "FashionMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
       "BasePath": "_content/FashionMVC.MVC",
       "RelativePath": "assets/js/jQuery.headroom#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -794,10 +794,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\jQuery.headroom.js"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\js\\jquery.min.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\js\\jquery.min.js",
       "SourceId": "FashionMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
       "BasePath": "_content/FashionMVC.MVC",
       "RelativePath": "assets/js/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\js\\slick.min.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\js\\slick.min.js",
       "SourceId": "FashionMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
       "BasePath": "_content/FashionMVC.MVC",
       "RelativePath": "assets/js/slick.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -836,10 +836,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\slick.min.js"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\UplodedImages\\download-80cca486-1d48-4c91-bf4f-4171a768456d.jfif",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\UplodedImages\\download-80cca486-1d48-4c91-bf4f-4171a768456d.jfif",
       "SourceId": "FashionMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
       "BasePath": "_content/FashionMVC.MVC",
       "RelativePath": "assets/UplodedImages/download-80cca486-1d48-4c91-bf4f-4171a768456d#[.{fingerprint}]?.jfif",
       "AssetKind": "All",
@@ -857,10 +857,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\UplodedImages\\download-80cca486-1d48-4c91-bf4f-4171a768456d.jfif"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\UplodedImages\\download-f2a4b946-845a-40e4-b960-dcd057282046.jfif",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\UplodedImages\\download-f2a4b946-845a-40e4-b960-dcd057282046.jfif",
       "SourceId": "FashionMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\",
       "BasePath": "_content/FashionMVC.MVC",
       "RelativePath": "assets/UplodedImages/download-f2a4b946-845a-40e4-b960-dcd057282046#[.{fingerprint}]?.jfif",
       "AssetKind": "All",
@@ -881,7 +881,7 @@
   "Endpoints": [
     {
       "Route": "Admin/assets/css/styles.css",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\Admin\\assets\\css\\styles.css",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\Admin\\assets\\css\\styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -918,7 +918,7 @@
     },
     {
       "Route": "Admin/assets/css/styles.mf45fbw2f4.css",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\Admin\\assets\\css\\styles.css",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\Admin\\assets\\css\\styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -963,7 +963,7 @@
     },
     {
       "Route": "Admin/assets/demo/chart-area-demo.8flq4k35dk.js",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\Admin\\assets\\demo\\chart-area-demo.js",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\Admin\\assets\\demo\\chart-area-demo.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1008,7 +1008,7 @@
     },
     {
       "Route": "Admin/assets/demo/chart-area-demo.js",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\Admin\\assets\\demo\\chart-area-demo.js",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\Admin\\assets\\demo\\chart-area-demo.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1045,7 +1045,7 @@
     },
     {
       "Route": "Admin/assets/demo/chart-bar-demo.js",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\Admin\\assets\\demo\\chart-bar-demo.js",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\Admin\\assets\\demo\\chart-bar-demo.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1082,7 +1082,7 @@
     },
     {
       "Route": "Admin/assets/demo/chart-bar-demo.qbt6h4ox5y.js",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\Admin\\assets\\demo\\chart-bar-demo.js",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\Admin\\assets\\demo\\chart-bar-demo.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1127,7 +1127,7 @@
     },
     {
       "Route": "Admin/assets/demo/chart-pie-demo.hw7eaup9v4.js",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\Admin\\assets\\demo\\chart-pie-demo.js",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\Admin\\assets\\demo\\chart-pie-demo.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1172,7 +1172,7 @@
     },
     {
       "Route": "Admin/assets/demo/chart-pie-demo.js",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\Admin\\assets\\demo\\chart-pie-demo.js",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\Admin\\assets\\demo\\chart-pie-demo.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1209,7 +1209,7 @@
     },
     {
       "Route": "Admin/assets/demo/datatables-demo.js",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\Admin\\assets\\demo\\datatables-demo.js",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\Admin\\assets\\demo\\datatables-demo.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1246,7 +1246,7 @@
     },
     {
       "Route": "Admin/assets/demo/datatables-demo.w9gruc5uo1.js",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\Admin\\assets\\demo\\datatables-demo.js",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\Admin\\assets\\demo\\datatables-demo.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1291,7 +1291,7 @@
     },
     {
       "Route": "Admin/assets/img/error-404-monochrome.svg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\Admin\\assets\\img\\error-404-monochrome.svg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\Admin\\assets\\img\\error-404-monochrome.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1328,7 +1328,7 @@
     },
     {
       "Route": "Admin/assets/img/error-404-monochrome.yp87i3fbss.svg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\Admin\\assets\\img\\error-404-monochrome.svg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\Admin\\assets\\img\\error-404-monochrome.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1373,7 +1373,7 @@
     },
     {
       "Route": "Admin/assets/js/datatables-simple-demo.js",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\Admin\\assets\\js\\datatables-simple-demo.js",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\Admin\\assets\\js\\datatables-simple-demo.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1410,7 +1410,7 @@
     },
     {
       "Route": "Admin/assets/js/datatables-simple-demo.xnqwbb6zwd.js",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\Admin\\assets\\js\\datatables-simple-demo.js",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\Admin\\assets\\js\\datatables-simple-demo.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1455,7 +1455,7 @@
     },
     {
       "Route": "Admin/assets/js/scripts.dqle62frat.js",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\Admin\\assets\\js\\scripts.js",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\Admin\\assets\\js\\scripts.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1500,7 +1500,7 @@
     },
     {
       "Route": "Admin/assets/js/scripts.js",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\Admin\\assets\\js\\scripts.js",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\Admin\\assets\\js\\scripts.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1537,7 +1537,7 @@
     },
     {
       "Route": "assets/css/bootstrap.min.81dme5qsp1.css",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1582,7 +1582,7 @@
     },
     {
       "Route": "assets/css/bootstrap.min.css",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1619,7 +1619,7 @@
     },
     {
       "Route": "assets/css/bootstrap-icons.5lqd4to48i.css",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\css\\bootstrap-icons.css",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\css\\bootstrap-icons.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1664,7 +1664,7 @@
     },
     {
       "Route": "assets/css/bootstrap-icons.css",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\css\\bootstrap-icons.css",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\css\\bootstrap-icons.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1701,7 +1701,7 @@
     },
     {
       "Route": "assets/css/slick.css",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\css\\slick.css",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\css\\slick.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1738,7 +1738,7 @@
     },
     {
       "Route": "assets/css/slick.mmzakapvcy.css",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\css\\slick.css",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\css\\slick.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1783,7 +1783,7 @@
     },
     {
       "Route": "assets/css/tooplate-little-fashion.css",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\css\\tooplate-little-fashion.css",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\css\\tooplate-little-fashion.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1820,7 +1820,7 @@
     },
     {
       "Route": "assets/css/tooplate-little-fashion.w3j4uy9itl.css",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\css\\tooplate-little-fashion.css",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\css\\tooplate-little-fashion.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1865,7 +1865,7 @@
     },
     {
       "Route": "assets/fonts/bootstrap-icons.1b328vrd37.woff",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\fonts\\bootstrap-icons.woff",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\fonts\\bootstrap-icons.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1910,7 +1910,7 @@
     },
     {
       "Route": "assets/fonts/bootstrap-icons.umcyo9ouu3.woff2",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\fonts\\bootstrap-icons.woff2",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\fonts\\bootstrap-icons.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1955,7 +1955,7 @@
     },
     {
       "Route": "assets/fonts/bootstrap-icons.woff",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\fonts\\bootstrap-icons.woff",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\fonts\\bootstrap-icons.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1992,7 +1992,7 @@
     },
     {
       "Route": "assets/fonts/bootstrap-icons.woff2",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\fonts\\bootstrap-icons.woff2",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\fonts\\bootstrap-icons.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2029,7 +2029,7 @@
     },
     {
       "Route": "assets/images/cody-lannom-G95AReIh_Ko-unsplash.jpeg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\cody-lannom-G95AReIh_Ko-unsplash.jpeg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\cody-lannom-G95AReIh_Ko-unsplash.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2066,7 +2066,7 @@
     },
     {
       "Route": "assets/images/cody-lannom-G95AReIh_Ko-unsplash.mo64r4vnjs.jpeg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\cody-lannom-G95AReIh_Ko-unsplash.jpeg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\cody-lannom-G95AReIh_Ko-unsplash.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2111,7 +2111,7 @@
     },
     {
       "Route": "assets/images/header/businesspeople-meeting-office-working.59pkx20wny.jpg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\header\\businesspeople-meeting-office-working.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\header\\businesspeople-meeting-office-working.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2156,7 +2156,7 @@
     },
     {
       "Route": "assets/images/header/businesspeople-meeting-office-working.jpg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\header\\businesspeople-meeting-office-working.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\header\\businesspeople-meeting-office-working.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2193,7 +2193,7 @@
     },
     {
       "Route": "assets/images/header/positive-european-woman-has-break-after-work.fn2v2ltpa8.jpg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\header\\positive-european-woman-has-break-after-work.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\header\\positive-european-woman-has-break-after-work.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2238,7 +2238,7 @@
     },
     {
       "Route": "assets/images/header/positive-european-woman-has-break-after-work.jpg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\header\\positive-european-woman-has-break-after-work.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\header\\positive-european-woman-has-break-after-work.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2275,7 +2275,7 @@
     },
     {
       "Route": "assets/images/people/beautiful-woman-face-portrait-brown-background.iwws3rqi65.jpeg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\people\\beautiful-woman-face-portrait-brown-background.jpeg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\people\\beautiful-woman-face-portrait-brown-background.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2320,7 +2320,7 @@
     },
     {
       "Route": "assets/images/people/beautiful-woman-face-portrait-brown-background.jpeg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\people\\beautiful-woman-face-portrait-brown-background.jpeg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\people\\beautiful-woman-face-portrait-brown-background.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2357,7 +2357,7 @@
     },
     {
       "Route": "assets/images/people/portrait-british-woman.jpeg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\people\\portrait-british-woman.jpeg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\people\\portrait-british-woman.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2394,7 +2394,7 @@
     },
     {
       "Route": "assets/images/people/portrait-british-woman.kbvqktsxv4.jpeg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\people\\portrait-british-woman.jpeg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\people\\portrait-british-woman.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2439,7 +2439,7 @@
     },
     {
       "Route": "assets/images/people/senior-man-wearing-white-face-mask-covid-19-campaign-with-design-space.6hxkccjbx4.jpeg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\people\\senior-man-wearing-white-face-mask-covid-19-campaign-with-design-space.jpeg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\people\\senior-man-wearing-white-face-mask-covid-19-campaign-with-design-space.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2484,7 +2484,7 @@
     },
     {
       "Route": "assets/images/people/senior-man-wearing-white-face-mask-covid-19-campaign-with-design-space.jpeg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\people\\senior-man-wearing-white-face-mask-covid-19-campaign-with-design-space.jpeg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\people\\senior-man-wearing-white-face-mask-covid-19-campaign-with-design-space.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2521,7 +2521,7 @@
     },
     {
       "Route": "assets/images/people/woman-wearing-mask-face-closeup-covid-19-green-background.7ureq322xt.jpeg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\people\\woman-wearing-mask-face-closeup-covid-19-green-background.jpeg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\people\\woman-wearing-mask-face-closeup-covid-19-green-background.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2566,7 +2566,7 @@
     },
     {
       "Route": "assets/images/people/woman-wearing-mask-face-closeup-covid-19-green-background.jpeg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\people\\woman-wearing-mask-face-closeup-covid-19-green-background.jpeg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\people\\woman-wearing-mask-face-closeup-covid-19-green-background.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2603,7 +2603,7 @@
     },
     {
       "Route": "assets/images/pim-chu-z6NZ76_UTDI-unsplash.jpeg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\pim-chu-z6NZ76_UTDI-unsplash.jpeg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\pim-chu-z6NZ76_UTDI-unsplash.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2640,7 +2640,7 @@
     },
     {
       "Route": "assets/images/pim-chu-z6NZ76_UTDI-unsplash.wmr8kwesfk.jpeg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\pim-chu-z6NZ76_UTDI-unsplash.jpeg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\pim-chu-z6NZ76_UTDI-unsplash.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2685,7 +2685,7 @@
     },
     {
       "Route": "assets/images/product/anis-m-WnVrO-DvxcE-unsplash.2z9mt0g2iu.jpeg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\product\\anis-m-WnVrO-DvxcE-unsplash.jpeg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\product\\anis-m-WnVrO-DvxcE-unsplash.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2730,7 +2730,7 @@
     },
     {
       "Route": "assets/images/product/anis-m-WnVrO-DvxcE-unsplash.jpeg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\product\\anis-m-WnVrO-DvxcE-unsplash.jpeg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\product\\anis-m-WnVrO-DvxcE-unsplash.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2767,7 +2767,7 @@
     },
     {
       "Route": "assets/images/product/evan-mcdougall-qnh1odlqOmk-unsplash.eafjoa8xld.jpeg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\product\\evan-mcdougall-qnh1odlqOmk-unsplash.jpeg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\product\\evan-mcdougall-qnh1odlqOmk-unsplash.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2812,7 +2812,7 @@
     },
     {
       "Route": "assets/images/product/evan-mcdougall-qnh1odlqOmk-unsplash.jpeg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\product\\evan-mcdougall-qnh1odlqOmk-unsplash.jpeg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\product\\evan-mcdougall-qnh1odlqOmk-unsplash.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2849,7 +2849,7 @@
     },
     {
       "Route": "assets/images/product/jordan-nix-CkCUvwMXAac-unsplash.j2jebdw1ir.jpeg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\product\\jordan-nix-CkCUvwMXAac-unsplash.jpeg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\product\\jordan-nix-CkCUvwMXAac-unsplash.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2894,7 +2894,7 @@
     },
     {
       "Route": "assets/images/product/jordan-nix-CkCUvwMXAac-unsplash.jpeg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\product\\jordan-nix-CkCUvwMXAac-unsplash.jpeg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\product\\jordan-nix-CkCUvwMXAac-unsplash.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2931,7 +2931,7 @@
     },
     {
       "Route": "assets/images/product/nature-zen-3Dn1BZZv3m8-unsplash.idoj3e44yn.jpeg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\product\\nature-zen-3Dn1BZZv3m8-unsplash.jpeg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\product\\nature-zen-3Dn1BZZv3m8-unsplash.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2976,7 +2976,7 @@
     },
     {
       "Route": "assets/images/product/nature-zen-3Dn1BZZv3m8-unsplash.jpeg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\product\\nature-zen-3Dn1BZZv3m8-unsplash.jpeg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\product\\nature-zen-3Dn1BZZv3m8-unsplash.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3013,7 +3013,7 @@
     },
     {
       "Route": "assets/images/product/quokkabottles-kFc1_G1GvKA-unsplash.jpeg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\product\\quokkabottles-kFc1_G1GvKA-unsplash.jpeg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\product\\quokkabottles-kFc1_G1GvKA-unsplash.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3050,7 +3050,7 @@
     },
     {
       "Route": "assets/images/product/quokkabottles-kFc1_G1GvKA-unsplash.v7dd1u6y32.jpeg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\product\\quokkabottles-kFc1_G1GvKA-unsplash.jpeg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\product\\quokkabottles-kFc1_G1GvKA-unsplash.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3095,7 +3095,7 @@
     },
     {
       "Route": "assets/images/product/team-fredi-8HRKoay8VJE-unsplash.b2nz5by9xm.jpeg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\product\\team-fredi-8HRKoay8VJE-unsplash.jpeg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\product\\team-fredi-8HRKoay8VJE-unsplash.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3140,7 +3140,7 @@
     },
     {
       "Route": "assets/images/product/team-fredi-8HRKoay8VJE-unsplash.jpeg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\product\\team-fredi-8HRKoay8VJE-unsplash.jpeg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\product\\team-fredi-8HRKoay8VJE-unsplash.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3177,7 +3177,7 @@
     },
     {
       "Route": "assets/images/retail-shop-owner-mask-social-distancing-shopping.jpg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\retail-shop-owner-mask-social-distancing-shopping.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\retail-shop-owner-mask-social-distancing-shopping.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3214,7 +3214,7 @@
     },
     {
       "Route": "assets/images/retail-shop-owner-mask-social-distancing-shopping.monvjre8is.jpg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\retail-shop-owner-mask-social-distancing-shopping.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\retail-shop-owner-mask-social-distancing-shopping.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3259,7 +3259,7 @@
     },
     {
       "Route": "assets/images/servicescape-incorporated-_48JSlVLX6g-unsplash.jpeg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\servicescape-incorporated-_48JSlVLX6g-unsplash.jpeg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\servicescape-incorporated-_48JSlVLX6g-unsplash.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3296,7 +3296,7 @@
     },
     {
       "Route": "assets/images/servicescape-incorporated-_48JSlVLX6g-unsplash.l21469tfj8.jpeg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\servicescape-incorporated-_48JSlVLX6g-unsplash.jpeg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\servicescape-incorporated-_48JSlVLX6g-unsplash.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3341,7 +3341,7 @@
     },
     {
       "Route": "assets/images/slideshow/medium-shot-business-women-high-five.jpeg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\slideshow\\medium-shot-business-women-high-five.jpeg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\slideshow\\medium-shot-business-women-high-five.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3378,7 +3378,7 @@
     },
     {
       "Route": "assets/images/slideshow/medium-shot-business-women-high-five.m1n757ci60.jpeg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\slideshow\\medium-shot-business-women-high-five.jpeg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\slideshow\\medium-shot-business-women-high-five.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3423,7 +3423,7 @@
     },
     {
       "Route": "assets/images/slideshow/team-meeting-renewable-energy-project.eq0r2qcb6z.jpeg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\slideshow\\team-meeting-renewable-energy-project.jpeg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\slideshow\\team-meeting-renewable-energy-project.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3468,7 +3468,7 @@
     },
     {
       "Route": "assets/images/slideshow/team-meeting-renewable-energy-project.jpeg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\slideshow\\team-meeting-renewable-energy-project.jpeg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\slideshow\\team-meeting-renewable-energy-project.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3505,7 +3505,7 @@
     },
     {
       "Route": "assets/images/slideshow/two-business-partners-working-together-office-computer.7c1pd3isr1.jpeg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\slideshow\\two-business-partners-working-together-office-computer.jpeg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\slideshow\\two-business-partners-working-together-office-computer.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3550,7 +3550,7 @@
     },
     {
       "Route": "assets/images/slideshow/two-business-partners-working-together-office-computer.jpeg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\slideshow\\two-business-partners-working-together-office-computer.jpeg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\images\\slideshow\\two-business-partners-working-together-office-computer.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3587,7 +3587,7 @@
     },
     {
       "Route": "assets/js/bootstrap.bundle.min.js",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3624,7 +3624,7 @@
     },
     {
       "Route": "assets/js/bootstrap.bundle.min.ngft4x55fs.js",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3669,7 +3669,7 @@
     },
     {
       "Route": "assets/js/custom.3rv5y1ni2i.js",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\js\\custom.js",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\js\\custom.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3714,7 +3714,7 @@
     },
     {
       "Route": "assets/js/custom.js",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\js\\custom.js",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\js\\custom.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3751,7 +3751,7 @@
     },
     {
       "Route": "assets/js/Headroom.js",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\js\\Headroom.js",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\js\\Headroom.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3788,7 +3788,7 @@
     },
     {
       "Route": "assets/js/Headroom.ke085ir2u3.js",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\js\\Headroom.js",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\js\\Headroom.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3833,7 +3833,7 @@
     },
     {
       "Route": "assets/js/jQuery.headroom.0vzykrmdro.js",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\js\\jQuery.headroom.js",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\js\\jQuery.headroom.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3878,7 +3878,7 @@
     },
     {
       "Route": "assets/js/jQuery.headroom.js",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\js\\jQuery.headroom.js",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\js\\jQuery.headroom.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3915,7 +3915,7 @@
     },
     {
       "Route": "assets/js/jquery.min.js",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\js\\jquery.min.js",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\js\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3952,7 +3952,7 @@
     },
     {
       "Route": "assets/js/jquery.min.sc7v1wgpvn.js",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\js\\jquery.min.js",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\js\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3997,7 +3997,7 @@
     },
     {
       "Route": "assets/js/slick.min.8vxybdbzmv.js",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\js\\slick.min.js",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\js\\slick.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4042,7 +4042,7 @@
     },
     {
       "Route": "assets/js/slick.min.js",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\js\\slick.min.js",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\js\\slick.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4079,7 +4079,7 @@
     },
     {
       "Route": "assets/UplodedImages/download-80cca486-1d48-4c91-bf4f-4171a768456d.0k9sa4p6qs.jfif",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\UplodedImages\\download-80cca486-1d48-4c91-bf4f-4171a768456d.jfif",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\UplodedImages\\download-80cca486-1d48-4c91-bf4f-4171a768456d.jfif",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4124,7 +4124,7 @@
     },
     {
       "Route": "assets/UplodedImages/download-80cca486-1d48-4c91-bf4f-4171a768456d.jfif",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\UplodedImages\\download-80cca486-1d48-4c91-bf4f-4171a768456d.jfif",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\UplodedImages\\download-80cca486-1d48-4c91-bf4f-4171a768456d.jfif",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4161,7 +4161,7 @@
     },
     {
       "Route": "assets/UplodedImages/download-f2a4b946-845a-40e4-b960-dcd057282046.0k9sa4p6qs.jfif",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\UplodedImages\\download-f2a4b946-845a-40e4-b960-dcd057282046.jfif",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\UplodedImages\\download-f2a4b946-845a-40e4-b960-dcd057282046.jfif",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4206,7 +4206,7 @@
     },
     {
       "Route": "assets/UplodedImages/download-f2a4b946-845a-40e4-b960-dcd057282046.jfif",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\UplodedImages\\download-f2a4b946-845a-40e4-b960-dcd057282046.jfif",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\UplodedImages\\download-f2a4b946-845a-40e4-b960-dcd057282046.jfif",
       "Selectors": [],
       "ResponseHeaders": [
         {

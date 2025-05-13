@@ -1,1 +1,3 @@
 Yenilikler elave edildi.
+
+Yoxlanis zamani FileUpload hissesinde path yenilemeyi unutmuyun

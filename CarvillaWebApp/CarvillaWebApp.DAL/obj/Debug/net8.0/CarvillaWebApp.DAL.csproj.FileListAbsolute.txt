@@ -1,0 +1,14 @@
+C:\Users\stduser\source\repos\CarvillaWebApp\CarvillaWebApp.DAL\bin\Debug\net8.0\CarvillaWebApp.DAL.deps.json
+C:\Users\stduser\source\repos\CarvillaWebApp\CarvillaWebApp.DAL\bin\Debug\net8.0\CarvillaWebApp.DAL.dll
+C:\Users\stduser\source\repos\CarvillaWebApp\CarvillaWebApp.DAL\bin\Debug\net8.0\CarvillaWebApp.DAL.pdb
+C:\Users\stduser\source\repos\CarvillaWebApp\CarvillaWebApp.DAL\obj\Debug\net8.0\CarvillaWebApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stduser\source\repos\CarvillaWebApp\CarvillaWebApp.DAL\obj\Debug\net8.0\CarvillaWebApp.DAL.AssemblyInfoInputs.cache
+C:\Users\stduser\source\repos\CarvillaWebApp\CarvillaWebApp.DAL\obj\Debug\net8.0\CarvillaWebApp.DAL.AssemblyInfo.cs
+C:\Users\stduser\source\repos\CarvillaWebApp\CarvillaWebApp.DAL\obj\Debug\net8.0\CarvillaWebApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\stduser\source\repos\CarvillaWebApp\CarvillaWebApp.DAL\obj\Debug\net8.0\CarvillaWebApp.DAL.dll
+C:\Users\stduser\source\repos\CarvillaWebApp\CarvillaWebApp.DAL\obj\Debug\net8.0\refint\CarvillaWebApp.DAL.dll
+C:\Users\stduser\source\repos\CarvillaWebApp\CarvillaWebApp.DAL\obj\Debug\net8.0\CarvillaWebApp.DAL.pdb
+C:\Users\stduser\source\repos\CarvillaWebApp\CarvillaWebApp.DAL\obj\Debug\net8.0\ref\CarvillaWebApp.DAL.dll
+C:\Users\stduser\source\repos\CarvillaWebApp\CarvillaWebApp.DAL\bin\Debug\net8.0\CarvillaWebApp.DAL.runtimeconfig.json
+C:\Users\stduser\source\repos\CarvillaWebApp\CarvillaWebApp.DAL\obj\Debug\net8.0\CarvillaWebApp.DAL.csproj.AssemblyReference.cache
+C:\Users\stduser\source\repos\CarvillaWebApp\CarvillaWebApp.DAL\obj\Debug\net8.0\CarvillaWebApp.DAL.genruntimeconfig.cache

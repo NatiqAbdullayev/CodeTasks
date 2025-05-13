@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\stduser\\source\\repos\\WebAppTask\\WebAppTask\\WebAppTask.csproj": {}
+    "C:\\Users\\stduser\\Desktop\\CodeTasks\\MVC-Task-FrontToBack\\WebAppTask\\WebAppTask\\WebAppTask.csproj": {}
   },
   "projects": {
-    "C:\\Users\\stduser\\source\\repos\\WebAppTask\\WebAppTask\\WebAppTask.csproj": {
+    "C:\\Users\\stduser\\Desktop\\CodeTasks\\MVC-Task-FrontToBack\\WebAppTask\\WebAppTask\\WebAppTask.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\stduser\\source\\repos\\WebAppTask\\WebAppTask\\WebAppTask.csproj",
+        "projectUniqueName": "C:\\Users\\stduser\\Desktop\\CodeTasks\\MVC-Task-FrontToBack\\WebAppTask\\WebAppTask\\WebAppTask.csproj",
         "projectName": "WebAppTask",
-        "projectPath": "C:\\Users\\stduser\\source\\repos\\WebAppTask\\WebAppTask\\WebAppTask.csproj",
+        "projectPath": "C:\\Users\\stduser\\Desktop\\CodeTasks\\MVC-Task-FrontToBack\\WebAppTask\\WebAppTask\\WebAppTask.csproj",
         "packagesPath": "C:\\Users\\stduser\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\stduser\\source\\repos\\WebAppTask\\WebAppTask\\obj\\",
+        "outputPath": "C:\\Users\\stduser\\Desktop\\CodeTasks\\MVC-Task-FrontToBack\\WebAppTask\\WebAppTask\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,33 @@
+﻿@model List<Car>
+
+@* <div class="featured-cars-content"> *@
+
+
+@* 	<div class="row"> *@
+
+		@foreach (var item in Model)
+		{
+			<div class="col-lg-3 col-md-4 col-sm-6">
+				<div class="single-featured-cars">
+					<div class="featured-img-box">
+						<div class="featured-cars-img">
+							<img src="~/assets/UploadedImages/@item.ImageName" alt="cars">
+						</div>
+						<div class="featured-model-info">
+							<p>
+								model: @item.ModelYear
+								<span class="featured-mi-span"> 3100 mi</span>
+								<span class="featured-hp-span"> @item.EnginePower</span>
+								Transmission Type : @item.TransmissionType
+							</p>
+						</div>
+					</div>
+					<div class="featured-cars-txt">
+						<h2><a href="#">@item.FullName</a></h2>
+						<h3>$ @item.Price</h3>
+						<p>@item.CarDescription</p>
+						
+					</div>
+				</div>
+			</div>
+		}

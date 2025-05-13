@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stduser\\source\\repos\\CarvillaWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC8DD5E-E88E-4777-ABA9-35486119FA9F}|CarvillaWebApp.MVC\\CarvillaWebApp.MVC.csproj|c:\\users\\stduser\\source\\repos\\carvillawebapp\\carvillawebapp.mvc\\areas\\admin\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC8DD5E-E88E-4777-ABA9-35486119FA9F}|CarvillaWebApp.MVC\\CarvillaWebApp.MVC.csproj|solutionrelative:carvillawebapp.mvc\\areas\\admin\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7445EC5D-D200-46E6-861F-647EFD2D29A7}|CarvillaWebApp.BL\\CarvillaWebApp.BL.csproj|c:\\users\\stduser\\source\\repos\\carvillawebapp\\carvillawebapp.bl\\services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7445EC5D-D200-46E6-861F-647EFD2D29A7}|CarvillaWebApp.BL\\CarvillaWebApp.BL.csproj|solutionrelative:carvillawebapp.bl\\services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC8DD5E-E88E-4777-ABA9-35486119FA9F}|CarvillaWebApp.MVC\\CarvillaWebApp.MVC.csproj|c:\\users\\stduser\\source\\repos\\carvillawebapp\\carvillawebapp.mvc\\areas\\admin\\views\\car\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BC8DD5E-E88E-4777-ABA9-35486119FA9F}|CarvillaWebApp.MVC\\CarvillaWebApp.MVC.csproj|solutionrelative:carvillawebapp.mvc\\areas\\admin\\views\\car\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7445EC5D-D200-46E6-861F-647EFD2D29A7}|CarvillaWebApp.BL\\CarvillaWebApp.BL.csproj|c:\\users\\stduser\\source\\repos\\carvillawebapp\\carvillawebapp.bl\\view models\\carcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7445EC5D-D200-46E6-861F-647EFD2D29A7}|CarvillaWebApp.BL\\CarvillaWebApp.BL.csproj|solutionrelative:carvillawebapp.bl\\view models\\carcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7445EC5D-D200-46E6-861F-647EFD2D29A7}|CarvillaWebApp.BL\\CarvillaWebApp.BL.csproj|c:\\users\\stduser\\source\\repos\\carvillawebapp\\carvillawebapp.bl\\services\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7445EC5D-D200-46E6-861F-647EFD2D29A7}|CarvillaWebApp.BL\\CarvillaWebApp.BL.csproj|solutionrelative:carvillawebapp.bl\\services\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{636D6D58-C22D-4280-99CA-7259C51B4411}|CarvillaWebApp.DAL\\CarvillaWebApp.DAL.csproj|c:\\users\\stduser\\source\\repos\\carvillawebapp\\carvillawebapp.dal\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{636D6D58-C22D-4280-99CA-7259C51B4411}|CarvillaWebApp.DAL\\CarvillaWebApp.DAL.csproj|solutionrelative:carvillawebapp.dal\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7445EC5D-D200-46E6-861F-647EFD2D29A7}|CarvillaWebApp.BL\\CarvillaWebApp.BL.csproj|c:\\users\\stduser\\source\\repos\\carvillawebapp\\carvillawebapp.bl\\view models\\viewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7445EC5D-D200-46E6-861F-647EFD2D29A7}|CarvillaWebApp.BL\\CarvillaWebApp.BL.csproj|solutionrelative:carvillawebapp.bl\\view models\\viewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{636D6D58-C22D-4280-99CA-7259C51B4411}|CarvillaWebApp.DAL\\CarvillaWebApp.DAL.csproj|c:\\users\\stduser\\source\\repos\\carvillawebapp\\carvillawebapp.dal\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{636D6D58-C22D-4280-99CA-7259C51B4411}|CarvillaWebApp.DAL\\CarvillaWebApp.DAL.csproj|solutionrelative:carvillawebapp.dal\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\stduser\\source\\repos\\CarvillaWebApp\\CarvillaWebApp.BL\\View Models\\CarCreateVM.cs",
+              "RelativeDocumentMoniker": "CarvillaWebApp.BL\\View Models\\CarCreateVM.cs",
+              "ToolTip": "C:\\Users\\stduser\\source\\repos\\CarvillaWebApp\\CarvillaWebApp.BL\\View Models\\CarCreateVM.cs",
+              "RelativeToolTip": "CarvillaWebApp.BL\\View Models\\CarCreateVM.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T01:58:31.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICarService.cs",
+              "DocumentMoniker": "C:\\Users\\stduser\\source\\repos\\CarvillaWebApp\\CarvillaWebApp.BL\\Services\\ICarService.cs",
+              "RelativeDocumentMoniker": "CarvillaWebApp.BL\\Services\\ICarService.cs",
+              "ToolTip": "C:\\Users\\stduser\\source\\repos\\CarvillaWebApp\\CarvillaWebApp.BL\\Services\\ICarService.cs",
+              "RelativeToolTip": "CarvillaWebApp.BL\\Services\\ICarService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T01:41:16.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarService.cs",
+              "DocumentMoniker": "C:\\Users\\stduser\\source\\repos\\CarvillaWebApp\\CarvillaWebApp.BL\\Services\\CarService.cs",
+              "RelativeDocumentMoniker": "CarvillaWebApp.BL\\Services\\CarService.cs",
+              "ToolTip": "C:\\Users\\stduser\\source\\repos\\CarvillaWebApp\\CarvillaWebApp.BL\\Services\\CarService.cs",
+              "RelativeToolTip": "CarvillaWebApp.BL\\Services\\CarService.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAowHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T01:37:36.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "C:\\Users\\stduser\\source\\repos\\CarvillaWebApp\\CarvillaWebApp.MVC\\Areas\\Admin\\Controllers\\CarController.cs",
+              "RelativeDocumentMoniker": "CarvillaWebApp.MVC\\Areas\\Admin\\Controllers\\CarController.cs",
+              "ToolTip": "C:\\Users\\stduser\\source\\repos\\CarvillaWebApp\\CarvillaWebApp.MVC\\Areas\\Admin\\Controllers\\CarController.cs",
+              "RelativeToolTip": "CarvillaWebApp.MVC\\Areas\\Admin\\Controllers\\CarController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T01:16:37.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\stduser\\source\\repos\\CarvillaWebApp\\CarvillaWebApp.DAL\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "CarvillaWebApp.DAL\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\stduser\\source\\repos\\CarvillaWebApp\\CarvillaWebApp.DAL\\Models\\Car.cs",
+              "RelativeToolTip": "CarvillaWebApp.DAL\\Models\\Car.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T01:14:52.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\stduser\\source\\repos\\CarvillaWebApp\\CarvillaWebApp.MVC\\Areas\\Admin\\Views\\Car\\Update.cshtml",
+              "RelativeDocumentMoniker": "CarvillaWebApp.MVC\\Areas\\Admin\\Views\\Car\\Update.cshtml",
+              "ToolTip": "C:\\Users\\stduser\\source\\repos\\CarvillaWebApp\\CarvillaWebApp.MVC\\Areas\\Admin\\Views\\Car\\Update.cshtml",
+              "RelativeToolTip": "CarvillaWebApp.MVC\\Areas\\Admin\\Views\\Car\\Update.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAADwvyYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T01:09:33.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\stduser\\source\\repos\\CarvillaWebApp\\CarvillaWebApp.DAL\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CarvillaWebApp.DAL\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\stduser\\source\\repos\\CarvillaWebApp\\CarvillaWebApp.DAL\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "CarvillaWebApp.DAL\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T00:47:24.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ViewModels.cs",
+              "DocumentMoniker": "C:\\Users\\stduser\\source\\repos\\CarvillaWebApp\\CarvillaWebApp.BL\\View Models\\ViewModels.cs",
+              "RelativeDocumentMoniker": "CarvillaWebApp.BL\\View Models\\ViewModels.cs",
+              "ToolTip": "C:\\Users\\stduser\\source\\repos\\CarvillaWebApp\\CarvillaWebApp.BL\\View Models\\ViewModels.cs",
+              "RelativeToolTip": "CarvillaWebApp.BL\\View Models\\ViewModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T00:26:55.249Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

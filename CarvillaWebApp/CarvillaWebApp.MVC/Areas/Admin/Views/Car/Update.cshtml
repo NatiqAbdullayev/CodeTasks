@@ -1,0 +1,42 @@
+﻿@model Car
+
+
+<form asp-area="Admin" asp-controller="Car" asp-action="Update" method="post" enctype="multipart/form-data">
+	<div class="form-group">
+		<label for="exampleInputEmail1">Id</label>
+		<input disabled asp-for="@Model.Id" class="form-control" id="exampleInputEmail1">
+	</div>
+	<div class="form-group">
+		<label for="exampleInputEmail1">Full Car Name</label>
+		<input asp-for="FullName" class="form-control">
+	</div>
+	<div class="form-group">
+		<label for="exampleInputEmail1">Brand</label>
+		<input asp-for="Brand" class="form-control">
+	</div>
+	<div class="form-group">
+		<label for="exampleInputEmail1">Model Year</label>
+		<input asp-for="ModelYear" class="form-control">
+	</div>
+	<div class="form-group">
+		<label for="exampleInputEmail1">Engine Power</label>
+		<input asp-for="EnginePower" class="form-control">
+	</div>
+	<div class="form-group">
+		<label for="exampleInputEmail1">Transmission Type</label>
+		<input asp-for="TransmissionType" class="form-control">
+	</div>
+	<div class="form-group">
+		<label for="exampleInputEmail1">Car Description</label>
+		<input asp-for="CarDescription" class="form-control">
+	</div>
+	<div class="form-group">
+		<label for="exampleInputPassword1">Price</label>
+		<input asp-for="Price" class="form-control" iv class="form-group">
+	</div>
+	<div>
+		<label for="exampleInputEmail1">Car image</label>
+		<input type="hidden" asp-for="ImageName" class="form-control">
+	</div>
+	<button type="submit" class="btn btn-warning">Update</button>
+</form>

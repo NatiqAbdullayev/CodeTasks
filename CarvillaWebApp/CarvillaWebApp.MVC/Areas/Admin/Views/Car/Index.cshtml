@@ -1,0 +1,99 @@
+﻿@model List<Car>
+
+
+<main>
+	<div class="container-fluid px-4">
+		<h1 class="mt-4">Dashboard</h1>
+		<ol class="breadcrumb mb-4">
+			<li class="breadcrumb-item active">Dashboard</li>
+		</ol>
+		<div class="row">
+			<div class="col-xl-3 col-md-6">
+				<div class="card bg-primary text-white mb-4">
+					<div class="card-body">Primary Card</div>
+					<div class="card-footer d-flex align-items-center justify-content-between">
+						<a class="small text-white stretched-link" href="#">View Details</a>
+						<div class="small text-white"><i class="fas fa-angle-right"></i></div>
+					</div>
+				</div>
+			</div>
+			<div class="col-xl-3 col-md-6">
+				<div class="card bg-warning text-white mb-4">
+					<div class="card-body">Warning Card</div>
+					<div class="card-footer d-flex align-items-center justify-content-between">
+						<a class="small text-white stretched-link" href="#">View Details</a>
+						<div class="small text-white"><i class="fas fa-angle-right"></i></div>
+					</div>
+				</div>
+			</div>
+			<div class="col-xl-3 col-md-6">
+				<div class="card bg-success text-white mb-4">
+					<div class="card-body">Success Card</div>
+					<div class="card-footer d-flex align-items-center justify-content-between">
+						<a class="small text-white stretched-link" href="#">View Details</a>
+						<div class="small text-white"><i class="fas fa-angle-right"></i></div>
+					</div>
+				</div>
+			</div>
+			<div class="col-xl-3 col-md-6">
+				<div class="card bg-danger text-white mb-4">
+					<div class="card-body">Danger Card</div>
+					<div class="card-footer d-flex align-items-center justify-content-between">
+						<a class="small text-white stretched-link" href="#">View Details</a>
+						<div class="small text-white"><i class="fas fa-angle-right"></i></div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="card mb-4">
+			<div class="card-header">
+				<i class="fas fa-table me-1"></i>
+				All car datas
+			</div>
+			<div class="card-body">
+				<table id="datatablesSimple">
+					<thead>
+						<tr>
+							<th>#</th>
+							<th>Image</th>
+							<th>Name</th>
+							<th>Brand</th>
+							<th>Model</th>
+							<th>Transmisison Type</th>
+							<th>Engine Power</th>
+							<th>Description</th>
+							<th>Price</th>
+							<th>Actions</th>
+						</tr>
+					</thead>
+					<tbody>
+						@foreach (var item in Model)
+						{
+							<tr>
+								<td>@item.Id</td>
+								<td><img src="~/assets/UploadedImages/@item.ImageName" alt="Avatar" style="border-radius: 50%;" width="35" height="35"></td>
+								<td>@item.FullName</td>
+								<td>@item.Brand</td>
+								<td>@item.ModelYear</td>
+								<td>@item.TransmissionType</td>
+								<td>@item.EnginePower</td>
+								<td>@item.CarDescription</td>
+								<td>@item.Price</td>
+								<td>
+
+									<a asp-area="Admin" asp-controller="Car" asp-action="Update" asp-route-id=@item.Id type="button" class="btn btn-warning">Update</a>
+									<a asp-area="Admin" asp-controller="Car" asp-action="Delete" asp-route-id=@item.Id type="button" class="btn btn-danger">Delete</a>
+
+								</td>
+							</tr>
+						}
+
+
+					</tbody>
+				</table>
+			</div>
+		</div>
+	</div>
+</main>
+
+

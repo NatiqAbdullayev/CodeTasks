@@ -1,0 +1,38 @@
+﻿@model Car
+<form asp-area="Admin" asp-controller="Car" asp-action="Delete" method="post" enctype="multipart/form-data">
+	<div class="form-group">
+		<label for="exampleInputEmail1">Id</label>
+		<input disabled asp-for="Id" class="form-control" id="exampleInputEmail1">
+	</div>
+	<div class="form-group">
+		<label for="exampleInputEmail1">Full Car Name</label>
+		<input disabled asp-for="FullName" class="form-control" >
+	</div>
+	<div class="form-group">
+		<label for="exampleInputEmail1">Brand</label>
+		<input disabled asp-for="Brand" class="form-control">
+	</div>
+	<div class="form-group">
+		<label for="exampleInputEmail1">Model Year</label>
+		<input disabled asp-for="ModelYear" class="form-control">
+	</div>
+	<div class="form-group">
+		<label for="exampleInputEmail1">Engine Power</label>
+		<input disabled asp-for="EnginePower" class="form-control">
+	</div>
+	<div class="form-group">
+		<label for="exampleInputEmail1">Transmission Type</label>
+		<input disabled asp-for="TransmissionType" class="form-control">
+	</div>
+	<div class="form-group">
+		<label for="exampleInputEmail1">Car Description</label>
+		<input disabled asp-for="CarDescription" class="form-control">
+	</div>
+	<div class="form-group">
+		<label for="exampleInputPassword1">Price</label>
+		<input disabled asp-for="Price" class="form-control" iv class="form-group">
+		<label for="exampleInputEmail1">Car image</label>
+		<input disabled asp-for="ImageName" class="form-control">
+	</div>
+	<button type="submit" class="btn btn-danger">Delete</button>
+</form>

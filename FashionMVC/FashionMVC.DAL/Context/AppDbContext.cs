@@ -15,7 +15,7 @@ public class AppDbContext : DbContext
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
-        optionsBuilder.UseSqlServer(@"server=DESKTOP-GTVND9D\SQLEXPRESS;Database=FashionMVCDatabase;Trusted_Connection=true;TrustServerCertificate=true;");
+        optionsBuilder.UseMySql("server=localhost;database=CarvillaDb;user=root;password=admin;", new MySqlServerVersion(new Version(8, 0, 36)));
         base.OnConfiguring(optionsBuilder);
     }
 

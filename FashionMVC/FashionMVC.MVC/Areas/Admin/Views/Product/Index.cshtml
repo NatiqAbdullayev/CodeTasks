@@ -1,5 +1,4 @@
-﻿@using FashionMVC.DAL.Models
-@model List<Product>
+﻿@model List<Product>
 
 
 <main>
@@ -11,40 +10,14 @@
         <div class="row">
             <div class="col-xl-3 col-md-6">
                 <div class="card bg-primary text-white mb-4">
-                    <div class="card-body">Primary Card</div>
+                    <div class="card-body">Add product</div>
                     <div class="card-footer d-flex align-items-center justify-content-between">
-                        <a class="small text-white stretched-link" href="#">View Details</a>
+                        <a asp-area="Admin" asp-controller="Product" asp-action="Create" class="small text-white stretched-link">Create new</a>
                         <div class="small text-white"><i class="fas fa-angle-right"></i></div>
                     </div>
                 </div>
             </div>
-            <div class="col-xl-3 col-md-6">
-                <div class="card bg-warning text-white mb-4">
-                    <div class="card-body">Warning Card</div>
-                    <div class="card-footer d-flex align-items-center justify-content-between">
-                        <a class="small text-white stretched-link" href="#">View Details</a>
-                        <div class="small text-white"><i class="fas fa-angle-right"></i></div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xl-3 col-md-6">
-                <div class="card bg-success text-white mb-4">
-                    <div class="card-body">Success Card</div>
-                    <div class="card-footer d-flex align-items-center justify-content-between">
-                        <a class="small text-white stretched-link" href="#">View Details</a>
-                        <div class="small text-white"><i class="fas fa-angle-right"></i></div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xl-3 col-md-6">
-                <div class="card bg-danger text-white mb-4">
-                    <div class="card-body">Danger Card</div>
-                    <div class="card-footer d-flex align-items-center justify-content-between">
-                        <a class="small text-white stretched-link" href="#">View Details</a>
-                        <div class="small text-white"><i class="fas fa-angle-right"></i></div>
-                    </div>
-                </div>
-            </div>
+          
         </div>
         <div class="card mb-4">
             <div class="card-header">
@@ -69,15 +42,15 @@
                         {
                             <tr>
                                 <td>@item.Id</td>
-                                <td><img src="~/assets/UplodedImages/@item.ImageName"></td>
+                                <td>
+                                    <img src="~/assets/UplodedImages/@item.ImageName" width="50" height="50" style="object-fit: cover; border-radius: 50%;" />
+                                </td>
                                 <td>@item.Name</td>
                                 <td>@item.Description</td>
                                 <td>$ @item.Price</td>
                                 <td>
                                     <a asp-area="Admin" asp-controller="Product" asp-action="Update" asp-route-id="@item.Id" type="button" class="btn btn-warning">Update</a>
-                                </td>
-                                <td>
-                                    <button asp-area="Admin" asp-controller="Product" asp-action="Delete" asp-route-id="@item.Id" type="button" class="btn btn-warning">Delete</button>
+                                    <a asp-area="Admin" asp-controller="Product" asp-action="Delete" asp-route-id="@item.Id" type="button" class="btn btn-danger">Delete</a>
                                 </td>
                             </tr>
                         }

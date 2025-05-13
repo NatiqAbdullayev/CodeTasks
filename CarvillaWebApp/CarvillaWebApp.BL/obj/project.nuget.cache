@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cnMRB/zWUnY=",
+  "dgSpecHash": "1xnCMIxen7E=",
   "success": true,
-  "projectFilePath": "C:\\Users\\stduser\\source\\repos\\CarvillaWebApp\\CarvillaWebApp.BL\\CarvillaWebApp.BL.csproj",
+  "projectFilePath": "C:\\Users\\stduser\\Desktop\\CodeTasks\\CarvillaWebApp\\CarvillaWebApp.BL\\CarvillaWebApp.BL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\stduser\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
     "C:\\Users\\stduser\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.15\\microsoft.entityframeworkcore.8.0.15.nupkg.sha512",

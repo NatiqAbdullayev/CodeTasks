@@ -37,5 +37,11 @@ wwwroot\assets\js\Headroom.js
 wwwroot\assets\js\jQuery.headroom.js
 wwwroot\assets\js\jquery.min.js
 wwwroot\assets\js\slick.min.js
+wwwroot\assets\UplodedImages\download-02aca8e3-123c-4efb-964b-295ff80bad1b.jpg
+wwwroot\assets\UplodedImages\download-205198eb-45c9-4431-873f-2741cb07e760.jpg
+wwwroot\assets\UplodedImages\download-216669a5-162b-4b1c-8044-afa27d168126.jpg
 wwwroot\assets\UplodedImages\download-80cca486-1d48-4c91-bf4f-4171a768456d.jfif
 wwwroot\assets\UplodedImages\download-f2a4b946-845a-40e4-b960-dcd057282046.jfif
+wwwroot\assets\UplodedImages\DSC_5903-69e1093b-37f5-4028-8f12-c614b0c521a9.webp
+wwwroot\assets\UplodedImages\DSC_5903-d47bf0fd-a5d0-410b-9f6c-27560b7ff81d.webp
+wwwroot\assets\UplodedImages\Screenshot 2025-04-27 011357-853af481-a60a-4956-9c00-1809cec2c828.png

@@ -820,11 +820,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\stduser\\source\\repos\\CarvillaWebApp\\CarvillaWebApp.BL\\CarvillaWebApp.BL.csproj",
+      "projectUniqueName": "C:\\Users\\stduser\\Desktop\\CodeTasks\\CarvillaWebApp\\CarvillaWebApp.BL\\CarvillaWebApp.BL.csproj",
       "projectName": "CarvillaWebApp.BL",
-      "projectPath": "C:\\Users\\stduser\\source\\repos\\CarvillaWebApp\\CarvillaWebApp.BL\\CarvillaWebApp.BL.csproj",
+      "projectPath": "C:\\Users\\stduser\\Desktop\\CodeTasks\\CarvillaWebApp\\CarvillaWebApp.BL\\CarvillaWebApp.BL.csproj",
       "packagesPath": "C:\\Users\\stduser\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\stduser\\source\\repos\\CarvillaWebApp\\CarvillaWebApp.BL\\obj\\",
+      "outputPath": "C:\\Users\\stduser\\Desktop\\CodeTasks\\CarvillaWebApp\\CarvillaWebApp.BL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -845,8 +845,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\stduser\\source\\repos\\CarvillaWebApp\\CarvillaWebApp.DAL\\CarvillaWebApp.DAL.csproj": {
-              "projectPath": "C:\\Users\\stduser\\source\\repos\\CarvillaWebApp\\CarvillaWebApp.DAL\\CarvillaWebApp.DAL.csproj"
+            "C:\\Users\\stduser\\Desktop\\CodeTasks\\CarvillaWebApp\\CarvillaWebApp.DAL\\CarvillaWebApp.DAL.csproj": {
+              "projectPath": "C:\\Users\\stduser\\Desktop\\CodeTasks\\CarvillaWebApp\\CarvillaWebApp.DAL\\CarvillaWebApp.DAL.csproj"
             }
           }
         }

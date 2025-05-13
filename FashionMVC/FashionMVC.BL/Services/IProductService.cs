@@ -12,7 +12,8 @@ public interface IProductService
 {
     void Create(ProductCreateVM productVM);
     void Delete(int id);
-    void Update(int id,Product product);
+    void Update(int id,ProductCreateVM product);
     Product GetProductById(int id);
     List<Product> GetAllProducts();
+    ProductCreateVM ReMapping(int id);
 }

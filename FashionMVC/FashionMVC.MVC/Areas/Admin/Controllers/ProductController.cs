@@ -31,15 +31,28 @@ public class ProductController : Controller
     }
 
     [HttpGet]
-    public IActionResult Delete(int id) { return View(); }
+    public IActionResult Delete(int id) { 
 
-    [HttpPost]
-    [ActionName("Delete")]
-    public IActionResult DeleteProduct(int id) { return View(); }
+        _productService.Delete(id);
+        return RedirectToAction(nameof(Index)); 
+    }
+
+    //[HttpPost]
+    //[ActionName("Delete")]
+    //public IActionResult DeleteProduct(int id) { return View(); }
 
     [HttpGet]
-    public IActionResult Update(int id) { return View(); }
+    public IActionResult Update(int id) { 
+
+        return View(_productService.ReMapping(id)); 
+    }
 
     [HttpPost]
-    public IActionResult Update(int id,Object a) { return View(); }
+    public IActionResult Update(int id,ProductCreateVM productModel) {
+        _productService.Update(id,productModel);
+        
+        return RedirectToAction(nameof(Index)); 
+    
+    
+    }
 }

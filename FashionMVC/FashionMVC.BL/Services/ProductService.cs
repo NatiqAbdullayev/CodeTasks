@@ -36,11 +36,11 @@ public class ProductService : IProductService
         p.ImageName = resultName;
 
         //Save
-        string path = "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\UplodedImages";
+        string path = "C:\\Users\\stduser\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\UplodedImages";
 
-        path = Path.Combine(path,resultName);
+        path = Path.Combine(path, resultName);
 
-        using FileStream stream = new FileStream(path,FileMode.Create);
+        using FileStream stream = new FileStream(path, FileMode.Create);
 
         productVM.ImageFile.CopyTo(stream);
 
@@ -51,11 +51,12 @@ public class ProductService : IProductService
 
     public void Delete(int id)
     {
-        var entity = _context.Products.Find(id);
+        Product? entity = _context.Products.Find(id);
         if (entity is null)
         {
             throw new ProductException("Product cannot be null");
         }
+
 
         _context.Products.Remove(entity);
         _context.SaveChanges();
@@ -69,7 +70,7 @@ public class ProductService : IProductService
 
     public Product GetProductById(int id)
     {
-        var entity = _context.Products.Find(id);
+        Product? entity = _context.Products.Find(id);
         if (entity is null)
         {
             throw new ProductException("Product cannot be null");
@@ -78,8 +79,53 @@ public class ProductService : IProductService
         return entity;
     }
 
-    public void Update(int id, Product product)
+    public void Update(int id, ProductCreateVM productModel)
     {
-        throw new NotImplementedException();
+        Product? product = _context.Products.Find(id);
+        if (product is null)
+        {
+            throw new ProductException("Product cannot be null");
+        }
+
+        product.Description = productModel.Description;
+        product.Name = productModel.Name;
+        product.Price = productModel.Price;
+
+        //File
+        string fileName = Path.GetFileNameWithoutExtension(productModel.ImageFile.FileName);
+        string extension = Path.GetExtension(productModel.ImageFile.FileName);
+        string resultName = fileName + "-" + Guid.NewGuid().ToString() + extension;
+        product.ImageName = resultName;
+
+        //Save
+        string path = "C:\\Users\\stduser\\Desktop\\CodeTasks\\FashionMVC\\FashionMVC.MVC\\wwwroot\\assets\\UplodedImages";
+
+        path = Path.Combine(path, resultName);
+
+        using FileStream stream = new FileStream(path, FileMode.Create);
+
+        productModel.ImageFile.CopyTo(stream);
+
+        _context.SaveChanges();
     }
+
+    public ProductCreateVM ReMapping(int id)
+    {
+        Product? product = _context.Products.Find(id);
+
+        if (product is null)
+        {
+            throw new ProductException("Product cannot be null");
+        }
+
+        return new ProductCreateVM()
+        {
+            Name = product.Name,
+            Price = product.Price,
+            Description = product.Description,
+        };
+
+    }
+
+
 }

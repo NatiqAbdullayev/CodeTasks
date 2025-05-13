@@ -2158,11 +2158,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\stduser\\source\\repos\\CarvillaWebApp\\CarvillaWebApp.DAL\\CarvillaWebApp.DAL.csproj",
+      "projectUniqueName": "C:\\Users\\stduser\\Desktop\\CodeTasks\\CarvillaWebApp\\CarvillaWebApp.DAL\\CarvillaWebApp.DAL.csproj",
       "projectName": "CarvillaWebApp.DAL",
-      "projectPath": "C:\\Users\\stduser\\source\\repos\\CarvillaWebApp\\CarvillaWebApp.DAL\\CarvillaWebApp.DAL.csproj",
+      "projectPath": "C:\\Users\\stduser\\Desktop\\CodeTasks\\CarvillaWebApp\\CarvillaWebApp.DAL\\CarvillaWebApp.DAL.csproj",
       "packagesPath": "C:\\Users\\stduser\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\stduser\\source\\repos\\CarvillaWebApp\\CarvillaWebApp.DAL\\obj\\",
+      "outputPath": "C:\\Users\\stduser\\Desktop\\CodeTasks\\CarvillaWebApp\\CarvillaWebApp.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

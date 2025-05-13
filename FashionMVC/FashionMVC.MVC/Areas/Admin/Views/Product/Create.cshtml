@@ -1,0 +1,24 @@
+﻿@using FashionMVC.BL.ViewModels
+@model ProductCreateVM
+
+<div class="card-body">
+    <form asp-area="Admin" asp-controller="Product" asp-action="Create" method="post" enctype="multipart/form-data">
+        <div class="form-floating mb-3">
+            <input class="form-control" id="inputEmail" asp-for="Name" />
+            <label for="inputEmail">Name</label>
+        </div>
+        <div class="form-floating mb-3">
+            <input class="form-control" id="inputPassword" asp-for="Description" />
+            <label for="inputPassword">Description</label>
+        </div>
+        <div class="form-floating mb-3">
+            <input class="form-control" id="inputPassword" asp-for="Price" />
+            <label for="inputPassword">Price</label>
+        </div>
+        <div class="form-floating mb-3">
+            <input class="form-control" id="inputPassword" asp-for="ImageFile" />
+            <label for="inputPassword">Image</label>
+        </div>
+        <button type="submit" class="btn btn-primary">Create</button>
+    </form>
+</div>

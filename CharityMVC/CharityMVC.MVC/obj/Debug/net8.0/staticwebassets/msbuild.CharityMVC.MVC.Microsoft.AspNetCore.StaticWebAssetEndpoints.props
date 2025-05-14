@@ -1,0 +1,676 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/Admin/assets/css/styles.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\assets\css\styles.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Tl/JSPdgPPXWVWSUewZbpR6kZW1nVf8f6PA1SpwxpFo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"250226"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022Tl/JSPdgPPXWVWSUewZbpR6kZW1nVf8f6PA1SpwxpFo=\u0022"},{"Name":"Last-Modified","Value":"Sat, 25 Mar 2023 22:09:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/Admin/assets/css/styles.mf45fbw2f4.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\assets\css\styles.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"mf45fbw2f4"},{"Name":"integrity","Value":"sha256-Tl/JSPdgPPXWVWSUewZbpR6kZW1nVf8f6PA1SpwxpFo="},{"Name":"label","Value":"_content/CharityMVC.MVC/Admin/assets/css/styles.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"250226"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022Tl/JSPdgPPXWVWSUewZbpR6kZW1nVf8f6PA1SpwxpFo=\u0022"},{"Name":"Last-Modified","Value":"Sat, 25 Mar 2023 22:09:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/Admin/assets/demo/chart-area-demo.8flq4k35dk.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\assets\demo\chart-area-demo.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8flq4k35dk"},{"Name":"integrity","Value":"sha256-9LLP7XKqyptnrNbmQqIjm5rIDw5zwE9KWE4hVhK5Jvk="},{"Name":"label","Value":"_content/CharityMVC.MVC/Admin/assets/demo/chart-area-demo.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1530"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00229LLP7XKqyptnrNbmQqIjm5rIDw5zwE9KWE4hVhK5Jvk=\u0022"},{"Name":"Last-Modified","Value":"Sat, 25 Mar 2023 22:09:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/Admin/assets/demo/chart-area-demo.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\assets\demo\chart-area-demo.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-9LLP7XKqyptnrNbmQqIjm5rIDw5zwE9KWE4hVhK5Jvk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1530"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00229LLP7XKqyptnrNbmQqIjm5rIDw5zwE9KWE4hVhK5Jvk=\u0022"},{"Name":"Last-Modified","Value":"Sat, 25 Mar 2023 22:09:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/Admin/assets/demo/chart-bar-demo.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\assets\demo\chart-bar-demo.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-9tpvm3R5RdFWxUDIA09CWwnWxpLxiJYWKom8gdLwl3I="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1112"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00229tpvm3R5RdFWxUDIA09CWwnWxpLxiJYWKom8gdLwl3I=\u0022"},{"Name":"Last-Modified","Value":"Sat, 25 Mar 2023 22:09:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/Admin/assets/demo/chart-bar-demo.qbt6h4ox5y.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\assets\demo\chart-bar-demo.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"qbt6h4ox5y"},{"Name":"integrity","Value":"sha256-9tpvm3R5RdFWxUDIA09CWwnWxpLxiJYWKom8gdLwl3I="},{"Name":"label","Value":"_content/CharityMVC.MVC/Admin/assets/demo/chart-bar-demo.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1112"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00229tpvm3R5RdFWxUDIA09CWwnWxpLxiJYWKom8gdLwl3I=\u0022"},{"Name":"Last-Modified","Value":"Sat, 25 Mar 2023 22:09:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/Admin/assets/demo/chart-pie-demo.hw7eaup9v4.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\assets\demo\chart-pie-demo.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"hw7eaup9v4"},{"Name":"integrity","Value":"sha256-gXHh8OZnGFZ8Pb\u002BCoSlwJ7lx7tZD1amOLrSASwI8Neo="},{"Name":"label","Value":"_content/CharityMVC.MVC/Admin/assets/demo/chart-pie-demo.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"597"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022gXHh8OZnGFZ8Pb\u002BCoSlwJ7lx7tZD1amOLrSASwI8Neo=\u0022"},{"Name":"Last-Modified","Value":"Sat, 25 Mar 2023 22:09:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/Admin/assets/demo/chart-pie-demo.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\assets\demo\chart-pie-demo.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-gXHh8OZnGFZ8Pb\u002BCoSlwJ7lx7tZD1amOLrSASwI8Neo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"597"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022gXHh8OZnGFZ8Pb\u002BCoSlwJ7lx7tZD1amOLrSASwI8Neo=\u0022"},{"Name":"Last-Modified","Value":"Sat, 25 Mar 2023 22:09:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/Admin/assets/demo/datatables-demo.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\assets\demo\datatables-demo.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-3BYZ/ie9x2nIWSAO1N9M0VISPR5FfP5Wg0EKHZzNOoo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"103"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00223BYZ/ie9x2nIWSAO1N9M0VISPR5FfP5Wg0EKHZzNOoo=\u0022"},{"Name":"Last-Modified","Value":"Sat, 25 Mar 2023 22:09:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/Admin/assets/demo/datatables-demo.w9gruc5uo1.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\assets\demo\datatables-demo.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"w9gruc5uo1"},{"Name":"integrity","Value":"sha256-3BYZ/ie9x2nIWSAO1N9M0VISPR5FfP5Wg0EKHZzNOoo="},{"Name":"label","Value":"_content/CharityMVC.MVC/Admin/assets/demo/datatables-demo.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"103"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00223BYZ/ie9x2nIWSAO1N9M0VISPR5FfP5Wg0EKHZzNOoo=\u0022"},{"Name":"Last-Modified","Value":"Sat, 25 Mar 2023 22:09:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/Admin/assets/img/error-404-monochrome.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\assets\img\error-404-monochrome.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-GuryUo0\u002BxyzRuEVttjuLmS8hqxoE9FucfaX/mboMWj8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"6119"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022GuryUo0\u002BxyzRuEVttjuLmS8hqxoE9FucfaX/mboMWj8=\u0022"},{"Name":"Last-Modified","Value":"Sat, 25 Mar 2023 22:09:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/Admin/assets/img/error-404-monochrome.yp87i3fbss.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\assets\img\error-404-monochrome.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"yp87i3fbss"},{"Name":"integrity","Value":"sha256-GuryUo0\u002BxyzRuEVttjuLmS8hqxoE9FucfaX/mboMWj8="},{"Name":"label","Value":"_content/CharityMVC.MVC/Admin/assets/img/error-404-monochrome.svg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6119"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022GuryUo0\u002BxyzRuEVttjuLmS8hqxoE9FucfaX/mboMWj8=\u0022"},{"Name":"Last-Modified","Value":"Sat, 25 Mar 2023 22:09:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/Admin/assets/js/datatables-simple-demo.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\assets\js\datatables-simple-demo.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-A5r4X24Y4UOeA7FBC6HS3voj76xkmczywh9qO\u002BLy5hQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"312"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022A5r4X24Y4UOeA7FBC6HS3voj76xkmczywh9qO\u002BLy5hQ=\u0022"},{"Name":"Last-Modified","Value":"Sat, 25 Mar 2023 22:09:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/Admin/assets/js/datatables-simple-demo.xnqwbb6zwd.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\assets\js\datatables-simple-demo.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xnqwbb6zwd"},{"Name":"integrity","Value":"sha256-A5r4X24Y4UOeA7FBC6HS3voj76xkmczywh9qO\u002BLy5hQ="},{"Name":"label","Value":"_content/CharityMVC.MVC/Admin/assets/js/datatables-simple-demo.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"312"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022A5r4X24Y4UOeA7FBC6HS3voj76xkmczywh9qO\u002BLy5hQ=\u0022"},{"Name":"Last-Modified","Value":"Sat, 25 Mar 2023 22:09:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/Admin/assets/js/scripts.dqle62frat.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\assets\js\scripts.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"dqle62frat"},{"Name":"integrity","Value":"sha256-hSOKtaoLbtAX3QLxogVcaVg8Fv7Y6HTCcpJqVePv720="},{"Name":"label","Value":"_content/CharityMVC.MVC/Admin/assets/js/scripts.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"976"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022hSOKtaoLbtAX3QLxogVcaVg8Fv7Y6HTCcpJqVePv720=\u0022"},{"Name":"Last-Modified","Value":"Sat, 25 Mar 2023 22:09:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/Admin/assets/js/scripts.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\assets\js\scripts.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-hSOKtaoLbtAX3QLxogVcaVg8Fv7Y6HTCcpJqVePv720="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"976"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022hSOKtaoLbtAX3QLxogVcaVg8Fv7Y6HTCcpJqVePv720=\u0022"},{"Name":"Last-Modified","Value":"Sat, 25 Mar 2023 22:09:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/css/bootstrap-icons.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\css\bootstrap-icons.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-rGQOWGP7z9/Zn3okdHniRJd9KJYfcPkVUytMxG4ueCs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"73273"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022rGQOWGP7z9/Zn3okdHniRJd9KJYfcPkVUytMxG4ueCs=\u0022"},{"Name":"Last-Modified","Value":"Mon, 10 Jan 2022 16:31:10 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/css/bootstrap-icons.g5p0g328f6.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\css\bootstrap-icons.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"g5p0g328f6"},{"Name":"integrity","Value":"sha256-rGQOWGP7z9/Zn3okdHniRJd9KJYfcPkVUytMxG4ueCs="},{"Name":"label","Value":"_content/CharityMVC.MVC/assets/css/bootstrap-icons.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"73273"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022rGQOWGP7z9/Zn3okdHniRJd9KJYfcPkVUytMxG4ueCs=\u0022"},{"Name":"Last-Modified","Value":"Mon, 10 Jan 2022 16:31:10 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/css/bootstrap.min.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\css\bootstrap.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-IUOUHAPazai08QFs7W4MbzTlwEWFo7z/4zw8YmxEiko="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"194901"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022IUOUHAPazai08QFs7W4MbzTlwEWFo7z/4zw8YmxEiko=\u0022"},{"Name":"Last-Modified","Value":"Sun, 02 Oct 2022 06:07:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/css/bootstrap.min.jze4wm6kbq.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\css\bootstrap.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"jze4wm6kbq"},{"Name":"integrity","Value":"sha256-IUOUHAPazai08QFs7W4MbzTlwEWFo7z/4zw8YmxEiko="},{"Name":"label","Value":"_content/CharityMVC.MVC/assets/css/bootstrap.min.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"194901"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022IUOUHAPazai08QFs7W4MbzTlwEWFo7z/4zw8YmxEiko=\u0022"},{"Name":"Last-Modified","Value":"Sun, 02 Oct 2022 06:07:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/css/templatemo-kind-heart-charity.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\css\templatemo-kind-heart-charity.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-NXvfSGmk5ll6KTTYDUOdoC77vhXnR\u002BN68ZZzu3RIYTI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"33469"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022NXvfSGmk5ll6KTTYDUOdoC77vhXnR\u002BN68ZZzu3RIYTI=\u0022"},{"Name":"Last-Modified","Value":"Thu, 20 Oct 2022 11:20:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/css/templatemo-kind-heart-charity.tyx543h7xc.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\css\templatemo-kind-heart-charity.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"tyx543h7xc"},{"Name":"integrity","Value":"sha256-NXvfSGmk5ll6KTTYDUOdoC77vhXnR\u002BN68ZZzu3RIYTI="},{"Name":"label","Value":"_content/CharityMVC.MVC/assets/css/templatemo-kind-heart-charity.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"33469"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022NXvfSGmk5ll6KTTYDUOdoC77vhXnR\u002BN68ZZzu3RIYTI=\u0022"},{"Name":"Last-Modified","Value":"Thu, 20 Oct 2022 11:20:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/fonts/bootstrap-icons.bjm8xm0qgo.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\fonts\bootstrap-icons.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"bjm8xm0qgo"},{"Name":"integrity","Value":"sha256-6YKfu8wYQH3rKLSdrCTYFGmBsitKSBPxaZx3c\u002BgMAbk="},{"Name":"label","Value":"_content/CharityMVC.MVC/assets/fonts/bootstrap-icons.woff2"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"92064"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u00226YKfu8wYQH3rKLSdrCTYFGmBsitKSBPxaZx3c\u002BgMAbk=\u0022"},{"Name":"Last-Modified","Value":"Fri, 03 Dec 2021 21:11:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/fonts/bootstrap-icons.p1b6jzbakj.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\fonts\bootstrap-icons.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"p1b6jzbakj"},{"Name":"integrity","Value":"sha256-k/PLDciBOdOT4030eg1EDtySx4SoWl1Fb1uitU4TYOI="},{"Name":"label","Value":"_content/CharityMVC.MVC/assets/fonts/bootstrap-icons.woff"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"123384"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022k/PLDciBOdOT4030eg1EDtySx4SoWl1Fb1uitU4TYOI=\u0022"},{"Name":"Last-Modified","Value":"Fri, 03 Dec 2021 21:11:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/fonts/bootstrap-icons.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\fonts\bootstrap-icons.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-k/PLDciBOdOT4030eg1EDtySx4SoWl1Fb1uitU4TYOI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"123384"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022k/PLDciBOdOT4030eg1EDtySx4SoWl1Fb1uitU4TYOI=\u0022"},{"Name":"Last-Modified","Value":"Fri, 03 Dec 2021 21:11:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/fonts/bootstrap-icons.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\fonts\bootstrap-icons.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-6YKfu8wYQH3rKLSdrCTYFGmBsitKSBPxaZx3c\u002BgMAbk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"92064"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u00226YKfu8wYQH3rKLSdrCTYFGmBsitKSBPxaZx3c\u002BgMAbk=\u0022"},{"Name":"Last-Modified","Value":"Fri, 03 Dec 2021 21:11:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/fonts/Metropolis/Metropolis-Bold.lkpqmzm7ci.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\fonts\Metropolis\Metropolis-Bold.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"lkpqmzm7ci"},{"Name":"integrity","Value":"sha256-9WWuqWzKHFUNrMDq0slr3FOXaQdKQbG/RCOi7gRQ\u002Bis="},{"Name":"label","Value":"_content/CharityMVC.MVC/assets/fonts/Metropolis/Metropolis-Bold.woff2"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"13036"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u00229WWuqWzKHFUNrMDq0slr3FOXaQdKQbG/RCOi7gRQ\u002Bis=\u0022"},{"Name":"Last-Modified","Value":"Wed, 13 Apr 2022 08:15:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/fonts/Metropolis/Metropolis-Bold.mew7qaathv.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\fonts\Metropolis\Metropolis-Bold.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"mew7qaathv"},{"Name":"integrity","Value":"sha256-zkFbYA9CWzYofGAN1KgihnrG7VykOHBPV/rCeZZtbdg="},{"Name":"label","Value":"_content/CharityMVC.MVC/assets/fonts/Metropolis/Metropolis-Bold.woff"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"18272"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022zkFbYA9CWzYofGAN1KgihnrG7VykOHBPV/rCeZZtbdg=\u0022"},{"Name":"Last-Modified","Value":"Wed, 13 Apr 2022 08:15:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/fonts/Metropolis/Metropolis-Bold.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\fonts\Metropolis\Metropolis-Bold.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-zkFbYA9CWzYofGAN1KgihnrG7VykOHBPV/rCeZZtbdg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"18272"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022zkFbYA9CWzYofGAN1KgihnrG7VykOHBPV/rCeZZtbdg=\u0022"},{"Name":"Last-Modified","Value":"Wed, 13 Apr 2022 08:15:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/fonts/Metropolis/Metropolis-Bold.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\fonts\Metropolis\Metropolis-Bold.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-9WWuqWzKHFUNrMDq0slr3FOXaQdKQbG/RCOi7gRQ\u002Bis="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"13036"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u00229WWuqWzKHFUNrMDq0slr3FOXaQdKQbG/RCOi7gRQ\u002Bis=\u0022"},{"Name":"Last-Modified","Value":"Wed, 13 Apr 2022 08:15:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/fonts/Metropolis/Metropolis-Light.skq8qdoqc2.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\fonts\Metropolis\Metropolis-Light.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"skq8qdoqc2"},{"Name":"integrity","Value":"sha256-jOYqFAtRPCtShmMkbynpxOLAi26NhiOcOW0Z3zAeRuw="},{"Name":"label","Value":"_content/CharityMVC.MVC/assets/fonts/Metropolis/Metropolis-Light.woff2"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"12824"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022jOYqFAtRPCtShmMkbynpxOLAi26NhiOcOW0Z3zAeRuw=\u0022"},{"Name":"Last-Modified","Value":"Wed, 13 Apr 2022 08:15:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/fonts/Metropolis/Metropolis-Light.touo9faciy.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\fonts\Metropolis\Metropolis-Light.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"touo9faciy"},{"Name":"integrity","Value":"sha256-XZbzU1NreC4xvaz9CjxWON8OgDa9Sgj1JuLPl\u002BiLo7c="},{"Name":"label","Value":"_content/CharityMVC.MVC/assets/fonts/Metropolis/Metropolis-Light.woff"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"18056"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022XZbzU1NreC4xvaz9CjxWON8OgDa9Sgj1JuLPl\u002BiLo7c=\u0022"},{"Name":"Last-Modified","Value":"Wed, 13 Apr 2022 08:15:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/fonts/Metropolis/Metropolis-Light.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\fonts\Metropolis\Metropolis-Light.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-XZbzU1NreC4xvaz9CjxWON8OgDa9Sgj1JuLPl\u002BiLo7c="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"18056"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022XZbzU1NreC4xvaz9CjxWON8OgDa9Sgj1JuLPl\u002BiLo7c=\u0022"},{"Name":"Last-Modified","Value":"Wed, 13 Apr 2022 08:15:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/fonts/Metropolis/Metropolis-Light.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\fonts\Metropolis\Metropolis-Light.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-jOYqFAtRPCtShmMkbynpxOLAi26NhiOcOW0Z3zAeRuw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"12824"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022jOYqFAtRPCtShmMkbynpxOLAi26NhiOcOW0Z3zAeRuw=\u0022"},{"Name":"Last-Modified","Value":"Wed, 13 Apr 2022 08:15:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/fonts/Metropolis/Metropolis-Regular.s17s9oy5cw.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\fonts\Metropolis\Metropolis-Regular.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"s17s9oy5cw"},{"Name":"integrity","Value":"sha256-sHtd4URo8d4S1vqYdHtXWMLpkdM\u002BZegleaUib5Biefc="},{"Name":"label","Value":"_content/CharityMVC.MVC/assets/fonts/Metropolis/Metropolis-Regular.woff"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"18180"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022sHtd4URo8d4S1vqYdHtXWMLpkdM\u002BZegleaUib5Biefc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 13 Apr 2022 08:15:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/fonts/Metropolis/Metropolis-Regular.shwfk7g9fx.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\fonts\Metropolis\Metropolis-Regular.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"shwfk7g9fx"},{"Name":"integrity","Value":"sha256-QKIK9eTcs/AkwqYjUO0uzqsTWOMPpuKBGrb\u002B7sC6OMk="},{"Name":"label","Value":"_content/CharityMVC.MVC/assets/fonts/Metropolis/Metropolis-Regular.woff2"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"12996"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022QKIK9eTcs/AkwqYjUO0uzqsTWOMPpuKBGrb\u002B7sC6OMk=\u0022"},{"Name":"Last-Modified","Value":"Wed, 13 Apr 2022 08:15:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/fonts/Metropolis/Metropolis-Regular.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\fonts\Metropolis\Metropolis-Regular.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-sHtd4URo8d4S1vqYdHtXWMLpkdM\u002BZegleaUib5Biefc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"18180"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022sHtd4URo8d4S1vqYdHtXWMLpkdM\u002BZegleaUib5Biefc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 13 Apr 2022 08:15:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/fonts/Metropolis/Metropolis-Regular.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\fonts\Metropolis\Metropolis-Regular.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-QKIK9eTcs/AkwqYjUO0uzqsTWOMPpuKBGrb\u002B7sC6OMk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"12996"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022QKIK9eTcs/AkwqYjUO0uzqsTWOMPpuKBGrb\u002B7sC6OMk=\u0022"},{"Name":"Last-Modified","Value":"Wed, 13 Apr 2022 08:15:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/fonts/Metropolis/Metropolis-SemiBold.r4u5uji3g9.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\fonts\Metropolis\Metropolis-SemiBold.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"r4u5uji3g9"},{"Name":"integrity","Value":"sha256-yxGtUn5dkIhPMX9MNXlmrSqwXVctEnB\u002BoCf/xvbpN6g="},{"Name":"label","Value":"_content/CharityMVC.MVC/assets/fonts/Metropolis/Metropolis-SemiBold.woff2"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"12984"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022yxGtUn5dkIhPMX9MNXlmrSqwXVctEnB\u002BoCf/xvbpN6g=\u0022"},{"Name":"Last-Modified","Value":"Wed, 13 Apr 2022 08:15:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/fonts/Metropolis/Metropolis-SemiBold.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\fonts\Metropolis\Metropolis-SemiBold.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-N3AfHmuPVuXGaHh0kjXKEiNOC6nQ5IunsnCCOf9bQGQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"18212"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022N3AfHmuPVuXGaHh0kjXKEiNOC6nQ5IunsnCCOf9bQGQ=\u0022"},{"Name":"Last-Modified","Value":"Wed, 13 Apr 2022 08:15:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/fonts/Metropolis/Metropolis-SemiBold.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\fonts\Metropolis\Metropolis-SemiBold.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-yxGtUn5dkIhPMX9MNXlmrSqwXVctEnB\u002BoCf/xvbpN6g="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"12984"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022yxGtUn5dkIhPMX9MNXlmrSqwXVctEnB\u002BoCf/xvbpN6g=\u0022"},{"Name":"Last-Modified","Value":"Wed, 13 Apr 2022 08:15:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/fonts/Metropolis/Metropolis-SemiBold.xi20zkfvfo.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\fonts\Metropolis\Metropolis-SemiBold.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xi20zkfvfo"},{"Name":"integrity","Value":"sha256-N3AfHmuPVuXGaHh0kjXKEiNOC6nQ5IunsnCCOf9bQGQ="},{"Name":"label","Value":"_content/CharityMVC.MVC/assets/fonts/Metropolis/Metropolis-SemiBold.woff"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"18212"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022N3AfHmuPVuXGaHh0kjXKEiNOC6nQ5IunsnCCOf9bQGQ=\u0022"},{"Name":"Last-Modified","Value":"Wed, 13 Apr 2022 08:15:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/images/avatar/portrait-beautiful-young-woman-standing-grey-wall.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\avatar\portrait-beautiful-young-woman-standing-grey-wall.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-G10HtzMhvo9U6iKB5vZSD01zDfcGZ2iVyZ1\u002BmIy5b/w="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"24232"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022G10HtzMhvo9U6iKB5vZSD01zDfcGZ2iVyZ1\u002BmIy5b/w=\u0022"},{"Name":"Last-Modified","Value":"Tue, 15 Mar 2022 07:03:50 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/images/avatar/portrait-beautiful-young-woman-standing-grey-wall.vrj87cfdzo.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\avatar\portrait-beautiful-young-woman-standing-grey-wall.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"vrj87cfdzo"},{"Name":"integrity","Value":"sha256-G10HtzMhvo9U6iKB5vZSD01zDfcGZ2iVyZ1\u002BmIy5b/w="},{"Name":"label","Value":"_content/CharityMVC.MVC/assets/images/avatar/portrait-beautiful-young-woman-standing-grey-wall.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"24232"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022G10HtzMhvo9U6iKB5vZSD01zDfcGZ2iVyZ1\u002BmIy5b/w=\u0022"},{"Name":"Last-Modified","Value":"Tue, 15 Mar 2022 07:03:50 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/images/avatar/portrait-young-beautiful-woman-gesticulating.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\avatar\portrait-young-beautiful-woman-gesticulating.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-VAjx1Rr5Dz8PpsJfnu7wtt\u002Bs0YmqZqKHuYxOjeFJkk4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"30743"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022VAjx1Rr5Dz8PpsJfnu7wtt\u002Bs0YmqZqKHuYxOjeFJkk4=\u0022"},{"Name":"Last-Modified","Value":"Tue, 15 Mar 2022 09:51:10 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/images/avatar/portrait-young-beautiful-woman-gesticulating.w5sjjoa4pp.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\avatar\portrait-young-beautiful-woman-gesticulating.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"w5sjjoa4pp"},{"Name":"integrity","Value":"sha256-VAjx1Rr5Dz8PpsJfnu7wtt\u002Bs0YmqZqKHuYxOjeFJkk4="},{"Name":"label","Value":"_content/CharityMVC.MVC/assets/images/avatar/portrait-young-beautiful-woman-gesticulating.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"30743"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022VAjx1Rr5Dz8PpsJfnu7wtt\u002Bs0YmqZqKHuYxOjeFJkk4=\u0022"},{"Name":"Last-Modified","Value":"Tue, 15 Mar 2022 09:51:10 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/images/avatar/portrait-young-redhead-bearded-male.buwihinjem.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\avatar\portrait-young-redhead-bearded-male.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"buwihinjem"},{"Name":"integrity","Value":"sha256-w99/X8HyfX9AD7fsL84LIC0BAcVvglGj3iydO1gNASI="},{"Name":"label","Value":"_content/CharityMVC.MVC/assets/images/avatar/portrait-young-redhead-bearded-male.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"25921"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022w99/X8HyfX9AD7fsL84LIC0BAcVvglGj3iydO1gNASI=\u0022"},{"Name":"Last-Modified","Value":"Tue, 15 Mar 2022 09:51:32 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/images/avatar/portrait-young-redhead-bearded-male.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\avatar\portrait-young-redhead-bearded-male.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-w99/X8HyfX9AD7fsL84LIC0BAcVvglGj3iydO1gNASI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"25921"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022w99/X8HyfX9AD7fsL84LIC0BAcVvglGj3iydO1gNASI=\u0022"},{"Name":"Last-Modified","Value":"Tue, 15 Mar 2022 09:51:32 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/images/avatar/pretty-blonde-woman-wearing-white-t-shirt.15oezhfe83.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\avatar\pretty-blonde-woman-wearing-white-t-shirt.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"15oezhfe83"},{"Name":"integrity","Value":"sha256-tcjNlE3V2tV84Gct/KBBI6q9njWwMFJGdhDTRTZRhBE="},{"Name":"label","Value":"_content/CharityMVC.MVC/assets/images/avatar/pretty-blonde-woman-wearing-white-t-shirt.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"30052"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022tcjNlE3V2tV84Gct/KBBI6q9njWwMFJGdhDTRTZRhBE=\u0022"},{"Name":"Last-Modified","Value":"Mon, 14 Mar 2022 04:17:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/images/avatar/pretty-blonde-woman-wearing-white-t-shirt.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\avatar\pretty-blonde-woman-wearing-white-t-shirt.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-tcjNlE3V2tV84Gct/KBBI6q9njWwMFJGdhDTRTZRhBE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"30052"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022tcjNlE3V2tV84Gct/KBBI6q9njWwMFJGdhDTRTZRhBE=\u0022"},{"Name":"Last-Modified","Value":"Mon, 14 Mar 2022 04:17:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/images/avatar/studio-portrait-emotional-happy-funny.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\avatar\studio-portrait-emotional-happy-funny.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-8lNiL91aTyD0a4XxiN54WwgwKmIWT4JyEHBTWkyazwQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"26473"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00228lNiL91aTyD0a4XxiN54WwgwKmIWT4JyEHBTWkyazwQ=\u0022"},{"Name":"Last-Modified","Value":"Mon, 14 Mar 2022 04:17:34 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/images/avatar/studio-portrait-emotional-happy-funny.q5g10ddm5w.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\avatar\studio-portrait-emotional-happy-funny.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"q5g10ddm5w"},{"Name":"integrity","Value":"sha256-8lNiL91aTyD0a4XxiN54WwgwKmIWT4JyEHBTWkyazwQ="},{"Name":"label","Value":"_content/CharityMVC.MVC/assets/images/avatar/studio-portrait-emotional-happy-funny.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"26473"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00228lNiL91aTyD0a4XxiN54WwgwKmIWT4JyEHBTWkyazwQ=\u0022"},{"Name":"Last-Modified","Value":"Mon, 14 Mar 2022 04:17:34 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/images/causes/african-woman-pouring-water-recipient-outdoors.d365n1gsvh.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\causes\african-woman-pouring-water-recipient-outdoors.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"d365n1gsvh"},{"Name":"integrity","Value":"sha256-GcluEetqtwFHkmeQ1lStC/NSTtfO/BwjlUpmd4Hnhls="},{"Name":"label","Value":"_content/CharityMVC.MVC/assets/images/causes/african-woman-pouring-water-recipient-outdoors.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"92413"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022GcluEetqtwFHkmeQ1lStC/NSTtfO/BwjlUpmd4Hnhls=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Apr 2022 08:17:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/images/causes/african-woman-pouring-water-recipient-outdoors.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\causes\african-woman-pouring-water-recipient-outdoors.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-GcluEetqtwFHkmeQ1lStC/NSTtfO/BwjlUpmd4Hnhls="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"92413"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022GcluEetqtwFHkmeQ1lStC/NSTtfO/BwjlUpmd4Hnhls=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Apr 2022 08:17:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/images/causes/group-african-kids-paying-attention-class.a7uygd4zow.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\causes\group-african-kids-paying-attention-class.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"a7uygd4zow"},{"Name":"integrity","Value":"sha256-ZjEEIVXj1uwsMBrhj19m4Im1Uy367VP5mQ4FvsCRtr4="},{"Name":"label","Value":"_content/CharityMVC.MVC/assets/images/causes/group-african-kids-paying-attention-class.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"104432"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ZjEEIVXj1uwsMBrhj19m4Im1Uy367VP5mQ4FvsCRtr4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Apr 2022 08:17:28 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/images/causes/group-african-kids-paying-attention-class.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\causes\group-african-kids-paying-attention-class.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ZjEEIVXj1uwsMBrhj19m4Im1Uy367VP5mQ4FvsCRtr4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"104432"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ZjEEIVXj1uwsMBrhj19m4Im1Uy367VP5mQ4FvsCRtr4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Apr 2022 08:17:28 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/images/causes/poor-child-landfill-looks-forward-with-hope.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\causes\poor-child-landfill-looks-forward-with-hope.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-XJtQkZEGhEu5JxHwD2HGl7cQLcPqqWLAM2eqcny\u002Bi\u002B8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"169170"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022XJtQkZEGhEu5JxHwD2HGl7cQLcPqqWLAM2eqcny\u002Bi\u002B8=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Apr 2022 08:17:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/images/causes/poor-child-landfill-looks-forward-with-hope.obcp2q7w0d.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\causes\poor-child-landfill-looks-forward-with-hope.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"obcp2q7w0d"},{"Name":"integrity","Value":"sha256-XJtQkZEGhEu5JxHwD2HGl7cQLcPqqWLAM2eqcny\u002Bi\u002B8="},{"Name":"label","Value":"_content/CharityMVC.MVC/assets/images/causes/poor-child-landfill-looks-forward-with-hope.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"169170"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022XJtQkZEGhEu5JxHwD2HGl7cQLcPqqWLAM2eqcny\u002Bi\u002B8=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Apr 2022 08:17:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/images/different-people-doing-volunteer-work.fkvhclj1fv.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\different-people-doing-volunteer-work.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fkvhclj1fv"},{"Name":"integrity","Value":"sha256-Dyr3gw3iI5UtSO1da5RuT3PlRQawDM4jPDva9YImn2o="},{"Name":"label","Value":"_content/CharityMVC.MVC/assets/images/different-people-doing-volunteer-work.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"268152"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Dyr3gw3iI5UtSO1da5RuT3PlRQawDM4jPDva9YImn2o=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Apr 2022 07:47:14 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/images/different-people-doing-volunteer-work.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\different-people-doing-volunteer-work.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Dyr3gw3iI5UtSO1da5RuT3PlRQawDM4jPDva9YImn2o="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"268152"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Dyr3gw3iI5UtSO1da5RuT3PlRQawDM4jPDva9YImn2o=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Apr 2022 07:47:14 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/images/group-people-volunteering-foodbank-poor-people.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\group-people-volunteering-foodbank-poor-people.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-zTO7I7Udmtbnc8fhWXjlHxWpQcbQr2kEX0cMFfS7Q6E="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"139069"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022zTO7I7Udmtbnc8fhWXjlHxWpQcbQr2kEX0cMFfS7Q6E=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Apr 2022 07:46:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/images/group-people-volunteering-foodbank-poor-people.v5i1m9utv8.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\group-people-volunteering-foodbank-poor-people.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"v5i1m9utv8"},{"Name":"integrity","Value":"sha256-zTO7I7Udmtbnc8fhWXjlHxWpQcbQr2kEX0cMFfS7Q6E="},{"Name":"label","Value":"_content/CharityMVC.MVC/assets/images/group-people-volunteering-foodbank-poor-people.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"139069"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022zTO7I7Udmtbnc8fhWXjlHxWpQcbQr2kEX0cMFfS7Q6E=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Apr 2022 07:46:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/images/icons/hands.dalzb4kp5o.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\icons\hands.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"dalzb4kp5o"},{"Name":"integrity","Value":"sha256-e677BdeVptKoPpgCvyzN22WHK28mbtpCKbjjEpP8Y0c="},{"Name":"label","Value":"_content/CharityMVC.MVC/assets/images/icons/hands.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5009"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022e677BdeVptKoPpgCvyzN22WHK28mbtpCKbjjEpP8Y0c=\u0022"},{"Name":"Last-Modified","Value":"Mon, 11 Apr 2022 05:12:14 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/images/icons/hands.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\icons\hands.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-e677BdeVptKoPpgCvyzN22WHK28mbtpCKbjjEpP8Y0c="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"5009"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022e677BdeVptKoPpgCvyzN22WHK28mbtpCKbjjEpP8Y0c=\u0022"},{"Name":"Last-Modified","Value":"Mon, 11 Apr 2022 05:12:14 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/images/icons/heart.4jgc2s7ass.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\icons\heart.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"4jgc2s7ass"},{"Name":"integrity","Value":"sha256-sAAaQ3jD\u002B4RF8jfpOSFpyNc95nILO44Uz21R0WFqM/Y="},{"Name":"label","Value":"_content/CharityMVC.MVC/assets/images/icons/heart.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7433"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022sAAaQ3jD\u002B4RF8jfpOSFpyNc95nILO44Uz21R0WFqM/Y=\u0022"},{"Name":"Last-Modified","Value":"Mon, 11 Apr 2022 05:08:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/images/icons/heart.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\icons\heart.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-sAAaQ3jD\u002B4RF8jfpOSFpyNc95nILO44Uz21R0WFqM/Y="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"7433"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022sAAaQ3jD\u002B4RF8jfpOSFpyNc95nILO44Uz21R0WFqM/Y=\u0022"},{"Name":"Last-Modified","Value":"Mon, 11 Apr 2022 05:08:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/images/icons/receive.80irdylf1f.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\icons\receive.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"80irdylf1f"},{"Name":"integrity","Value":"sha256-6JjJmwF0jWM8xUtz5grEcuNMZ2C7sSvIT8BS0tXPpy0="},{"Name":"label","Value":"_content/CharityMVC.MVC/assets/images/icons/receive.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6759"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00226JjJmwF0jWM8xUtz5grEcuNMZ2C7sSvIT8BS0tXPpy0=\u0022"},{"Name":"Last-Modified","Value":"Mon, 11 Apr 2022 05:09:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/images/icons/receive.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\icons\receive.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-6JjJmwF0jWM8xUtz5grEcuNMZ2C7sSvIT8BS0tXPpy0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"6759"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00226JjJmwF0jWM8xUtz5grEcuNMZ2C7sSvIT8BS0tXPpy0=\u0022"},{"Name":"Last-Modified","Value":"Mon, 11 Apr 2022 05:09:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/images/icons/scholarship.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\icons\scholarship.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-LMWnWcoo53Gkd443JUKOSOXCUZIq0lw5bsVzsDddQDQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"6636"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022LMWnWcoo53Gkd443JUKOSOXCUZIq0lw5bsVzsDddQDQ=\u0022"},{"Name":"Last-Modified","Value":"Mon, 11 Apr 2022 05:09:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/images/icons/scholarship.whdmhfknkz.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\icons\scholarship.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"whdmhfknkz"},{"Name":"integrity","Value":"sha256-LMWnWcoo53Gkd443JUKOSOXCUZIq0lw5bsVzsDddQDQ="},{"Name":"label","Value":"_content/CharityMVC.MVC/assets/images/icons/scholarship.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6636"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022LMWnWcoo53Gkd443JUKOSOXCUZIq0lw5bsVzsDddQDQ=\u0022"},{"Name":"Last-Modified","Value":"Mon, 11 Apr 2022 05:09:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/images/logo.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\logo.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-IYtMVEyD9bSg7ie2XFDwSq87vUZTIVcjiigbzs9d8\u002BM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"21026"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022IYtMVEyD9bSg7ie2XFDwSq87vUZTIVcjiigbzs9d8\u002BM=\u0022"},{"Name":"Last-Modified","Value":"Sat, 09 Apr 2022 16:15:56 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/images/logo.zr3b5qgjvy.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\logo.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"zr3b5qgjvy"},{"Name":"integrity","Value":"sha256-IYtMVEyD9bSg7ie2XFDwSq87vUZTIVcjiigbzs9d8\u002BM="},{"Name":"label","Value":"_content/CharityMVC.MVC/assets/images/logo.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"21026"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022IYtMVEyD9bSg7ie2XFDwSq87vUZTIVcjiigbzs9d8\u002BM=\u0022"},{"Name":"Last-Modified","Value":"Sat, 09 Apr 2022 16:15:56 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/images/news/africa-humanitarian-aid-doctor.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\news\africa-humanitarian-aid-doctor.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Frnw\u002B1aEmblharFYVwL75eKu3sR9HuPbSz4Qm6yuMOk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"123469"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Frnw\u002B1aEmblharFYVwL75eKu3sR9HuPbSz4Qm6yuMOk=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Apr 2022 08:12:56 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/images/news/africa-humanitarian-aid-doctor.yxls7htp7p.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\news\africa-humanitarian-aid-doctor.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"yxls7htp7p"},{"Name":"integrity","Value":"sha256-Frnw\u002B1aEmblharFYVwL75eKu3sR9HuPbSz4Qm6yuMOk="},{"Name":"label","Value":"_content/CharityMVC.MVC/assets/images/news/africa-humanitarian-aid-doctor.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"123469"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Frnw\u002B1aEmblharFYVwL75eKu3sR9HuPbSz4Qm6yuMOk=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Apr 2022 08:12:56 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/images/news/close-up-happy-people-working-together.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\news\close-up-happy-people-working-together.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-JXLMgCdzVf18FxGo8iZRsfWOOs5SCrvZyxLoE6nGiYI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"97298"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022JXLMgCdzVf18FxGo8iZRsfWOOs5SCrvZyxLoE6nGiYI=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Apr 2022 08:13:10 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/images/news/close-up-happy-people-working-together.pb8kb8kjv5.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\news\close-up-happy-people-working-together.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"pb8kb8kjv5"},{"Name":"integrity","Value":"sha256-JXLMgCdzVf18FxGo8iZRsfWOOs5SCrvZyxLoE6nGiYI="},{"Name":"label","Value":"_content/CharityMVC.MVC/assets/images/news/close-up-happy-people-working-together.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"97298"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022JXLMgCdzVf18FxGo8iZRsfWOOs5SCrvZyxLoE6nGiYI=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Apr 2022 08:13:10 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/images/news/close-up-volunteer-oganizing-stuff-donation.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\news\close-up-volunteer-oganizing-stuff-donation.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-CBH1Swe1\u002BdbEAbb3d4jVhxFmOrJlfYVey87ptUlCmUI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"117522"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022CBH1Swe1\u002BdbEAbb3d4jVhxFmOrJlfYVey87ptUlCmUI=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Apr 2022 08:15:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/images/news/close-up-volunteer-oganizing-stuff-donation.oczg8wtayi.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\news\close-up-volunteer-oganizing-stuff-donation.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"oczg8wtayi"},{"Name":"integrity","Value":"sha256-CBH1Swe1\u002BdbEAbb3d4jVhxFmOrJlfYVey87ptUlCmUI="},{"Name":"label","Value":"_content/CharityMVC.MVC/assets/images/news/close-up-volunteer-oganizing-stuff-donation.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"117522"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022CBH1Swe1\u002BdbEAbb3d4jVhxFmOrJlfYVey87ptUlCmUI=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Apr 2022 08:15:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/images/news/medium-shot-people-collecting-foodstuff.095gloesun.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\news\medium-shot-people-collecting-foodstuff.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"095gloesun"},{"Name":"integrity","Value":"sha256-bAzfxVYozduivebiLUnvcdZUiqm9S3v2jSe5mlGOWIU="},{"Name":"label","Value":"_content/CharityMVC.MVC/assets/images/news/medium-shot-people-collecting-foodstuff.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"106671"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022bAzfxVYozduivebiLUnvcdZUiqm9S3v2jSe5mlGOWIU=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Apr 2022 08:16:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/images/news/medium-shot-people-collecting-foodstuff.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\news\medium-shot-people-collecting-foodstuff.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-bAzfxVYozduivebiLUnvcdZUiqm9S3v2jSe5mlGOWIU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"106671"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022bAzfxVYozduivebiLUnvcdZUiqm9S3v2jSe5mlGOWIU=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Apr 2022 08:16:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/images/news/medium-shot-volunteers-with-clothing-donations.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\news\medium-shot-volunteers-with-clothing-donations.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-vByxUxzOtLX\u002BS7VTEYCZ8Q3ckTni0KW6g9Mcy9HgeUs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"91110"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022vByxUxzOtLX\u002BS7VTEYCZ8Q3ckTni0KW6g9Mcy9HgeUs=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Apr 2022 08:16:28 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/images/news/medium-shot-volunteers-with-clothing-donations.k89u5tao0m.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\news\medium-shot-volunteers-with-clothing-donations.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"k89u5tao0m"},{"Name":"integrity","Value":"sha256-vByxUxzOtLX\u002BS7VTEYCZ8Q3ckTni0KW6g9Mcy9HgeUs="},{"Name":"label","Value":"_content/CharityMVC.MVC/assets/images/news/medium-shot-volunteers-with-clothing-donations.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"91110"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022vByxUxzOtLX\u002BS7VTEYCZ8Q3ckTni0KW6g9Mcy9HgeUs=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Apr 2022 08:16:28 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/images/portrait-volunteer-who-organized-donations-charity.4tb50h6bbm.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\portrait-volunteer-who-organized-donations-charity.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"4tb50h6bbm"},{"Name":"integrity","Value":"sha256-CM9SE9mRBhhDoPpGScMvOWL9PKdIwLiGfN0wcGggBcw="},{"Name":"label","Value":"_content/CharityMVC.MVC/assets/images/portrait-volunteer-who-organized-donations-charity.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"102388"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022CM9SE9mRBhhDoPpGScMvOWL9PKdIwLiGfN0wcGggBcw=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Apr 2022 07:48:10 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/images/portrait-volunteer-who-organized-donations-charity.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\portrait-volunteer-who-organized-donations-charity.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-CM9SE9mRBhhDoPpGScMvOWL9PKdIwLiGfN0wcGggBcw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"102388"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022CM9SE9mRBhhDoPpGScMvOWL9PKdIwLiGfN0wcGggBcw=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Apr 2022 07:48:10 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/images/slide/medium-shot-people-collecting-donations.7jsdetthye.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\slide\medium-shot-people-collecting-donations.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"7jsdetthye"},{"Name":"integrity","Value":"sha256-s0PGynlOe9ZYntIcWfEozoeSszAjhJ0YuU4/lhAeSt4="},{"Name":"label","Value":"_content/CharityMVC.MVC/assets/images/slide/medium-shot-people-collecting-donations.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"183831"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022s0PGynlOe9ZYntIcWfEozoeSszAjhJ0YuU4/lhAeSt4=\u0022"},{"Name":"Last-Modified","Value":"Wed, 11 May 2022 04:27:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/images/slide/medium-shot-people-collecting-donations.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\slide\medium-shot-people-collecting-donations.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-s0PGynlOe9ZYntIcWfEozoeSszAjhJ0YuU4/lhAeSt4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"183831"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022s0PGynlOe9ZYntIcWfEozoeSszAjhJ0YuU4/lhAeSt4=\u0022"},{"Name":"Last-Modified","Value":"Wed, 11 May 2022 04:27:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/images/slide/volunteer-helping-with-donation-box.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\slide\volunteer-helping-with-donation-box.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-7YFkSKs\u002Bl2ST\u002BEyCbWNlahMMQM1wnN2\u002BSuNzuJvA5S0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"173062"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00227YFkSKs\u002Bl2ST\u002BEyCbWNlahMMQM1wnN2\u002BSuNzuJvA5S0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Apr 2022 08:11:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/images/slide/volunteer-helping-with-donation-box.z0vwp0ua5z.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\slide\volunteer-helping-with-donation-box.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"z0vwp0ua5z"},{"Name":"integrity","Value":"sha256-7YFkSKs\u002Bl2ST\u002BEyCbWNlahMMQM1wnN2\u002BSuNzuJvA5S0="},{"Name":"label","Value":"_content/CharityMVC.MVC/assets/images/slide/volunteer-helping-with-donation-box.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"173062"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00227YFkSKs\u002Bl2ST\u002BEyCbWNlahMMQM1wnN2\u002BSuNzuJvA5S0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Apr 2022 08:11:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/images/slide/volunteer-selecting-organizing-clothes-donations-charity.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\slide\volunteer-selecting-organizing-clothes-donations-charity.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-zDBQBVwL7\u002B4o0dUK7PwRtiOwIGR6vd7Ij7l7pMyxi7g="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"139031"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022zDBQBVwL7\u002B4o0dUK7PwRtiOwIGR6vd7Ij7l7pMyxi7g=\u0022"},{"Name":"Last-Modified","Value":"Wed, 11 May 2022 04:28:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/images/slide/volunteer-selecting-organizing-clothes-donations-charity.opzoyp8mjm.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\slide\volunteer-selecting-organizing-clothes-donations-charity.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"opzoyp8mjm"},{"Name":"integrity","Value":"sha256-zDBQBVwL7\u002B4o0dUK7PwRtiOwIGR6vd7Ij7l7pMyxi7g="},{"Name":"label","Value":"_content/CharityMVC.MVC/assets/images/slide/volunteer-selecting-organizing-clothes-donations-charity.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"139031"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022zDBQBVwL7\u002B4o0dUK7PwRtiOwIGR6vd7Ij7l7pMyxi7g=\u0022"},{"Name":"Last-Modified","Value":"Wed, 11 May 2022 04:28:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/images/smiling-casual-woman-dressed-volunteer-t-shirt-with-badge.ckk37g09uy.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\smiling-casual-woman-dressed-volunteer-t-shirt-with-badge.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ckk37g09uy"},{"Name":"integrity","Value":"sha256-3HHWwO1lI9V839n\u002Ba4dWBmI\u002BxV8E5yuGNR2SqRskuzs="},{"Name":"label","Value":"_content/CharityMVC.MVC/assets/images/smiling-casual-woman-dressed-volunteer-t-shirt-with-badge.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"54901"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00223HHWwO1lI9V839n\u002Ba4dWBmI\u002BxV8E5yuGNR2SqRskuzs=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Apr 2022 07:47:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/images/smiling-casual-woman-dressed-volunteer-t-shirt-with-badge.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\smiling-casual-woman-dressed-volunteer-t-shirt-with-badge.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-3HHWwO1lI9V839n\u002Ba4dWBmI\u002BxV8E5yuGNR2SqRskuzs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"54901"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00223HHWwO1lI9V839n\u002Ba4dWBmI\u002BxV8E5yuGNR2SqRskuzs=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Apr 2022 07:47:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/js/bootstrap.min.78q30n7uw8.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\js\bootstrap.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"78q30n7uw8"},{"Name":"integrity","Value":"sha256-h1OMS35Ij1pJ0S\u002BY1qBK/GHQDyankPMZVpeZrNQ062U="},{"Name":"label","Value":"_content/CharityMVC.MVC/assets/js/bootstrap.min.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"60480"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022h1OMS35Ij1pJ0S\u002BY1qBK/GHQDyankPMZVpeZrNQ062U=\u0022"},{"Name":"Last-Modified","Value":"Sun, 02 Oct 2022 06:07:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/js/bootstrap.min.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\js\bootstrap.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-h1OMS35Ij1pJ0S\u002BY1qBK/GHQDyankPMZVpeZrNQ062U="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"60480"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022h1OMS35Ij1pJ0S\u002BY1qBK/GHQDyankPMZVpeZrNQ062U=\u0022"},{"Name":"Last-Modified","Value":"Sun, 02 Oct 2022 06:07:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/js/click-scroll.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\js\click-scroll.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-YDNnexbA2nt3OVniM\u002BO0wGsV0inb3UvTIdoxm7yepIA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1270"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022YDNnexbA2nt3OVniM\u002BO0wGsV0inb3UvTIdoxm7yepIA=\u0022"},{"Name":"Last-Modified","Value":"Sat, 23 Apr 2022 04:44:30 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/js/click-scroll.oi0ntl6b5d.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\js\click-scroll.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"oi0ntl6b5d"},{"Name":"integrity","Value":"sha256-YDNnexbA2nt3OVniM\u002BO0wGsV0inb3UvTIdoxm7yepIA="},{"Name":"label","Value":"_content/CharityMVC.MVC/assets/js/click-scroll.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1270"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022YDNnexbA2nt3OVniM\u002BO0wGsV0inb3UvTIdoxm7yepIA=\u0022"},{"Name":"Last-Modified","Value":"Sat, 23 Apr 2022 04:44:30 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/js/counter.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\js\counter.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-NX9omu5WxCwAXlZt47Y2SbbiMs306BJ8A9wymRmLGPQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3981"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022NX9omu5WxCwAXlZt47Y2SbbiMs306BJ8A9wymRmLGPQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 17 Nov 2016 05:17:54 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/js/counter.lwmpzzt8ia.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\js\counter.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"lwmpzzt8ia"},{"Name":"integrity","Value":"sha256-NX9omu5WxCwAXlZt47Y2SbbiMs306BJ8A9wymRmLGPQ="},{"Name":"label","Value":"_content/CharityMVC.MVC/assets/js/counter.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3981"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022NX9omu5WxCwAXlZt47Y2SbbiMs306BJ8A9wymRmLGPQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 17 Nov 2016 05:17:54 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/js/custom.8m8ez7x4g4.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\js\custom.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8m8ez7x4g4"},{"Name":"integrity","Value":"sha256-ILK/TJzzJu0nXbnCFef0NR7vjRTgC1biLICWHDalovM="},{"Name":"label","Value":"_content/CharityMVC.MVC/assets/js/custom.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"673"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022ILK/TJzzJu0nXbnCFef0NR7vjRTgC1biLICWHDalovM=\u0022"},{"Name":"Last-Modified","Value":"Fri, 06 May 2022 09:38:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/js/custom.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\js\custom.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ILK/TJzzJu0nXbnCFef0NR7vjRTgC1biLICWHDalovM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"673"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022ILK/TJzzJu0nXbnCFef0NR7vjRTgC1biLICWHDalovM=\u0022"},{"Name":"Last-Modified","Value":"Fri, 06 May 2022 09:38:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/js/jquery.min.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\js\jquery.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-BGhb3v7SCZyuX1RFBbgxnueuTQp/kKk7LnZL3lytHeY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"85658"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022BGhb3v7SCZyuX1RFBbgxnueuTQp/kKk7LnZL3lytHeY=\u0022"},{"Name":"Last-Modified","Value":"Wed, 06 Oct 2021 06:41:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/js/jquery.min.sc7v1wgpvn.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\js\jquery.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"sc7v1wgpvn"},{"Name":"integrity","Value":"sha256-BGhb3v7SCZyuX1RFBbgxnueuTQp/kKk7LnZL3lytHeY="},{"Name":"label","Value":"_content/CharityMVC.MVC/assets/js/jquery.min.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"85658"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022BGhb3v7SCZyuX1RFBbgxnueuTQp/kKk7LnZL3lytHeY=\u0022"},{"Name":"Last-Modified","Value":"Wed, 06 Oct 2021 06:41:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/js/jquery.sticky.418w80nofn.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\js\jquery.sticky.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"418w80nofn"},{"Name":"integrity","Value":"sha256-WJfA6yfp7nbLqEyGFUmBmxVNTVG79BMPPBhtq\u002Bi\u002BRgo="},{"Name":"label","Value":"_content/CharityMVC.MVC/assets/js/jquery.sticky.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7296"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022WJfA6yfp7nbLqEyGFUmBmxVNTVG79BMPPBhtq\u002Bi\u002BRgo=\u0022"},{"Name":"Last-Modified","Value":"Sat, 09 Apr 2022 14:26:20 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/js/jquery.sticky.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\js\jquery.sticky.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-WJfA6yfp7nbLqEyGFUmBmxVNTVG79BMPPBhtq\u002Bi\u002BRgo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"7296"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022WJfA6yfp7nbLqEyGFUmBmxVNTVG79BMPPBhtq\u002Bi\u002BRgo=\u0022"},{"Name":"Last-Modified","Value":"Sat, 09 Apr 2022 14:26:20 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/UploadedImages/download32d6165f-1cfc-46e0-9b89-7c878c011d99.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\UploadedImages\download32d6165f-1cfc-46e0-9b89-7c878c011d99.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-aF\u002BEfhKQRz9ZXGZfN/v95TD\u002BaCIsVUIsy8iZ4ArPa54="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"9063"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022aF\u002BEfhKQRz9ZXGZfN/v95TD\u002BaCIsVUIsy8iZ4ArPa54=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 May 2025 11:30:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/UploadedImages/download32d6165f-1cfc-46e0-9b89-7c878c011d99.wu9ilakqvt.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\UploadedImages\download32d6165f-1cfc-46e0-9b89-7c878c011d99.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wu9ilakqvt"},{"Name":"integrity","Value":"sha256-aF\u002BEfhKQRz9ZXGZfN/v95TD\u002BaCIsVUIsy8iZ4ArPa54="},{"Name":"label","Value":"_content/CharityMVC.MVC/assets/UploadedImages/download32d6165f-1cfc-46e0-9b89-7c878c011d99.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9063"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022aF\u002BEfhKQRz9ZXGZfN/v95TD\u002BaCIsVUIsy8iZ4ArPa54=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 May 2025 11:30:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/UploadedImages/download4aa681e5-6e93-47c3-bf3a-57bee0bc30f0.4zk9023wjh.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\UploadedImages\download4aa681e5-6e93-47c3-bf3a-57bee0bc30f0.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"4zk9023wjh"},{"Name":"integrity","Value":"sha256-cErYhjYQIxJxLR4275DMOc1\u002BPwnilGgZuTXyhp4DXrg="},{"Name":"label","Value":"_content/CharityMVC.MVC/assets/UploadedImages/download4aa681e5-6e93-47c3-bf3a-57bee0bc30f0.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"10426"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022cErYhjYQIxJxLR4275DMOc1\u002BPwnilGgZuTXyhp4DXrg=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 May 2025 11:42:05 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/UploadedImages/download4aa681e5-6e93-47c3-bf3a-57bee0bc30f0.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\UploadedImages\download4aa681e5-6e93-47c3-bf3a-57bee0bc30f0.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-cErYhjYQIxJxLR4275DMOc1\u002BPwnilGgZuTXyhp4DXrg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"10426"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022cErYhjYQIxJxLR4275DMOc1\u002BPwnilGgZuTXyhp4DXrg=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 May 2025 11:42:05 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/UploadedImages/download6f0e2b91-a2c7-4a7d-822e-8f17c15541b6.4zk9023wjh.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\UploadedImages\download6f0e2b91-a2c7-4a7d-822e-8f17c15541b6.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"4zk9023wjh"},{"Name":"integrity","Value":"sha256-cErYhjYQIxJxLR4275DMOc1\u002BPwnilGgZuTXyhp4DXrg="},{"Name":"label","Value":"_content/CharityMVC.MVC/assets/UploadedImages/download6f0e2b91-a2c7-4a7d-822e-8f17c15541b6.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"10426"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022cErYhjYQIxJxLR4275DMOc1\u002BPwnilGgZuTXyhp4DXrg=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 May 2025 11:41:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/UploadedImages/download6f0e2b91-a2c7-4a7d-822e-8f17c15541b6.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\UploadedImages\download6f0e2b91-a2c7-4a7d-822e-8f17c15541b6.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-cErYhjYQIxJxLR4275DMOc1\u002BPwnilGgZuTXyhp4DXrg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"10426"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022cErYhjYQIxJxLR4275DMOc1\u002BPwnilGgZuTXyhp4DXrg=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 May 2025 11:41:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/UploadedImages/downloadac5e8259-bcb7-42ed-ac6f-19192d21b663.4zk9023wjh.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\UploadedImages\downloadac5e8259-bcb7-42ed-ac6f-19192d21b663.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"4zk9023wjh"},{"Name":"integrity","Value":"sha256-cErYhjYQIxJxLR4275DMOc1\u002BPwnilGgZuTXyhp4DXrg="},{"Name":"label","Value":"_content/CharityMVC.MVC/assets/UploadedImages/downloadac5e8259-bcb7-42ed-ac6f-19192d21b663.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"10426"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022cErYhjYQIxJxLR4275DMOc1\u002BPwnilGgZuTXyhp4DXrg=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 May 2025 11:41:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CharityMVC.MVC/assets/UploadedImages/downloadac5e8259-bcb7-42ed-ac6f-19192d21b663.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\UploadedImages\downloadac5e8259-bcb7-42ed-ac6f-19192d21b663.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-cErYhjYQIxJxLR4275DMOc1\u002BPwnilGgZuTXyhp4DXrg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"10426"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022cErYhjYQIxJxLR4275DMOc1\u002BPwnilGgZuTXyhp4DXrg=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 May 2025 11:41:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

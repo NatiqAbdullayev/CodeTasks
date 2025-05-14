@@ -1,0 +1,14 @@
+C:\Users\II Novbe\source\repos\CharityMVC\CharityMVC.DAL\bin\Debug\net8.0\CharityMVC.DAL.deps.json
+C:\Users\II Novbe\source\repos\CharityMVC\CharityMVC.DAL\bin\Debug\net8.0\CharityMVC.DAL.dll
+C:\Users\II Novbe\source\repos\CharityMVC\CharityMVC.DAL\bin\Debug\net8.0\CharityMVC.DAL.pdb
+C:\Users\II Novbe\source\repos\CharityMVC\CharityMVC.DAL\obj\Debug\net8.0\CharityMVC.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\source\repos\CharityMVC\CharityMVC.DAL\obj\Debug\net8.0\CharityMVC.DAL.AssemblyInfoInputs.cache
+C:\Users\II Novbe\source\repos\CharityMVC\CharityMVC.DAL\obj\Debug\net8.0\CharityMVC.DAL.AssemblyInfo.cs
+C:\Users\II Novbe\source\repos\CharityMVC\CharityMVC.DAL\obj\Debug\net8.0\CharityMVC.DAL.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\source\repos\CharityMVC\CharityMVC.DAL\obj\Debug\net8.0\CharityMVC.DAL.dll
+C:\Users\II Novbe\source\repos\CharityMVC\CharityMVC.DAL\obj\Debug\net8.0\refint\CharityMVC.DAL.dll
+C:\Users\II Novbe\source\repos\CharityMVC\CharityMVC.DAL\obj\Debug\net8.0\CharityMVC.DAL.pdb
+C:\Users\II Novbe\source\repos\CharityMVC\CharityMVC.DAL\obj\Debug\net8.0\ref\CharityMVC.DAL.dll
+C:\Users\II Novbe\source\repos\CharityMVC\CharityMVC.DAL\bin\Debug\net8.0\CharityMVC.DAL.runtimeconfig.json
+C:\Users\II Novbe\source\repos\CharityMVC\CharityMVC.DAL\obj\Debug\net8.0\CharityMVC.DAL.csproj.AssemblyReference.cache
+C:\Users\II Novbe\source\repos\CharityMVC\CharityMVC.DAL\obj\Debug\net8.0\CharityMVC.DAL.genruntimeconfig.cache

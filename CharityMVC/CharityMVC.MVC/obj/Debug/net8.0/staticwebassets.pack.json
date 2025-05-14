@@ -1,0 +1,249 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\Admin\\assets\\css\\styles.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\Admin\\assets\\demo\\chart-area-demo.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\demo\\chart-area-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\Admin\\assets\\demo\\chart-bar-demo.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\demo\\chart-bar-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\Admin\\assets\\demo\\chart-pie-demo.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\demo\\chart-pie-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\Admin\\assets\\demo\\datatables-demo.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\demo\\datatables-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\Admin\\assets\\img\\error-404-monochrome.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\error-404-monochrome.svg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\Admin\\assets\\js\\datatables-simple-demo.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\datatables-simple-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\Admin\\assets\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\UploadedImages\\download32d6165f-1cfc-46e0-9b89-7c878c011d99.jpg",
+      "PackagePath": "staticwebassets\\assets\\UploadedImages\\download32d6165f-1cfc-46e0-9b89-7c878c011d99.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\UploadedImages\\download4aa681e5-6e93-47c3-bf3a-57bee0bc30f0.jpg",
+      "PackagePath": "staticwebassets\\assets\\UploadedImages\\download4aa681e5-6e93-47c3-bf3a-57bee0bc30f0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\UploadedImages\\download6f0e2b91-a2c7-4a7d-822e-8f17c15541b6.jpg",
+      "PackagePath": "staticwebassets\\assets\\UploadedImages\\download6f0e2b91-a2c7-4a7d-822e-8f17c15541b6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\UploadedImages\\downloadac5e8259-bcb7-42ed-ac6f-19192d21b663.jpg",
+      "PackagePath": "staticwebassets\\assets\\UploadedImages\\downloadac5e8259-bcb7-42ed-ac6f-19192d21b663.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\css\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\css\\templatemo-kind-heart-charity.css",
+      "PackagePath": "staticwebassets\\assets\\css\\templatemo-kind-heart-charity.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\fonts\\Metropolis\\Metropolis-Bold.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Metropolis\\Metropolis-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\fonts\\Metropolis\\Metropolis-Bold.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Metropolis\\Metropolis-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\fonts\\Metropolis\\Metropolis-Light.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Metropolis\\Metropolis-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\fonts\\Metropolis\\Metropolis-Light.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Metropolis\\Metropolis-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\fonts\\Metropolis\\Metropolis-Regular.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Metropolis\\Metropolis-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\fonts\\Metropolis\\Metropolis-Regular.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Metropolis\\Metropolis-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\fonts\\Metropolis\\Metropolis-SemiBold.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Metropolis\\Metropolis-SemiBold.woff"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\fonts\\Metropolis\\Metropolis-SemiBold.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Metropolis\\Metropolis-SemiBold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\avatar\\portrait-beautiful-young-woman-standing-grey-wall.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\avatar\\portrait-beautiful-young-woman-standing-grey-wall.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\avatar\\portrait-young-beautiful-woman-gesticulating.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\avatar\\portrait-young-beautiful-woman-gesticulating.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\avatar\\portrait-young-redhead-bearded-male.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\avatar\\portrait-young-redhead-bearded-male.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\avatar\\pretty-blonde-woman-wearing-white-t-shirt.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\avatar\\pretty-blonde-woman-wearing-white-t-shirt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\avatar\\studio-portrait-emotional-happy-funny.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\avatar\\studio-portrait-emotional-happy-funny.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\causes\\african-woman-pouring-water-recipient-outdoors.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\causes\\african-woman-pouring-water-recipient-outdoors.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\causes\\group-african-kids-paying-attention-class.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\causes\\group-african-kids-paying-attention-class.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\causes\\poor-child-landfill-looks-forward-with-hope.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\causes\\poor-child-landfill-looks-forward-with-hope.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\different-people-doing-volunteer-work.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\different-people-doing-volunteer-work.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\group-people-volunteering-foodbank-poor-people.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\group-people-volunteering-foodbank-poor-people.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\icons\\hands.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\hands.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\icons\\heart.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\heart.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\icons\\receive.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\receive.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\icons\\scholarship.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\scholarship.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\news\\africa-humanitarian-aid-doctor.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\news\\africa-humanitarian-aid-doctor.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\news\\close-up-happy-people-working-together.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\news\\close-up-happy-people-working-together.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\news\\close-up-volunteer-oganizing-stuff-donation.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\news\\close-up-volunteer-oganizing-stuff-donation.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\news\\medium-shot-people-collecting-foodstuff.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\news\\medium-shot-people-collecting-foodstuff.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\news\\medium-shot-volunteers-with-clothing-donations.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\news\\medium-shot-volunteers-with-clothing-donations.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\portrait-volunteer-who-organized-donations-charity.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portrait-volunteer-who-organized-donations-charity.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\slide\\medium-shot-people-collecting-donations.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slide\\medium-shot-people-collecting-donations.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\slide\\volunteer-helping-with-donation-box.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slide\\volunteer-helping-with-donation-box.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\slide\\volunteer-selecting-organizing-clothes-donations-charity.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slide\\volunteer-selecting-organizing-clothes-donations-charity.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\smiling-casual-woman-dressed-volunteer-t-shirt-with-badge.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\smiling-casual-woman-dressed-volunteer-t-shirt-with-badge.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\js\\click-scroll.js",
+      "PackagePath": "staticwebassets\\assets\\js\\click-scroll.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\js\\counter.js",
+      "PackagePath": "staticwebassets\\assets\\js\\counter.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\js\\jquery.sticky.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.sticky.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CharityMVC.MVC.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CharityMVC.MVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CharityMVC.MVC.props",
+      "PackagePath": "build\\CharityMVC.MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CharityMVC.MVC.props",
+      "PackagePath": "buildMultiTargeting\\CharityMVC.MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CharityMVC.MVC.props",
+      "PackagePath": "buildTransitive\\CharityMVC.MVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,5790 @@
+{
+  "Version": 1,
+  "Hash": "0FTCYleOxG8A1szEIy8JmW2rDynkvFmYHQEbTXbHocA=",
+  "Source": "CharityMVC.MVC",
+  "BasePath": "_content/CharityMVC.MVC",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CharityMVC.MVC\\wwwroot",
+      "Source": "CharityMVC.MVC",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\",
+      "BasePath": "_content/CharityMVC.MVC",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\Admin\\assets\\css\\styles.css",
+      "SourceId": "CharityMVC.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\",
+      "BasePath": "_content/CharityMVC.MVC",
+      "RelativePath": "Admin/assets/css/styles#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mf45fbw2f4",
+      "Integrity": "Tl/JSPdgPPXWVWSUewZbpR6kZW1nVf8f6PA1SpwxpFo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Admin\\assets\\css\\styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\Admin\\assets\\demo\\chart-area-demo.js",
+      "SourceId": "CharityMVC.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\",
+      "BasePath": "_content/CharityMVC.MVC",
+      "RelativePath": "Admin/assets/demo/chart-area-demo#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8flq4k35dk",
+      "Integrity": "9LLP7XKqyptnrNbmQqIjm5rIDw5zwE9KWE4hVhK5Jvk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Admin\\assets\\demo\\chart-area-demo.js"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\Admin\\assets\\demo\\chart-bar-demo.js",
+      "SourceId": "CharityMVC.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\",
+      "BasePath": "_content/CharityMVC.MVC",
+      "RelativePath": "Admin/assets/demo/chart-bar-demo#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qbt6h4ox5y",
+      "Integrity": "9tpvm3R5RdFWxUDIA09CWwnWxpLxiJYWKom8gdLwl3I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Admin\\assets\\demo\\chart-bar-demo.js"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\Admin\\assets\\demo\\chart-pie-demo.js",
+      "SourceId": "CharityMVC.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\",
+      "BasePath": "_content/CharityMVC.MVC",
+      "RelativePath": "Admin/assets/demo/chart-pie-demo#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hw7eaup9v4",
+      "Integrity": "gXHh8OZnGFZ8Pb+CoSlwJ7lx7tZD1amOLrSASwI8Neo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Admin\\assets\\demo\\chart-pie-demo.js"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\Admin\\assets\\demo\\datatables-demo.js",
+      "SourceId": "CharityMVC.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\",
+      "BasePath": "_content/CharityMVC.MVC",
+      "RelativePath": "Admin/assets/demo/datatables-demo#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w9gruc5uo1",
+      "Integrity": "3BYZ/ie9x2nIWSAO1N9M0VISPR5FfP5Wg0EKHZzNOoo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Admin\\assets\\demo\\datatables-demo.js"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\Admin\\assets\\img\\error-404-monochrome.svg",
+      "SourceId": "CharityMVC.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\",
+      "BasePath": "_content/CharityMVC.MVC",
+      "RelativePath": "Admin/assets/img/error-404-monochrome#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yp87i3fbss",
+      "Integrity": "GuryUo0+xyzRuEVttjuLmS8hqxoE9FucfaX/mboMWj8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Admin\\assets\\img\\error-404-monochrome.svg"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\Admin\\assets\\js\\datatables-simple-demo.js",
+      "SourceId": "CharityMVC.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\",
+      "BasePath": "_content/CharityMVC.MVC",
+      "RelativePath": "Admin/assets/js/datatables-simple-demo#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xnqwbb6zwd",
+      "Integrity": "A5r4X24Y4UOeA7FBC6HS3voj76xkmczywh9qO+Ly5hQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Admin\\assets\\js\\datatables-simple-demo.js"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\Admin\\assets\\js\\scripts.js",
+      "SourceId": "CharityMVC.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\",
+      "BasePath": "_content/CharityMVC.MVC",
+      "RelativePath": "Admin/assets/js/scripts#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dqle62frat",
+      "Integrity": "hSOKtaoLbtAX3QLxogVcaVg8Fv7Y6HTCcpJqVePv720=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Admin\\assets\\js\\scripts.js"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "SourceId": "CharityMVC.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\",
+      "BasePath": "_content/CharityMVC.MVC",
+      "RelativePath": "assets/css/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jze4wm6kbq",
+      "Integrity": "IUOUHAPazai08QFs7W4MbzTlwEWFo7z/4zw8YmxEiko=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\css\\bootstrap-icons.css",
+      "SourceId": "CharityMVC.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\",
+      "BasePath": "_content/CharityMVC.MVC",
+      "RelativePath": "assets/css/bootstrap-icons#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "g5p0g328f6",
+      "Integrity": "rGQOWGP7z9/Zn3okdHniRJd9KJYfcPkVUytMxG4ueCs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\css\\bootstrap-icons.css"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\css\\templatemo-kind-heart-charity.css",
+      "SourceId": "CharityMVC.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\",
+      "BasePath": "_content/CharityMVC.MVC",
+      "RelativePath": "assets/css/templatemo-kind-heart-charity#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tyx543h7xc",
+      "Integrity": "NXvfSGmk5ll6KTTYDUOdoC77vhXnR+N68ZZzu3RIYTI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\css\\templatemo-kind-heart-charity.css"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\fonts\\bootstrap-icons.woff",
+      "SourceId": "CharityMVC.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\",
+      "BasePath": "_content/CharityMVC.MVC",
+      "RelativePath": "assets/fonts/bootstrap-icons#[.{fingerprint}]?.woff",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "p1b6jzbakj",
+      "Integrity": "k/PLDciBOdOT4030eg1EDtySx4SoWl1Fb1uitU4TYOI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\fonts\\bootstrap-icons.woff2",
+      "SourceId": "CharityMVC.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\",
+      "BasePath": "_content/CharityMVC.MVC",
+      "RelativePath": "assets/fonts/bootstrap-icons#[.{fingerprint}]?.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bjm8xm0qgo",
+      "Integrity": "6YKfu8wYQH3rKLSdrCTYFGmBsitKSBPxaZx3c+gMAbk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\fonts\\Metropolis\\Metropolis-Bold.woff",
+      "SourceId": "CharityMVC.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\",
+      "BasePath": "_content/CharityMVC.MVC",
+      "RelativePath": "assets/fonts/Metropolis/Metropolis-Bold#[.{fingerprint}]?.woff",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mew7qaathv",
+      "Integrity": "zkFbYA9CWzYofGAN1KgihnrG7VykOHBPV/rCeZZtbdg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\fonts\\Metropolis\\Metropolis-Bold.woff"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\fonts\\Metropolis\\Metropolis-Bold.woff2",
+      "SourceId": "CharityMVC.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\",
+      "BasePath": "_content/CharityMVC.MVC",
+      "RelativePath": "assets/fonts/Metropolis/Metropolis-Bold#[.{fingerprint}]?.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lkpqmzm7ci",
+      "Integrity": "9WWuqWzKHFUNrMDq0slr3FOXaQdKQbG/RCOi7gRQ+is=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\fonts\\Metropolis\\Metropolis-Bold.woff2"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\fonts\\Metropolis\\Metropolis-Light.woff",
+      "SourceId": "CharityMVC.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\",
+      "BasePath": "_content/CharityMVC.MVC",
+      "RelativePath": "assets/fonts/Metropolis/Metropolis-Light#[.{fingerprint}]?.woff",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "touo9faciy",
+      "Integrity": "XZbzU1NreC4xvaz9CjxWON8OgDa9Sgj1JuLPl+iLo7c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\fonts\\Metropolis\\Metropolis-Light.woff"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\fonts\\Metropolis\\Metropolis-Light.woff2",
+      "SourceId": "CharityMVC.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\",
+      "BasePath": "_content/CharityMVC.MVC",
+      "RelativePath": "assets/fonts/Metropolis/Metropolis-Light#[.{fingerprint}]?.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "skq8qdoqc2",
+      "Integrity": "jOYqFAtRPCtShmMkbynpxOLAi26NhiOcOW0Z3zAeRuw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\fonts\\Metropolis\\Metropolis-Light.woff2"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\fonts\\Metropolis\\Metropolis-Regular.woff",
+      "SourceId": "CharityMVC.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\",
+      "BasePath": "_content/CharityMVC.MVC",
+      "RelativePath": "assets/fonts/Metropolis/Metropolis-Regular#[.{fingerprint}]?.woff",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s17s9oy5cw",
+      "Integrity": "sHtd4URo8d4S1vqYdHtXWMLpkdM+ZegleaUib5Biefc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\fonts\\Metropolis\\Metropolis-Regular.woff"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\fonts\\Metropolis\\Metropolis-Regular.woff2",
+      "SourceId": "CharityMVC.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\",
+      "BasePath": "_content/CharityMVC.MVC",
+      "RelativePath": "assets/fonts/Metropolis/Metropolis-Regular#[.{fingerprint}]?.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "shwfk7g9fx",
+      "Integrity": "QKIK9eTcs/AkwqYjUO0uzqsTWOMPpuKBGrb+7sC6OMk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\fonts\\Metropolis\\Metropolis-Regular.woff2"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\fonts\\Metropolis\\Metropolis-SemiBold.woff",
+      "SourceId": "CharityMVC.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\",
+      "BasePath": "_content/CharityMVC.MVC",
+      "RelativePath": "assets/fonts/Metropolis/Metropolis-SemiBold#[.{fingerprint}]?.woff",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xi20zkfvfo",
+      "Integrity": "N3AfHmuPVuXGaHh0kjXKEiNOC6nQ5IunsnCCOf9bQGQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\fonts\\Metropolis\\Metropolis-SemiBold.woff"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\fonts\\Metropolis\\Metropolis-SemiBold.woff2",
+      "SourceId": "CharityMVC.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\",
+      "BasePath": "_content/CharityMVC.MVC",
+      "RelativePath": "assets/fonts/Metropolis/Metropolis-SemiBold#[.{fingerprint}]?.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "r4u5uji3g9",
+      "Integrity": "yxGtUn5dkIhPMX9MNXlmrSqwXVctEnB+oCf/xvbpN6g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\fonts\\Metropolis\\Metropolis-SemiBold.woff2"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\avatar\\portrait-beautiful-young-woman-standing-grey-wall.jpg",
+      "SourceId": "CharityMVC.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\",
+      "BasePath": "_content/CharityMVC.MVC",
+      "RelativePath": "assets/images/avatar/portrait-beautiful-young-woman-standing-grey-wall#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vrj87cfdzo",
+      "Integrity": "G10HtzMhvo9U6iKB5vZSD01zDfcGZ2iVyZ1+mIy5b/w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\avatar\\portrait-beautiful-young-woman-standing-grey-wall.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\avatar\\portrait-young-beautiful-woman-gesticulating.jpg",
+      "SourceId": "CharityMVC.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\",
+      "BasePath": "_content/CharityMVC.MVC",
+      "RelativePath": "assets/images/avatar/portrait-young-beautiful-woman-gesticulating#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w5sjjoa4pp",
+      "Integrity": "VAjx1Rr5Dz8PpsJfnu7wtt+s0YmqZqKHuYxOjeFJkk4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\avatar\\portrait-young-beautiful-woman-gesticulating.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\avatar\\portrait-young-redhead-bearded-male.jpg",
+      "SourceId": "CharityMVC.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\",
+      "BasePath": "_content/CharityMVC.MVC",
+      "RelativePath": "assets/images/avatar/portrait-young-redhead-bearded-male#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "buwihinjem",
+      "Integrity": "w99/X8HyfX9AD7fsL84LIC0BAcVvglGj3iydO1gNASI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\avatar\\portrait-young-redhead-bearded-male.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\avatar\\pretty-blonde-woman-wearing-white-t-shirt.jpg",
+      "SourceId": "CharityMVC.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\",
+      "BasePath": "_content/CharityMVC.MVC",
+      "RelativePath": "assets/images/avatar/pretty-blonde-woman-wearing-white-t-shirt#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "15oezhfe83",
+      "Integrity": "tcjNlE3V2tV84Gct/KBBI6q9njWwMFJGdhDTRTZRhBE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\avatar\\pretty-blonde-woman-wearing-white-t-shirt.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\avatar\\studio-portrait-emotional-happy-funny.jpg",
+      "SourceId": "CharityMVC.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\",
+      "BasePath": "_content/CharityMVC.MVC",
+      "RelativePath": "assets/images/avatar/studio-portrait-emotional-happy-funny#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "q5g10ddm5w",
+      "Integrity": "8lNiL91aTyD0a4XxiN54WwgwKmIWT4JyEHBTWkyazwQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\avatar\\studio-portrait-emotional-happy-funny.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\causes\\african-woman-pouring-water-recipient-outdoors.jpg",
+      "SourceId": "CharityMVC.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\",
+      "BasePath": "_content/CharityMVC.MVC",
+      "RelativePath": "assets/images/causes/african-woman-pouring-water-recipient-outdoors#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d365n1gsvh",
+      "Integrity": "GcluEetqtwFHkmeQ1lStC/NSTtfO/BwjlUpmd4Hnhls=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\causes\\african-woman-pouring-water-recipient-outdoors.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\causes\\group-african-kids-paying-attention-class.jpg",
+      "SourceId": "CharityMVC.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\",
+      "BasePath": "_content/CharityMVC.MVC",
+      "RelativePath": "assets/images/causes/group-african-kids-paying-attention-class#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "a7uygd4zow",
+      "Integrity": "ZjEEIVXj1uwsMBrhj19m4Im1Uy367VP5mQ4FvsCRtr4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\causes\\group-african-kids-paying-attention-class.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\causes\\poor-child-landfill-looks-forward-with-hope.jpg",
+      "SourceId": "CharityMVC.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\",
+      "BasePath": "_content/CharityMVC.MVC",
+      "RelativePath": "assets/images/causes/poor-child-landfill-looks-forward-with-hope#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "obcp2q7w0d",
+      "Integrity": "XJtQkZEGhEu5JxHwD2HGl7cQLcPqqWLAM2eqcny+i+8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\causes\\poor-child-landfill-looks-forward-with-hope.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\different-people-doing-volunteer-work.jpg",
+      "SourceId": "CharityMVC.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\",
+      "BasePath": "_content/CharityMVC.MVC",
+      "RelativePath": "assets/images/different-people-doing-volunteer-work#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fkvhclj1fv",
+      "Integrity": "Dyr3gw3iI5UtSO1da5RuT3PlRQawDM4jPDva9YImn2o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\different-people-doing-volunteer-work.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\group-people-volunteering-foodbank-poor-people.jpg",
+      "SourceId": "CharityMVC.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\",
+      "BasePath": "_content/CharityMVC.MVC",
+      "RelativePath": "assets/images/group-people-volunteering-foodbank-poor-people#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v5i1m9utv8",
+      "Integrity": "zTO7I7Udmtbnc8fhWXjlHxWpQcbQr2kEX0cMFfS7Q6E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\group-people-volunteering-foodbank-poor-people.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\icons\\hands.png",
+      "SourceId": "CharityMVC.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\",
+      "BasePath": "_content/CharityMVC.MVC",
+      "RelativePath": "assets/images/icons/hands#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dalzb4kp5o",
+      "Integrity": "e677BdeVptKoPpgCvyzN22WHK28mbtpCKbjjEpP8Y0c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\icons\\hands.png"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\icons\\heart.png",
+      "SourceId": "CharityMVC.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\",
+      "BasePath": "_content/CharityMVC.MVC",
+      "RelativePath": "assets/images/icons/heart#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4jgc2s7ass",
+      "Integrity": "sAAaQ3jD+4RF8jfpOSFpyNc95nILO44Uz21R0WFqM/Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\icons\\heart.png"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\icons\\receive.png",
+      "SourceId": "CharityMVC.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\",
+      "BasePath": "_content/CharityMVC.MVC",
+      "RelativePath": "assets/images/icons/receive#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "80irdylf1f",
+      "Integrity": "6JjJmwF0jWM8xUtz5grEcuNMZ2C7sSvIT8BS0tXPpy0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\icons\\receive.png"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\icons\\scholarship.png",
+      "SourceId": "CharityMVC.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\",
+      "BasePath": "_content/CharityMVC.MVC",
+      "RelativePath": "assets/images/icons/scholarship#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "whdmhfknkz",
+      "Integrity": "LMWnWcoo53Gkd443JUKOSOXCUZIq0lw5bsVzsDddQDQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\icons\\scholarship.png"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\logo.png",
+      "SourceId": "CharityMVC.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\",
+      "BasePath": "_content/CharityMVC.MVC",
+      "RelativePath": "assets/images/logo#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zr3b5qgjvy",
+      "Integrity": "IYtMVEyD9bSg7ie2XFDwSq87vUZTIVcjiigbzs9d8+M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\logo.png"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\news\\africa-humanitarian-aid-doctor.jpg",
+      "SourceId": "CharityMVC.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\",
+      "BasePath": "_content/CharityMVC.MVC",
+      "RelativePath": "assets/images/news/africa-humanitarian-aid-doctor#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yxls7htp7p",
+      "Integrity": "Frnw+1aEmblharFYVwL75eKu3sR9HuPbSz4Qm6yuMOk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\news\\africa-humanitarian-aid-doctor.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\news\\close-up-happy-people-working-together.jpg",
+      "SourceId": "CharityMVC.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\",
+      "BasePath": "_content/CharityMVC.MVC",
+      "RelativePath": "assets/images/news/close-up-happy-people-working-together#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pb8kb8kjv5",
+      "Integrity": "JXLMgCdzVf18FxGo8iZRsfWOOs5SCrvZyxLoE6nGiYI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\news\\close-up-happy-people-working-together.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\news\\close-up-volunteer-oganizing-stuff-donation.jpg",
+      "SourceId": "CharityMVC.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\",
+      "BasePath": "_content/CharityMVC.MVC",
+      "RelativePath": "assets/images/news/close-up-volunteer-oganizing-stuff-donation#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oczg8wtayi",
+      "Integrity": "CBH1Swe1+dbEAbb3d4jVhxFmOrJlfYVey87ptUlCmUI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\news\\close-up-volunteer-oganizing-stuff-donation.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\news\\medium-shot-people-collecting-foodstuff.jpg",
+      "SourceId": "CharityMVC.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\",
+      "BasePath": "_content/CharityMVC.MVC",
+      "RelativePath": "assets/images/news/medium-shot-people-collecting-foodstuff#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "095gloesun",
+      "Integrity": "bAzfxVYozduivebiLUnvcdZUiqm9S3v2jSe5mlGOWIU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\news\\medium-shot-people-collecting-foodstuff.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\news\\medium-shot-volunteers-with-clothing-donations.jpg",
+      "SourceId": "CharityMVC.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\",
+      "BasePath": "_content/CharityMVC.MVC",
+      "RelativePath": "assets/images/news/medium-shot-volunteers-with-clothing-donations#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "k89u5tao0m",
+      "Integrity": "vByxUxzOtLX+S7VTEYCZ8Q3ckTni0KW6g9Mcy9HgeUs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\news\\medium-shot-volunteers-with-clothing-donations.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\portrait-volunteer-who-organized-donations-charity.jpg",
+      "SourceId": "CharityMVC.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\",
+      "BasePath": "_content/CharityMVC.MVC",
+      "RelativePath": "assets/images/portrait-volunteer-who-organized-donations-charity#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4tb50h6bbm",
+      "Integrity": "CM9SE9mRBhhDoPpGScMvOWL9PKdIwLiGfN0wcGggBcw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\portrait-volunteer-who-organized-donations-charity.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\slide\\medium-shot-people-collecting-donations.jpg",
+      "SourceId": "CharityMVC.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\",
+      "BasePath": "_content/CharityMVC.MVC",
+      "RelativePath": "assets/images/slide/medium-shot-people-collecting-donations#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7jsdetthye",
+      "Integrity": "s0PGynlOe9ZYntIcWfEozoeSszAjhJ0YuU4/lhAeSt4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\slide\\medium-shot-people-collecting-donations.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\slide\\volunteer-helping-with-donation-box.jpg",
+      "SourceId": "CharityMVC.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\",
+      "BasePath": "_content/CharityMVC.MVC",
+      "RelativePath": "assets/images/slide/volunteer-helping-with-donation-box#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "z0vwp0ua5z",
+      "Integrity": "7YFkSKs+l2ST+EyCbWNlahMMQM1wnN2+SuNzuJvA5S0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\slide\\volunteer-helping-with-donation-box.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\slide\\volunteer-selecting-organizing-clothes-donations-charity.jpg",
+      "SourceId": "CharityMVC.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\",
+      "BasePath": "_content/CharityMVC.MVC",
+      "RelativePath": "assets/images/slide/volunteer-selecting-organizing-clothes-donations-charity#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "opzoyp8mjm",
+      "Integrity": "zDBQBVwL7+4o0dUK7PwRtiOwIGR6vd7Ij7l7pMyxi7g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\slide\\volunteer-selecting-organizing-clothes-donations-charity.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\smiling-casual-woman-dressed-volunteer-t-shirt-with-badge.jpg",
+      "SourceId": "CharityMVC.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\",
+      "BasePath": "_content/CharityMVC.MVC",
+      "RelativePath": "assets/images/smiling-casual-woman-dressed-volunteer-t-shirt-with-badge#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ckk37g09uy",
+      "Integrity": "3HHWwO1lI9V839n+a4dWBmI+xV8E5yuGNR2SqRskuzs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\smiling-casual-woman-dressed-volunteer-t-shirt-with-badge.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "SourceId": "CharityMVC.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\",
+      "BasePath": "_content/CharityMVC.MVC",
+      "RelativePath": "assets/js/bootstrap.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "78q30n7uw8",
+      "Integrity": "h1OMS35Ij1pJ0S+Y1qBK/GHQDyankPMZVpeZrNQ062U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\js\\click-scroll.js",
+      "SourceId": "CharityMVC.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\",
+      "BasePath": "_content/CharityMVC.MVC",
+      "RelativePath": "assets/js/click-scroll#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oi0ntl6b5d",
+      "Integrity": "YDNnexbA2nt3OVniM+O0wGsV0inb3UvTIdoxm7yepIA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\js\\click-scroll.js"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\js\\counter.js",
+      "SourceId": "CharityMVC.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\",
+      "BasePath": "_content/CharityMVC.MVC",
+      "RelativePath": "assets/js/counter#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lwmpzzt8ia",
+      "Integrity": "NX9omu5WxCwAXlZt47Y2SbbiMs306BJ8A9wymRmLGPQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\js\\counter.js"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\js\\custom.js",
+      "SourceId": "CharityMVC.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\",
+      "BasePath": "_content/CharityMVC.MVC",
+      "RelativePath": "assets/js/custom#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8m8ez7x4g4",
+      "Integrity": "ILK/TJzzJu0nXbnCFef0NR7vjRTgC1biLICWHDalovM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\js\\custom.js"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\js\\jquery.min.js",
+      "SourceId": "CharityMVC.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\",
+      "BasePath": "_content/CharityMVC.MVC",
+      "RelativePath": "assets/js/jquery.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sc7v1wgpvn",
+      "Integrity": "BGhb3v7SCZyuX1RFBbgxnueuTQp/kKk7LnZL3lytHeY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\js\\jquery.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\js\\jquery.sticky.js",
+      "SourceId": "CharityMVC.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\",
+      "BasePath": "_content/CharityMVC.MVC",
+      "RelativePath": "assets/js/jquery.sticky#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "418w80nofn",
+      "Integrity": "WJfA6yfp7nbLqEyGFUmBmxVNTVG79BMPPBhtq+i+Rgo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\js\\jquery.sticky.js"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\UploadedImages\\download32d6165f-1cfc-46e0-9b89-7c878c011d99.jpg",
+      "SourceId": "CharityMVC.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\",
+      "BasePath": "_content/CharityMVC.MVC",
+      "RelativePath": "assets/UploadedImages/download32d6165f-1cfc-46e0-9b89-7c878c011d99#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wu9ilakqvt",
+      "Integrity": "aF+EfhKQRz9ZXGZfN/v95TD+aCIsVUIsy8iZ4ArPa54=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\UploadedImages\\download32d6165f-1cfc-46e0-9b89-7c878c011d99.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\UploadedImages\\download4aa681e5-6e93-47c3-bf3a-57bee0bc30f0.jpg",
+      "SourceId": "CharityMVC.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\",
+      "BasePath": "_content/CharityMVC.MVC",
+      "RelativePath": "assets/UploadedImages/download4aa681e5-6e93-47c3-bf3a-57bee0bc30f0#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4zk9023wjh",
+      "Integrity": "cErYhjYQIxJxLR4275DMOc1+PwnilGgZuTXyhp4DXrg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\UploadedImages\\download4aa681e5-6e93-47c3-bf3a-57bee0bc30f0.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\UploadedImages\\download6f0e2b91-a2c7-4a7d-822e-8f17c15541b6.jpg",
+      "SourceId": "CharityMVC.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\",
+      "BasePath": "_content/CharityMVC.MVC",
+      "RelativePath": "assets/UploadedImages/download6f0e2b91-a2c7-4a7d-822e-8f17c15541b6#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4zk9023wjh",
+      "Integrity": "cErYhjYQIxJxLR4275DMOc1+PwnilGgZuTXyhp4DXrg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\UploadedImages\\download6f0e2b91-a2c7-4a7d-822e-8f17c15541b6.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\UploadedImages\\downloadac5e8259-bcb7-42ed-ac6f-19192d21b663.jpg",
+      "SourceId": "CharityMVC.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\",
+      "BasePath": "_content/CharityMVC.MVC",
+      "RelativePath": "assets/UploadedImages/downloadac5e8259-bcb7-42ed-ac6f-19192d21b663#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4zk9023wjh",
+      "Integrity": "cErYhjYQIxJxLR4275DMOc1+PwnilGgZuTXyhp4DXrg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\UploadedImages\\downloadac5e8259-bcb7-42ed-ac6f-19192d21b663.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Admin/assets/css/styles.css",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\Admin\\assets\\css\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "250226"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Tl/JSPdgPPXWVWSUewZbpR6kZW1nVf8f6PA1SpwxpFo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:09:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Tl/JSPdgPPXWVWSUewZbpR6kZW1nVf8f6PA1SpwxpFo="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/css/styles.mf45fbw2f4.css",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\Admin\\assets\\css\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "250226"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Tl/JSPdgPPXWVWSUewZbpR6kZW1nVf8f6PA1SpwxpFo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:09:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mf45fbw2f4"
+        },
+        {
+          "Name": "label",
+          "Value": "Admin/assets/css/styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Tl/JSPdgPPXWVWSUewZbpR6kZW1nVf8f6PA1SpwxpFo="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/demo/chart-area-demo.8flq4k35dk.js",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\Admin\\assets\\demo\\chart-area-demo.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1530"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9LLP7XKqyptnrNbmQqIjm5rIDw5zwE9KWE4hVhK5Jvk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:09:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8flq4k35dk"
+        },
+        {
+          "Name": "label",
+          "Value": "Admin/assets/demo/chart-area-demo.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9LLP7XKqyptnrNbmQqIjm5rIDw5zwE9KWE4hVhK5Jvk="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/demo/chart-area-demo.js",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\Admin\\assets\\demo\\chart-area-demo.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1530"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9LLP7XKqyptnrNbmQqIjm5rIDw5zwE9KWE4hVhK5Jvk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:09:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9LLP7XKqyptnrNbmQqIjm5rIDw5zwE9KWE4hVhK5Jvk="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/demo/chart-bar-demo.js",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\Admin\\assets\\demo\\chart-bar-demo.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1112"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9tpvm3R5RdFWxUDIA09CWwnWxpLxiJYWKom8gdLwl3I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:09:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9tpvm3R5RdFWxUDIA09CWwnWxpLxiJYWKom8gdLwl3I="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/demo/chart-bar-demo.qbt6h4ox5y.js",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\Admin\\assets\\demo\\chart-bar-demo.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1112"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9tpvm3R5RdFWxUDIA09CWwnWxpLxiJYWKom8gdLwl3I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:09:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qbt6h4ox5y"
+        },
+        {
+          "Name": "label",
+          "Value": "Admin/assets/demo/chart-bar-demo.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9tpvm3R5RdFWxUDIA09CWwnWxpLxiJYWKom8gdLwl3I="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/demo/chart-pie-demo.hw7eaup9v4.js",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\Admin\\assets\\demo\\chart-pie-demo.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "597"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gXHh8OZnGFZ8Pb+CoSlwJ7lx7tZD1amOLrSASwI8Neo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:09:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hw7eaup9v4"
+        },
+        {
+          "Name": "label",
+          "Value": "Admin/assets/demo/chart-pie-demo.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gXHh8OZnGFZ8Pb+CoSlwJ7lx7tZD1amOLrSASwI8Neo="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/demo/chart-pie-demo.js",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\Admin\\assets\\demo\\chart-pie-demo.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "597"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gXHh8OZnGFZ8Pb+CoSlwJ7lx7tZD1amOLrSASwI8Neo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:09:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gXHh8OZnGFZ8Pb+CoSlwJ7lx7tZD1amOLrSASwI8Neo="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/demo/datatables-demo.js",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\Admin\\assets\\demo\\datatables-demo.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "103"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3BYZ/ie9x2nIWSAO1N9M0VISPR5FfP5Wg0EKHZzNOoo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:09:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3BYZ/ie9x2nIWSAO1N9M0VISPR5FfP5Wg0EKHZzNOoo="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/demo/datatables-demo.w9gruc5uo1.js",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\Admin\\assets\\demo\\datatables-demo.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "103"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3BYZ/ie9x2nIWSAO1N9M0VISPR5FfP5Wg0EKHZzNOoo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:09:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w9gruc5uo1"
+        },
+        {
+          "Name": "label",
+          "Value": "Admin/assets/demo/datatables-demo.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3BYZ/ie9x2nIWSAO1N9M0VISPR5FfP5Wg0EKHZzNOoo="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/img/error-404-monochrome.svg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\Admin\\assets\\img\\error-404-monochrome.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6119"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GuryUo0+xyzRuEVttjuLmS8hqxoE9FucfaX/mboMWj8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:09:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GuryUo0+xyzRuEVttjuLmS8hqxoE9FucfaX/mboMWj8="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/img/error-404-monochrome.yp87i3fbss.svg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\Admin\\assets\\img\\error-404-monochrome.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6119"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GuryUo0+xyzRuEVttjuLmS8hqxoE9FucfaX/mboMWj8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:09:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yp87i3fbss"
+        },
+        {
+          "Name": "label",
+          "Value": "Admin/assets/img/error-404-monochrome.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GuryUo0+xyzRuEVttjuLmS8hqxoE9FucfaX/mboMWj8="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/js/datatables-simple-demo.js",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\Admin\\assets\\js\\datatables-simple-demo.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "312"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A5r4X24Y4UOeA7FBC6HS3voj76xkmczywh9qO+Ly5hQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:09:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-A5r4X24Y4UOeA7FBC6HS3voj76xkmczywh9qO+Ly5hQ="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/js/datatables-simple-demo.xnqwbb6zwd.js",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\Admin\\assets\\js\\datatables-simple-demo.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "312"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A5r4X24Y4UOeA7FBC6HS3voj76xkmczywh9qO+Ly5hQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:09:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xnqwbb6zwd"
+        },
+        {
+          "Name": "label",
+          "Value": "Admin/assets/js/datatables-simple-demo.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-A5r4X24Y4UOeA7FBC6HS3voj76xkmczywh9qO+Ly5hQ="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/js/scripts.dqle62frat.js",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\Admin\\assets\\js\\scripts.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "976"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hSOKtaoLbtAX3QLxogVcaVg8Fv7Y6HTCcpJqVePv720=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:09:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dqle62frat"
+        },
+        {
+          "Name": "label",
+          "Value": "Admin/assets/js/scripts.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hSOKtaoLbtAX3QLxogVcaVg8Fv7Y6HTCcpJqVePv720="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/js/scripts.js",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\Admin\\assets\\js\\scripts.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "976"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hSOKtaoLbtAX3QLxogVcaVg8Fv7Y6HTCcpJqVePv720=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:09:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hSOKtaoLbtAX3QLxogVcaVg8Fv7Y6HTCcpJqVePv720="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "194901"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IUOUHAPazai08QFs7W4MbzTlwEWFo7z/4zw8YmxEiko=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Oct 2022 06:07:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IUOUHAPazai08QFs7W4MbzTlwEWFo7z/4zw8YmxEiko="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/bootstrap.min.jze4wm6kbq.css",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "194901"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IUOUHAPazai08QFs7W4MbzTlwEWFo7z/4zw8YmxEiko=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Oct 2022 06:07:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jze4wm6kbq"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/css/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IUOUHAPazai08QFs7W4MbzTlwEWFo7z/4zw8YmxEiko="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/bootstrap-icons.css",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\css\\bootstrap-icons.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "73273"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rGQOWGP7z9/Zn3okdHniRJd9KJYfcPkVUytMxG4ueCs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Jan 2022 16:31:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rGQOWGP7z9/Zn3okdHniRJd9KJYfcPkVUytMxG4ueCs="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/bootstrap-icons.g5p0g328f6.css",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\css\\bootstrap-icons.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "73273"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rGQOWGP7z9/Zn3okdHniRJd9KJYfcPkVUytMxG4ueCs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Jan 2022 16:31:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g5p0g328f6"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/css/bootstrap-icons.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rGQOWGP7z9/Zn3okdHniRJd9KJYfcPkVUytMxG4ueCs="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/templatemo-kind-heart-charity.css",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\css\\templatemo-kind-heart-charity.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33469"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NXvfSGmk5ll6KTTYDUOdoC77vhXnR+N68ZZzu3RIYTI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Oct 2022 11:20:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NXvfSGmk5ll6KTTYDUOdoC77vhXnR+N68ZZzu3RIYTI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/templatemo-kind-heart-charity.tyx543h7xc.css",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\css\\templatemo-kind-heart-charity.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33469"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NXvfSGmk5ll6KTTYDUOdoC77vhXnR+N68ZZzu3RIYTI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Oct 2022 11:20:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tyx543h7xc"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/css/templatemo-kind-heart-charity.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NXvfSGmk5ll6KTTYDUOdoC77vhXnR+N68ZZzu3RIYTI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/fonts/bootstrap-icons.bjm8xm0qgo.woff2",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\fonts\\bootstrap-icons.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "92064"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6YKfu8wYQH3rKLSdrCTYFGmBsitKSBPxaZx3c+gMAbk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 03 Dec 2021 21:11:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bjm8xm0qgo"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/fonts/bootstrap-icons.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6YKfu8wYQH3rKLSdrCTYFGmBsitKSBPxaZx3c+gMAbk="
+        }
+      ]
+    },
+    {
+      "Route": "assets/fonts/bootstrap-icons.p1b6jzbakj.woff",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\fonts\\bootstrap-icons.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "123384"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k/PLDciBOdOT4030eg1EDtySx4SoWl1Fb1uitU4TYOI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 03 Dec 2021 21:11:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p1b6jzbakj"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/fonts/bootstrap-icons.woff"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-k/PLDciBOdOT4030eg1EDtySx4SoWl1Fb1uitU4TYOI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/fonts/bootstrap-icons.woff",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\fonts\\bootstrap-icons.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "123384"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k/PLDciBOdOT4030eg1EDtySx4SoWl1Fb1uitU4TYOI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 03 Dec 2021 21:11:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-k/PLDciBOdOT4030eg1EDtySx4SoWl1Fb1uitU4TYOI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/fonts/bootstrap-icons.woff2",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\fonts\\bootstrap-icons.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "92064"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6YKfu8wYQH3rKLSdrCTYFGmBsitKSBPxaZx3c+gMAbk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 03 Dec 2021 21:11:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6YKfu8wYQH3rKLSdrCTYFGmBsitKSBPxaZx3c+gMAbk="
+        }
+      ]
+    },
+    {
+      "Route": "assets/fonts/Metropolis/Metropolis-Bold.lkpqmzm7ci.woff2",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\fonts\\Metropolis\\Metropolis-Bold.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13036"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9WWuqWzKHFUNrMDq0slr3FOXaQdKQbG/RCOi7gRQ+is=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 13 Apr 2022 08:15:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lkpqmzm7ci"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/fonts/Metropolis/Metropolis-Bold.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9WWuqWzKHFUNrMDq0slr3FOXaQdKQbG/RCOi7gRQ+is="
+        }
+      ]
+    },
+    {
+      "Route": "assets/fonts/Metropolis/Metropolis-Bold.mew7qaathv.woff",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\fonts\\Metropolis\\Metropolis-Bold.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18272"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zkFbYA9CWzYofGAN1KgihnrG7VykOHBPV/rCeZZtbdg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 13 Apr 2022 08:15:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mew7qaathv"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/fonts/Metropolis/Metropolis-Bold.woff"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zkFbYA9CWzYofGAN1KgihnrG7VykOHBPV/rCeZZtbdg="
+        }
+      ]
+    },
+    {
+      "Route": "assets/fonts/Metropolis/Metropolis-Bold.woff",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\fonts\\Metropolis\\Metropolis-Bold.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18272"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zkFbYA9CWzYofGAN1KgihnrG7VykOHBPV/rCeZZtbdg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 13 Apr 2022 08:15:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zkFbYA9CWzYofGAN1KgihnrG7VykOHBPV/rCeZZtbdg="
+        }
+      ]
+    },
+    {
+      "Route": "assets/fonts/Metropolis/Metropolis-Bold.woff2",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\fonts\\Metropolis\\Metropolis-Bold.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13036"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9WWuqWzKHFUNrMDq0slr3FOXaQdKQbG/RCOi7gRQ+is=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 13 Apr 2022 08:15:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9WWuqWzKHFUNrMDq0slr3FOXaQdKQbG/RCOi7gRQ+is="
+        }
+      ]
+    },
+    {
+      "Route": "assets/fonts/Metropolis/Metropolis-Light.skq8qdoqc2.woff2",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\fonts\\Metropolis\\Metropolis-Light.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12824"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jOYqFAtRPCtShmMkbynpxOLAi26NhiOcOW0Z3zAeRuw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 13 Apr 2022 08:15:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "skq8qdoqc2"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/fonts/Metropolis/Metropolis-Light.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jOYqFAtRPCtShmMkbynpxOLAi26NhiOcOW0Z3zAeRuw="
+        }
+      ]
+    },
+    {
+      "Route": "assets/fonts/Metropolis/Metropolis-Light.touo9faciy.woff",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\fonts\\Metropolis\\Metropolis-Light.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18056"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XZbzU1NreC4xvaz9CjxWON8OgDa9Sgj1JuLPl+iLo7c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 13 Apr 2022 08:15:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "touo9faciy"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/fonts/Metropolis/Metropolis-Light.woff"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XZbzU1NreC4xvaz9CjxWON8OgDa9Sgj1JuLPl+iLo7c="
+        }
+      ]
+    },
+    {
+      "Route": "assets/fonts/Metropolis/Metropolis-Light.woff",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\fonts\\Metropolis\\Metropolis-Light.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18056"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XZbzU1NreC4xvaz9CjxWON8OgDa9Sgj1JuLPl+iLo7c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 13 Apr 2022 08:15:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XZbzU1NreC4xvaz9CjxWON8OgDa9Sgj1JuLPl+iLo7c="
+        }
+      ]
+    },
+    {
+      "Route": "assets/fonts/Metropolis/Metropolis-Light.woff2",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\fonts\\Metropolis\\Metropolis-Light.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12824"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jOYqFAtRPCtShmMkbynpxOLAi26NhiOcOW0Z3zAeRuw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 13 Apr 2022 08:15:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jOYqFAtRPCtShmMkbynpxOLAi26NhiOcOW0Z3zAeRuw="
+        }
+      ]
+    },
+    {
+      "Route": "assets/fonts/Metropolis/Metropolis-Regular.s17s9oy5cw.woff",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\fonts\\Metropolis\\Metropolis-Regular.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18180"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sHtd4URo8d4S1vqYdHtXWMLpkdM+ZegleaUib5Biefc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 13 Apr 2022 08:15:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s17s9oy5cw"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/fonts/Metropolis/Metropolis-Regular.woff"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sHtd4URo8d4S1vqYdHtXWMLpkdM+ZegleaUib5Biefc="
+        }
+      ]
+    },
+    {
+      "Route": "assets/fonts/Metropolis/Metropolis-Regular.shwfk7g9fx.woff2",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\fonts\\Metropolis\\Metropolis-Regular.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12996"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QKIK9eTcs/AkwqYjUO0uzqsTWOMPpuKBGrb+7sC6OMk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 13 Apr 2022 08:15:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "shwfk7g9fx"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/fonts/Metropolis/Metropolis-Regular.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QKIK9eTcs/AkwqYjUO0uzqsTWOMPpuKBGrb+7sC6OMk="
+        }
+      ]
+    },
+    {
+      "Route": "assets/fonts/Metropolis/Metropolis-Regular.woff",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\fonts\\Metropolis\\Metropolis-Regular.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18180"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sHtd4URo8d4S1vqYdHtXWMLpkdM+ZegleaUib5Biefc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 13 Apr 2022 08:15:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sHtd4URo8d4S1vqYdHtXWMLpkdM+ZegleaUib5Biefc="
+        }
+      ]
+    },
+    {
+      "Route": "assets/fonts/Metropolis/Metropolis-Regular.woff2",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\fonts\\Metropolis\\Metropolis-Regular.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12996"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QKIK9eTcs/AkwqYjUO0uzqsTWOMPpuKBGrb+7sC6OMk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 13 Apr 2022 08:15:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QKIK9eTcs/AkwqYjUO0uzqsTWOMPpuKBGrb+7sC6OMk="
+        }
+      ]
+    },
+    {
+      "Route": "assets/fonts/Metropolis/Metropolis-SemiBold.r4u5uji3g9.woff2",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\fonts\\Metropolis\\Metropolis-SemiBold.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12984"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yxGtUn5dkIhPMX9MNXlmrSqwXVctEnB+oCf/xvbpN6g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 13 Apr 2022 08:15:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r4u5uji3g9"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/fonts/Metropolis/Metropolis-SemiBold.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yxGtUn5dkIhPMX9MNXlmrSqwXVctEnB+oCf/xvbpN6g="
+        }
+      ]
+    },
+    {
+      "Route": "assets/fonts/Metropolis/Metropolis-SemiBold.woff",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\fonts\\Metropolis\\Metropolis-SemiBold.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18212"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N3AfHmuPVuXGaHh0kjXKEiNOC6nQ5IunsnCCOf9bQGQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 13 Apr 2022 08:15:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-N3AfHmuPVuXGaHh0kjXKEiNOC6nQ5IunsnCCOf9bQGQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/fonts/Metropolis/Metropolis-SemiBold.woff2",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\fonts\\Metropolis\\Metropolis-SemiBold.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12984"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yxGtUn5dkIhPMX9MNXlmrSqwXVctEnB+oCf/xvbpN6g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 13 Apr 2022 08:15:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yxGtUn5dkIhPMX9MNXlmrSqwXVctEnB+oCf/xvbpN6g="
+        }
+      ]
+    },
+    {
+      "Route": "assets/fonts/Metropolis/Metropolis-SemiBold.xi20zkfvfo.woff",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\fonts\\Metropolis\\Metropolis-SemiBold.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18212"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N3AfHmuPVuXGaHh0kjXKEiNOC6nQ5IunsnCCOf9bQGQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 13 Apr 2022 08:15:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xi20zkfvfo"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/fonts/Metropolis/Metropolis-SemiBold.woff"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-N3AfHmuPVuXGaHh0kjXKEiNOC6nQ5IunsnCCOf9bQGQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/avatar/portrait-beautiful-young-woman-standing-grey-wall.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\avatar\\portrait-beautiful-young-woman-standing-grey-wall.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24232"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"G10HtzMhvo9U6iKB5vZSD01zDfcGZ2iVyZ1+mIy5b/w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Mar 2022 07:03:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-G10HtzMhvo9U6iKB5vZSD01zDfcGZ2iVyZ1+mIy5b/w="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/avatar/portrait-beautiful-young-woman-standing-grey-wall.vrj87cfdzo.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\avatar\\portrait-beautiful-young-woman-standing-grey-wall.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24232"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"G10HtzMhvo9U6iKB5vZSD01zDfcGZ2iVyZ1+mIy5b/w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Mar 2022 07:03:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vrj87cfdzo"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/avatar/portrait-beautiful-young-woman-standing-grey-wall.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-G10HtzMhvo9U6iKB5vZSD01zDfcGZ2iVyZ1+mIy5b/w="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/avatar/portrait-young-beautiful-woman-gesticulating.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\avatar\\portrait-young-beautiful-woman-gesticulating.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30743"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VAjx1Rr5Dz8PpsJfnu7wtt+s0YmqZqKHuYxOjeFJkk4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Mar 2022 09:51:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VAjx1Rr5Dz8PpsJfnu7wtt+s0YmqZqKHuYxOjeFJkk4="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/avatar/portrait-young-beautiful-woman-gesticulating.w5sjjoa4pp.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\avatar\\portrait-young-beautiful-woman-gesticulating.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30743"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VAjx1Rr5Dz8PpsJfnu7wtt+s0YmqZqKHuYxOjeFJkk4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Mar 2022 09:51:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w5sjjoa4pp"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/avatar/portrait-young-beautiful-woman-gesticulating.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VAjx1Rr5Dz8PpsJfnu7wtt+s0YmqZqKHuYxOjeFJkk4="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/avatar/portrait-young-redhead-bearded-male.buwihinjem.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\avatar\\portrait-young-redhead-bearded-male.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25921"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w99/X8HyfX9AD7fsL84LIC0BAcVvglGj3iydO1gNASI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Mar 2022 09:51:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "buwihinjem"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/avatar/portrait-young-redhead-bearded-male.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-w99/X8HyfX9AD7fsL84LIC0BAcVvglGj3iydO1gNASI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/avatar/portrait-young-redhead-bearded-male.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\avatar\\portrait-young-redhead-bearded-male.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25921"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w99/X8HyfX9AD7fsL84LIC0BAcVvglGj3iydO1gNASI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Mar 2022 09:51:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-w99/X8HyfX9AD7fsL84LIC0BAcVvglGj3iydO1gNASI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/avatar/pretty-blonde-woman-wearing-white-t-shirt.15oezhfe83.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\avatar\\pretty-blonde-woman-wearing-white-t-shirt.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30052"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tcjNlE3V2tV84Gct/KBBI6q9njWwMFJGdhDTRTZRhBE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Mar 2022 04:17:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "15oezhfe83"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/avatar/pretty-blonde-woman-wearing-white-t-shirt.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tcjNlE3V2tV84Gct/KBBI6q9njWwMFJGdhDTRTZRhBE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/avatar/pretty-blonde-woman-wearing-white-t-shirt.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\avatar\\pretty-blonde-woman-wearing-white-t-shirt.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30052"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tcjNlE3V2tV84Gct/KBBI6q9njWwMFJGdhDTRTZRhBE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Mar 2022 04:17:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tcjNlE3V2tV84Gct/KBBI6q9njWwMFJGdhDTRTZRhBE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/avatar/studio-portrait-emotional-happy-funny.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\avatar\\studio-portrait-emotional-happy-funny.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26473"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8lNiL91aTyD0a4XxiN54WwgwKmIWT4JyEHBTWkyazwQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Mar 2022 04:17:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8lNiL91aTyD0a4XxiN54WwgwKmIWT4JyEHBTWkyazwQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/avatar/studio-portrait-emotional-happy-funny.q5g10ddm5w.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\avatar\\studio-portrait-emotional-happy-funny.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26473"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8lNiL91aTyD0a4XxiN54WwgwKmIWT4JyEHBTWkyazwQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Mar 2022 04:17:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q5g10ddm5w"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/avatar/studio-portrait-emotional-happy-funny.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8lNiL91aTyD0a4XxiN54WwgwKmIWT4JyEHBTWkyazwQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/causes/african-woman-pouring-water-recipient-outdoors.d365n1gsvh.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\causes\\african-woman-pouring-water-recipient-outdoors.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "92413"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GcluEetqtwFHkmeQ1lStC/NSTtfO/BwjlUpmd4Hnhls=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Apr 2022 08:17:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d365n1gsvh"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/causes/african-woman-pouring-water-recipient-outdoors.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GcluEetqtwFHkmeQ1lStC/NSTtfO/BwjlUpmd4Hnhls="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/causes/african-woman-pouring-water-recipient-outdoors.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\causes\\african-woman-pouring-water-recipient-outdoors.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "92413"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GcluEetqtwFHkmeQ1lStC/NSTtfO/BwjlUpmd4Hnhls=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Apr 2022 08:17:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GcluEetqtwFHkmeQ1lStC/NSTtfO/BwjlUpmd4Hnhls="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/causes/group-african-kids-paying-attention-class.a7uygd4zow.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\causes\\group-african-kids-paying-attention-class.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "104432"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZjEEIVXj1uwsMBrhj19m4Im1Uy367VP5mQ4FvsCRtr4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Apr 2022 08:17:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a7uygd4zow"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/causes/group-african-kids-paying-attention-class.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZjEEIVXj1uwsMBrhj19m4Im1Uy367VP5mQ4FvsCRtr4="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/causes/group-african-kids-paying-attention-class.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\causes\\group-african-kids-paying-attention-class.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "104432"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZjEEIVXj1uwsMBrhj19m4Im1Uy367VP5mQ4FvsCRtr4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Apr 2022 08:17:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZjEEIVXj1uwsMBrhj19m4Im1Uy367VP5mQ4FvsCRtr4="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/causes/poor-child-landfill-looks-forward-with-hope.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\causes\\poor-child-landfill-looks-forward-with-hope.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "169170"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XJtQkZEGhEu5JxHwD2HGl7cQLcPqqWLAM2eqcny+i+8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Apr 2022 08:17:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XJtQkZEGhEu5JxHwD2HGl7cQLcPqqWLAM2eqcny+i+8="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/causes/poor-child-landfill-looks-forward-with-hope.obcp2q7w0d.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\causes\\poor-child-landfill-looks-forward-with-hope.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "169170"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XJtQkZEGhEu5JxHwD2HGl7cQLcPqqWLAM2eqcny+i+8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Apr 2022 08:17:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "obcp2q7w0d"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/causes/poor-child-landfill-looks-forward-with-hope.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XJtQkZEGhEu5JxHwD2HGl7cQLcPqqWLAM2eqcny+i+8="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/different-people-doing-volunteer-work.fkvhclj1fv.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\different-people-doing-volunteer-work.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "268152"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Dyr3gw3iI5UtSO1da5RuT3PlRQawDM4jPDva9YImn2o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Apr 2022 07:47:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fkvhclj1fv"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/different-people-doing-volunteer-work.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Dyr3gw3iI5UtSO1da5RuT3PlRQawDM4jPDva9YImn2o="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/different-people-doing-volunteer-work.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\different-people-doing-volunteer-work.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "268152"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Dyr3gw3iI5UtSO1da5RuT3PlRQawDM4jPDva9YImn2o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Apr 2022 07:47:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Dyr3gw3iI5UtSO1da5RuT3PlRQawDM4jPDva9YImn2o="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/group-people-volunteering-foodbank-poor-people.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\group-people-volunteering-foodbank-poor-people.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "139069"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zTO7I7Udmtbnc8fhWXjlHxWpQcbQr2kEX0cMFfS7Q6E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Apr 2022 07:46:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zTO7I7Udmtbnc8fhWXjlHxWpQcbQr2kEX0cMFfS7Q6E="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/group-people-volunteering-foodbank-poor-people.v5i1m9utv8.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\group-people-volunteering-foodbank-poor-people.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "139069"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zTO7I7Udmtbnc8fhWXjlHxWpQcbQr2kEX0cMFfS7Q6E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Apr 2022 07:46:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v5i1m9utv8"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/group-people-volunteering-foodbank-poor-people.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zTO7I7Udmtbnc8fhWXjlHxWpQcbQr2kEX0cMFfS7Q6E="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/icons/hands.dalzb4kp5o.png",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\icons\\hands.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5009"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e677BdeVptKoPpgCvyzN22WHK28mbtpCKbjjEpP8Y0c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 11 Apr 2022 05:12:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dalzb4kp5o"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/icons/hands.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-e677BdeVptKoPpgCvyzN22WHK28mbtpCKbjjEpP8Y0c="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/icons/hands.png",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\icons\\hands.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5009"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e677BdeVptKoPpgCvyzN22WHK28mbtpCKbjjEpP8Y0c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 11 Apr 2022 05:12:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-e677BdeVptKoPpgCvyzN22WHK28mbtpCKbjjEpP8Y0c="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/icons/heart.4jgc2s7ass.png",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\icons\\heart.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7433"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sAAaQ3jD+4RF8jfpOSFpyNc95nILO44Uz21R0WFqM/Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 11 Apr 2022 05:08:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4jgc2s7ass"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/icons/heart.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sAAaQ3jD+4RF8jfpOSFpyNc95nILO44Uz21R0WFqM/Y="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/icons/heart.png",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\icons\\heart.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7433"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sAAaQ3jD+4RF8jfpOSFpyNc95nILO44Uz21R0WFqM/Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 11 Apr 2022 05:08:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sAAaQ3jD+4RF8jfpOSFpyNc95nILO44Uz21R0WFqM/Y="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/icons/receive.80irdylf1f.png",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\icons\\receive.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6759"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6JjJmwF0jWM8xUtz5grEcuNMZ2C7sSvIT8BS0tXPpy0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 11 Apr 2022 05:09:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "80irdylf1f"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/icons/receive.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6JjJmwF0jWM8xUtz5grEcuNMZ2C7sSvIT8BS0tXPpy0="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/icons/receive.png",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\icons\\receive.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6759"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6JjJmwF0jWM8xUtz5grEcuNMZ2C7sSvIT8BS0tXPpy0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 11 Apr 2022 05:09:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6JjJmwF0jWM8xUtz5grEcuNMZ2C7sSvIT8BS0tXPpy0="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/icons/scholarship.png",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\icons\\scholarship.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6636"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LMWnWcoo53Gkd443JUKOSOXCUZIq0lw5bsVzsDddQDQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 11 Apr 2022 05:09:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LMWnWcoo53Gkd443JUKOSOXCUZIq0lw5bsVzsDddQDQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/icons/scholarship.whdmhfknkz.png",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\icons\\scholarship.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6636"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LMWnWcoo53Gkd443JUKOSOXCUZIq0lw5bsVzsDddQDQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 11 Apr 2022 05:09:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "whdmhfknkz"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/icons/scholarship.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LMWnWcoo53Gkd443JUKOSOXCUZIq0lw5bsVzsDddQDQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/logo.png",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21026"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IYtMVEyD9bSg7ie2XFDwSq87vUZTIVcjiigbzs9d8+M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Apr 2022 16:15:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IYtMVEyD9bSg7ie2XFDwSq87vUZTIVcjiigbzs9d8+M="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/logo.zr3b5qgjvy.png",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21026"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IYtMVEyD9bSg7ie2XFDwSq87vUZTIVcjiigbzs9d8+M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Apr 2022 16:15:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zr3b5qgjvy"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/logo.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IYtMVEyD9bSg7ie2XFDwSq87vUZTIVcjiigbzs9d8+M="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/news/africa-humanitarian-aid-doctor.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\news\\africa-humanitarian-aid-doctor.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "123469"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Frnw+1aEmblharFYVwL75eKu3sR9HuPbSz4Qm6yuMOk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Apr 2022 08:12:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Frnw+1aEmblharFYVwL75eKu3sR9HuPbSz4Qm6yuMOk="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/news/africa-humanitarian-aid-doctor.yxls7htp7p.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\news\\africa-humanitarian-aid-doctor.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "123469"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Frnw+1aEmblharFYVwL75eKu3sR9HuPbSz4Qm6yuMOk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Apr 2022 08:12:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yxls7htp7p"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/news/africa-humanitarian-aid-doctor.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Frnw+1aEmblharFYVwL75eKu3sR9HuPbSz4Qm6yuMOk="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/news/close-up-happy-people-working-together.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\news\\close-up-happy-people-working-together.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "97298"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JXLMgCdzVf18FxGo8iZRsfWOOs5SCrvZyxLoE6nGiYI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Apr 2022 08:13:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JXLMgCdzVf18FxGo8iZRsfWOOs5SCrvZyxLoE6nGiYI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/news/close-up-happy-people-working-together.pb8kb8kjv5.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\news\\close-up-happy-people-working-together.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "97298"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JXLMgCdzVf18FxGo8iZRsfWOOs5SCrvZyxLoE6nGiYI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Apr 2022 08:13:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pb8kb8kjv5"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/news/close-up-happy-people-working-together.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JXLMgCdzVf18FxGo8iZRsfWOOs5SCrvZyxLoE6nGiYI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/news/close-up-volunteer-oganizing-stuff-donation.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\news\\close-up-volunteer-oganizing-stuff-donation.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "117522"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CBH1Swe1+dbEAbb3d4jVhxFmOrJlfYVey87ptUlCmUI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Apr 2022 08:15:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CBH1Swe1+dbEAbb3d4jVhxFmOrJlfYVey87ptUlCmUI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/news/close-up-volunteer-oganizing-stuff-donation.oczg8wtayi.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\news\\close-up-volunteer-oganizing-stuff-donation.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "117522"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CBH1Swe1+dbEAbb3d4jVhxFmOrJlfYVey87ptUlCmUI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Apr 2022 08:15:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oczg8wtayi"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/news/close-up-volunteer-oganizing-stuff-donation.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CBH1Swe1+dbEAbb3d4jVhxFmOrJlfYVey87ptUlCmUI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/news/medium-shot-people-collecting-foodstuff.095gloesun.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\news\\medium-shot-people-collecting-foodstuff.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "106671"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bAzfxVYozduivebiLUnvcdZUiqm9S3v2jSe5mlGOWIU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Apr 2022 08:16:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "095gloesun"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/news/medium-shot-people-collecting-foodstuff.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bAzfxVYozduivebiLUnvcdZUiqm9S3v2jSe5mlGOWIU="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/news/medium-shot-people-collecting-foodstuff.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\news\\medium-shot-people-collecting-foodstuff.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "106671"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bAzfxVYozduivebiLUnvcdZUiqm9S3v2jSe5mlGOWIU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Apr 2022 08:16:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bAzfxVYozduivebiLUnvcdZUiqm9S3v2jSe5mlGOWIU="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/news/medium-shot-volunteers-with-clothing-donations.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\news\\medium-shot-volunteers-with-clothing-donations.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91110"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vByxUxzOtLX+S7VTEYCZ8Q3ckTni0KW6g9Mcy9HgeUs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Apr 2022 08:16:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vByxUxzOtLX+S7VTEYCZ8Q3ckTni0KW6g9Mcy9HgeUs="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/news/medium-shot-volunteers-with-clothing-donations.k89u5tao0m.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\news\\medium-shot-volunteers-with-clothing-donations.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91110"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vByxUxzOtLX+S7VTEYCZ8Q3ckTni0KW6g9Mcy9HgeUs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Apr 2022 08:16:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k89u5tao0m"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/news/medium-shot-volunteers-with-clothing-donations.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vByxUxzOtLX+S7VTEYCZ8Q3ckTni0KW6g9Mcy9HgeUs="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/portrait-volunteer-who-organized-donations-charity.4tb50h6bbm.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\portrait-volunteer-who-organized-donations-charity.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "102388"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CM9SE9mRBhhDoPpGScMvOWL9PKdIwLiGfN0wcGggBcw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Apr 2022 07:48:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4tb50h6bbm"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/portrait-volunteer-who-organized-donations-charity.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CM9SE9mRBhhDoPpGScMvOWL9PKdIwLiGfN0wcGggBcw="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/portrait-volunteer-who-organized-donations-charity.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\portrait-volunteer-who-organized-donations-charity.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "102388"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CM9SE9mRBhhDoPpGScMvOWL9PKdIwLiGfN0wcGggBcw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Apr 2022 07:48:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CM9SE9mRBhhDoPpGScMvOWL9PKdIwLiGfN0wcGggBcw="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/slide/medium-shot-people-collecting-donations.7jsdetthye.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\slide\\medium-shot-people-collecting-donations.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "183831"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s0PGynlOe9ZYntIcWfEozoeSszAjhJ0YuU4/lhAeSt4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 May 2022 04:27:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7jsdetthye"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/slide/medium-shot-people-collecting-donations.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-s0PGynlOe9ZYntIcWfEozoeSszAjhJ0YuU4/lhAeSt4="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/slide/medium-shot-people-collecting-donations.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\slide\\medium-shot-people-collecting-donations.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "183831"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s0PGynlOe9ZYntIcWfEozoeSszAjhJ0YuU4/lhAeSt4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 May 2022 04:27:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-s0PGynlOe9ZYntIcWfEozoeSszAjhJ0YuU4/lhAeSt4="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/slide/volunteer-helping-with-donation-box.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\slide\\volunteer-helping-with-donation-box.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "173062"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7YFkSKs+l2ST+EyCbWNlahMMQM1wnN2+SuNzuJvA5S0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Apr 2022 08:11:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7YFkSKs+l2ST+EyCbWNlahMMQM1wnN2+SuNzuJvA5S0="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/slide/volunteer-helping-with-donation-box.z0vwp0ua5z.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\slide\\volunteer-helping-with-donation-box.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "173062"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7YFkSKs+l2ST+EyCbWNlahMMQM1wnN2+SuNzuJvA5S0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Apr 2022 08:11:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z0vwp0ua5z"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/slide/volunteer-helping-with-donation-box.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7YFkSKs+l2ST+EyCbWNlahMMQM1wnN2+SuNzuJvA5S0="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/slide/volunteer-selecting-organizing-clothes-donations-charity.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\slide\\volunteer-selecting-organizing-clothes-donations-charity.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "139031"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zDBQBVwL7+4o0dUK7PwRtiOwIGR6vd7Ij7l7pMyxi7g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 May 2022 04:28:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zDBQBVwL7+4o0dUK7PwRtiOwIGR6vd7Ij7l7pMyxi7g="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/slide/volunteer-selecting-organizing-clothes-donations-charity.opzoyp8mjm.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\slide\\volunteer-selecting-organizing-clothes-donations-charity.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "139031"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zDBQBVwL7+4o0dUK7PwRtiOwIGR6vd7Ij7l7pMyxi7g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 May 2022 04:28:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "opzoyp8mjm"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/slide/volunteer-selecting-organizing-clothes-donations-charity.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zDBQBVwL7+4o0dUK7PwRtiOwIGR6vd7Ij7l7pMyxi7g="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/smiling-casual-woman-dressed-volunteer-t-shirt-with-badge.ckk37g09uy.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\smiling-casual-woman-dressed-volunteer-t-shirt-with-badge.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "54901"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3HHWwO1lI9V839n+a4dWBmI+xV8E5yuGNR2SqRskuzs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Apr 2022 07:47:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ckk37g09uy"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/smiling-casual-woman-dressed-volunteer-t-shirt-with-badge.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3HHWwO1lI9V839n+a4dWBmI+xV8E5yuGNR2SqRskuzs="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/smiling-casual-woman-dressed-volunteer-t-shirt-with-badge.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\images\\smiling-casual-woman-dressed-volunteer-t-shirt-with-badge.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "54901"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3HHWwO1lI9V839n+a4dWBmI+xV8E5yuGNR2SqRskuzs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Apr 2022 07:47:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3HHWwO1lI9V839n+a4dWBmI+xV8E5yuGNR2SqRskuzs="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/bootstrap.min.78q30n7uw8.js",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "60480"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h1OMS35Ij1pJ0S+Y1qBK/GHQDyankPMZVpeZrNQ062U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Oct 2022 06:07:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "78q30n7uw8"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/js/bootstrap.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-h1OMS35Ij1pJ0S+Y1qBK/GHQDyankPMZVpeZrNQ062U="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/bootstrap.min.js",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "60480"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h1OMS35Ij1pJ0S+Y1qBK/GHQDyankPMZVpeZrNQ062U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Oct 2022 06:07:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-h1OMS35Ij1pJ0S+Y1qBK/GHQDyankPMZVpeZrNQ062U="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/click-scroll.js",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\js\\click-scroll.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1270"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YDNnexbA2nt3OVniM+O0wGsV0inb3UvTIdoxm7yepIA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Apr 2022 04:44:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YDNnexbA2nt3OVniM+O0wGsV0inb3UvTIdoxm7yepIA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/click-scroll.oi0ntl6b5d.js",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\js\\click-scroll.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1270"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YDNnexbA2nt3OVniM+O0wGsV0inb3UvTIdoxm7yepIA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Apr 2022 04:44:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oi0ntl6b5d"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/js/click-scroll.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YDNnexbA2nt3OVniM+O0wGsV0inb3UvTIdoxm7yepIA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/counter.js",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\js\\counter.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3981"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NX9omu5WxCwAXlZt47Y2SbbiMs306BJ8A9wymRmLGPQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Nov 2016 05:17:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NX9omu5WxCwAXlZt47Y2SbbiMs306BJ8A9wymRmLGPQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/counter.lwmpzzt8ia.js",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\js\\counter.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3981"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NX9omu5WxCwAXlZt47Y2SbbiMs306BJ8A9wymRmLGPQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Nov 2016 05:17:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lwmpzzt8ia"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/js/counter.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NX9omu5WxCwAXlZt47Y2SbbiMs306BJ8A9wymRmLGPQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/custom.8m8ez7x4g4.js",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\js\\custom.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "673"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ILK/TJzzJu0nXbnCFef0NR7vjRTgC1biLICWHDalovM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 May 2022 09:38:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8m8ez7x4g4"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/js/custom.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ILK/TJzzJu0nXbnCFef0NR7vjRTgC1biLICWHDalovM="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/custom.js",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\js\\custom.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "673"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ILK/TJzzJu0nXbnCFef0NR7vjRTgC1biLICWHDalovM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 May 2022 09:38:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ILK/TJzzJu0nXbnCFef0NR7vjRTgC1biLICWHDalovM="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/jquery.min.js",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\js\\jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "85658"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BGhb3v7SCZyuX1RFBbgxnueuTQp/kKk7LnZL3lytHeY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 06 Oct 2021 06:41:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BGhb3v7SCZyuX1RFBbgxnueuTQp/kKk7LnZL3lytHeY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/jquery.min.sc7v1wgpvn.js",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\js\\jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "85658"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BGhb3v7SCZyuX1RFBbgxnueuTQp/kKk7LnZL3lytHeY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 06 Oct 2021 06:41:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sc7v1wgpvn"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/js/jquery.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BGhb3v7SCZyuX1RFBbgxnueuTQp/kKk7LnZL3lytHeY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/jquery.sticky.418w80nofn.js",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\js\\jquery.sticky.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7296"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WJfA6yfp7nbLqEyGFUmBmxVNTVG79BMPPBhtq+i+Rgo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Apr 2022 14:26:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "418w80nofn"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/js/jquery.sticky.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WJfA6yfp7nbLqEyGFUmBmxVNTVG79BMPPBhtq+i+Rgo="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/jquery.sticky.js",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\js\\jquery.sticky.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7296"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WJfA6yfp7nbLqEyGFUmBmxVNTVG79BMPPBhtq+i+Rgo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Apr 2022 14:26:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WJfA6yfp7nbLqEyGFUmBmxVNTVG79BMPPBhtq+i+Rgo="
+        }
+      ]
+    },
+    {
+      "Route": "assets/UploadedImages/download32d6165f-1cfc-46e0-9b89-7c878c011d99.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\UploadedImages\\download32d6165f-1cfc-46e0-9b89-7c878c011d99.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9063"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aF+EfhKQRz9ZXGZfN/v95TD+aCIsVUIsy8iZ4ArPa54=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 11:30:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aF+EfhKQRz9ZXGZfN/v95TD+aCIsVUIsy8iZ4ArPa54="
+        }
+      ]
+    },
+    {
+      "Route": "assets/UploadedImages/download32d6165f-1cfc-46e0-9b89-7c878c011d99.wu9ilakqvt.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\UploadedImages\\download32d6165f-1cfc-46e0-9b89-7c878c011d99.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9063"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aF+EfhKQRz9ZXGZfN/v95TD+aCIsVUIsy8iZ4ArPa54=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 11:30:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wu9ilakqvt"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/UploadedImages/download32d6165f-1cfc-46e0-9b89-7c878c011d99.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aF+EfhKQRz9ZXGZfN/v95TD+aCIsVUIsy8iZ4ArPa54="
+        }
+      ]
+    },
+    {
+      "Route": "assets/UploadedImages/download4aa681e5-6e93-47c3-bf3a-57bee0bc30f0.4zk9023wjh.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\UploadedImages\\download4aa681e5-6e93-47c3-bf3a-57bee0bc30f0.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10426"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cErYhjYQIxJxLR4275DMOc1+PwnilGgZuTXyhp4DXrg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 11:42:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4zk9023wjh"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/UploadedImages/download4aa681e5-6e93-47c3-bf3a-57bee0bc30f0.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cErYhjYQIxJxLR4275DMOc1+PwnilGgZuTXyhp4DXrg="
+        }
+      ]
+    },
+    {
+      "Route": "assets/UploadedImages/download4aa681e5-6e93-47c3-bf3a-57bee0bc30f0.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\UploadedImages\\download4aa681e5-6e93-47c3-bf3a-57bee0bc30f0.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10426"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cErYhjYQIxJxLR4275DMOc1+PwnilGgZuTXyhp4DXrg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 11:42:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cErYhjYQIxJxLR4275DMOc1+PwnilGgZuTXyhp4DXrg="
+        }
+      ]
+    },
+    {
+      "Route": "assets/UploadedImages/download6f0e2b91-a2c7-4a7d-822e-8f17c15541b6.4zk9023wjh.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\UploadedImages\\download6f0e2b91-a2c7-4a7d-822e-8f17c15541b6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10426"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cErYhjYQIxJxLR4275DMOc1+PwnilGgZuTXyhp4DXrg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 11:41:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4zk9023wjh"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/UploadedImages/download6f0e2b91-a2c7-4a7d-822e-8f17c15541b6.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cErYhjYQIxJxLR4275DMOc1+PwnilGgZuTXyhp4DXrg="
+        }
+      ]
+    },
+    {
+      "Route": "assets/UploadedImages/download6f0e2b91-a2c7-4a7d-822e-8f17c15541b6.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\UploadedImages\\download6f0e2b91-a2c7-4a7d-822e-8f17c15541b6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10426"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cErYhjYQIxJxLR4275DMOc1+PwnilGgZuTXyhp4DXrg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 11:41:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cErYhjYQIxJxLR4275DMOc1+PwnilGgZuTXyhp4DXrg="
+        }
+      ]
+    },
+    {
+      "Route": "assets/UploadedImages/downloadac5e8259-bcb7-42ed-ac6f-19192d21b663.4zk9023wjh.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\UploadedImages\\downloadac5e8259-bcb7-42ed-ac6f-19192d21b663.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10426"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cErYhjYQIxJxLR4275DMOc1+PwnilGgZuTXyhp4DXrg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 11:41:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4zk9023wjh"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/UploadedImages/downloadac5e8259-bcb7-42ed-ac6f-19192d21b663.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cErYhjYQIxJxLR4275DMOc1+PwnilGgZuTXyhp4DXrg="
+        }
+      ]
+    },
+    {
+      "Route": "assets/UploadedImages/downloadac5e8259-bcb7-42ed-ac6f-19192d21b663.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\CharityMVC\\CharityMVC.MVC\\wwwroot\\assets\\UploadedImages\\downloadac5e8259-bcb7-42ed-ac6f-19192d21b663.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10426"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cErYhjYQIxJxLR4275DMOc1+PwnilGgZuTXyhp4DXrg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 11:41:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cErYhjYQIxJxLR4275DMOc1+PwnilGgZuTXyhp4DXrg="
+        }
+      ]
+    }
+  ]
+}

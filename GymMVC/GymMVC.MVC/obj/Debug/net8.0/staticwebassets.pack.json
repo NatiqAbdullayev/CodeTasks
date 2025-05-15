@@ -1,0 +1,237 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\Admin\\assets\\css\\styles.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\Admin\\assets\\demo\\chart-area-demo.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\demo\\chart-area-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\Admin\\assets\\demo\\chart-bar-demo.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\demo\\chart-bar-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\Admin\\assets\\demo\\chart-pie-demo.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\demo\\chart-pie-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\Admin\\assets\\demo\\datatables-demo.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\demo\\datatables-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\Admin\\assets\\img\\error-404-monochrome.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\error-404-monochrome.svg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\Admin\\assets\\js\\datatables-simple-demo.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\datatables-simple-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\Admin\\assets\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\UploadedImages\\Screenshot_10fab7c02-a846-41da-9280-b619f7886c46.png",
+      "PackagePath": "staticwebassets\\UploadedImages\\Screenshot_10fab7c02-a846-41da-9280-b619f7886c46.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\UploadedImages\\Screenshot_126fb8596-8c77-4cb8-ab7b-038e07cbdc54.png",
+      "PackagePath": "staticwebassets\\UploadedImages\\Screenshot_126fb8596-8c77-4cb8-ab7b-038e07cbdc54.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\css\\templatemo-training-studio.css",
+      "PackagePath": "staticwebassets\\assets\\css\\templatemo-training-studio.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\flexslider-icon.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flexslider-icon.eot"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\flexslider-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flexslider-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\flexslider-icon.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flexslider-icon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\flexslider-icon.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flexslider-icon.woff"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.eot"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.svg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.woff"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\contact-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\contact-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\cta-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cta-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\features-first-icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\features-first-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\first-trainer.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\first-trainer.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\gym-video.mp4",
+      "PackagePath": "staticwebassets\\assets\\images\\gym-video.mp4"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\line-dec.png",
+      "PackagePath": "staticwebassets\\assets\\images\\line-dec.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\schedule-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\schedule-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\second-trainer.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\second-trainer.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\slide-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slide-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\tabs-first-icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\tabs-first-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\third-trainer.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\third-trainer.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\training-image-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\training-image-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\training-image-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\training-image-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\training-image-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\training-image-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\training-image-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\training-image-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\accordions.js",
+      "PackagePath": "staticwebassets\\assets\\js\\accordions.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\imgfix.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\imgfix.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\jquery-2.1.0.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-2.1.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\mixitup.js",
+      "PackagePath": "staticwebassets\\assets\\js\\mixitup.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\popper.js",
+      "PackagePath": "staticwebassets\\assets\\js\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\scrollreveal.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\scrollreveal.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.GymMVC.MVC.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.GymMVC.MVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.GymMVC.MVC.props",
+      "PackagePath": "build\\GymMVC.MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.GymMVC.MVC.props",
+      "PackagePath": "buildMultiTargeting\\GymMVC.MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.GymMVC.MVC.props",
+      "PackagePath": "buildTransitive\\GymMVC.MVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

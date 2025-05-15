@@ -1,0 +1,23 @@
+﻿using GymMVC.BL.Services;
+using GymMVC.BL.ViewModels;
+using Microsoft.AspNetCore.Mvc;
+
+namespace GymMVC.MVC.Controllers;
+
+public class HomeController : Controller
+{
+    private readonly ProgramModelService _servcie;
+
+    public HomeController(ProgramModelService service)
+    {
+        _servcie = service;
+    }
+
+    [HttpGet]
+    public IActionResult Index()
+    {
+        return View(_servcie.GetAllPrograms());
+    }
+
+   
+}

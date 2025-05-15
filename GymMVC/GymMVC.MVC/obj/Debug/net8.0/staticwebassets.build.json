@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mP1tXGOM7nb6X7YbLgpsGD1XwhKa97Plm3BVLwnrNAU=",
+  "Hash": "chcFZZtczIoLKs51iwy280672Vy/cUCb1+HEFkbMy38=",
   "Source": "GymMVC.MVC",
   "BasePath": "_content/GymMVC.MVC",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "GymMVC.MVC\\wwwroot",
       "Source": "GymMVC.MVC",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\",
       "BasePath": "_content/GymMVC.MVC",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\Admin\\assets\\css\\styles.css",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\Admin\\assets\\css\\styles.css",
       "SourceId": "GymMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\",
       "BasePath": "_content/GymMVC.MVC",
       "RelativePath": "Admin/assets/css/styles#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -38,10 +38,10 @@
       "OriginalItemSpec": "wwwroot\\Admin\\assets\\css\\styles.css"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\Admin\\assets\\demo\\chart-area-demo.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\Admin\\assets\\demo\\chart-area-demo.js",
       "SourceId": "GymMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\",
       "BasePath": "_content/GymMVC.MVC",
       "RelativePath": "Admin/assets/demo/chart-area-demo#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -59,10 +59,10 @@
       "OriginalItemSpec": "wwwroot\\Admin\\assets\\demo\\chart-area-demo.js"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\Admin\\assets\\demo\\chart-bar-demo.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\Admin\\assets\\demo\\chart-bar-demo.js",
       "SourceId": "GymMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\",
       "BasePath": "_content/GymMVC.MVC",
       "RelativePath": "Admin/assets/demo/chart-bar-demo#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\Admin\\assets\\demo\\chart-bar-demo.js"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\Admin\\assets\\demo\\chart-pie-demo.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\Admin\\assets\\demo\\chart-pie-demo.js",
       "SourceId": "GymMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\",
       "BasePath": "_content/GymMVC.MVC",
       "RelativePath": "Admin/assets/demo/chart-pie-demo#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\Admin\\assets\\demo\\chart-pie-demo.js"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\Admin\\assets\\demo\\datatables-demo.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\Admin\\assets\\demo\\datatables-demo.js",
       "SourceId": "GymMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\",
       "BasePath": "_content/GymMVC.MVC",
       "RelativePath": "Admin/assets/demo/datatables-demo#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\Admin\\assets\\demo\\datatables-demo.js"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\Admin\\assets\\img\\error-404-monochrome.svg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\Admin\\assets\\img\\error-404-monochrome.svg",
       "SourceId": "GymMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\",
       "BasePath": "_content/GymMVC.MVC",
       "RelativePath": "Admin/assets/img/error-404-monochrome#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\Admin\\assets\\img\\error-404-monochrome.svg"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\Admin\\assets\\js\\datatables-simple-demo.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\Admin\\assets\\js\\datatables-simple-demo.js",
       "SourceId": "GymMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\",
       "BasePath": "_content/GymMVC.MVC",
       "RelativePath": "Admin/assets/js/datatables-simple-demo#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -164,10 +164,10 @@
       "OriginalItemSpec": "wwwroot\\Admin\\assets\\js\\datatables-simple-demo.js"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\Admin\\assets\\js\\scripts.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\Admin\\assets\\js\\scripts.js",
       "SourceId": "GymMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\",
       "BasePath": "_content/GymMVC.MVC",
       "RelativePath": "Admin/assets/js/scripts#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -185,10 +185,10 @@
       "OriginalItemSpec": "wwwroot\\Admin\\assets\\js\\scripts.js"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\css\\bootstrap.min.css",
       "SourceId": "GymMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\",
       "BasePath": "_content/GymMVC.MVC",
       "RelativePath": "assets/css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -206,10 +206,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\css\\font-awesome.css",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\css\\font-awesome.css",
       "SourceId": "GymMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\",
       "BasePath": "_content/GymMVC.MVC",
       "RelativePath": "assets/css/font-awesome#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -227,10 +227,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\font-awesome.css"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\css\\templatemo-training-studio.css",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\css\\templatemo-training-studio.css",
       "SourceId": "GymMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\",
       "BasePath": "_content/GymMVC.MVC",
       "RelativePath": "assets/css/templatemo-training-studio#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -248,10 +248,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\templatemo-training-studio.css"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\Flaticon.woff",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\Flaticon.woff",
       "SourceId": "GymMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\",
       "BasePath": "_content/GymMVC.MVC",
       "RelativePath": "assets/fonts/Flaticon#[.{fingerprint}]?.woff",
       "AssetKind": "All",
@@ -269,10 +269,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Flaticon.woff"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\flexslider-icon.eot",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\flexslider-icon.eot",
       "SourceId": "GymMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\",
       "BasePath": "_content/GymMVC.MVC",
       "RelativePath": "assets/fonts/flexslider-icon#[.{fingerprint}]?.eot",
       "AssetKind": "All",
@@ -290,10 +290,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\flexslider-icon.eot"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\flexslider-icon.svg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\flexslider-icon.svg",
       "SourceId": "GymMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\",
       "BasePath": "_content/GymMVC.MVC",
       "RelativePath": "assets/fonts/flexslider-icon#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -311,10 +311,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\flexslider-icon.svg"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\flexslider-icon.ttf",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\flexslider-icon.ttf",
       "SourceId": "GymMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\",
       "BasePath": "_content/GymMVC.MVC",
       "RelativePath": "assets/fonts/flexslider-icon#[.{fingerprint}]?.ttf",
       "AssetKind": "All",
@@ -332,10 +332,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\flexslider-icon.ttf"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\flexslider-icon.woff",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\flexslider-icon.woff",
       "SourceId": "GymMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\",
       "BasePath": "_content/GymMVC.MVC",
       "RelativePath": "assets/fonts/flexslider-icon#[.{fingerprint}]?.woff",
       "AssetKind": "All",
@@ -353,10 +353,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\flexslider-icon.woff"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\FontAwesome.otf",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\FontAwesome.otf",
       "SourceId": "GymMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\",
       "BasePath": "_content/GymMVC.MVC",
       "RelativePath": "assets/fonts/FontAwesome#[.{fingerprint}]?.otf",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\FontAwesome.otf"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
       "SourceId": "GymMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\",
       "BasePath": "_content/GymMVC.MVC",
       "RelativePath": "assets/fonts/fontawesome-webfont#[.{fingerprint}]?.eot",
       "AssetKind": "All",
@@ -395,10 +395,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
       "SourceId": "GymMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\",
       "BasePath": "_content/GymMVC.MVC",
       "RelativePath": "assets/fonts/fontawesome-webfont#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
       "SourceId": "GymMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\",
       "BasePath": "_content/GymMVC.MVC",
       "RelativePath": "assets/fonts/fontawesome-webfont#[.{fingerprint}]?.ttf",
       "AssetKind": "All",
@@ -437,10 +437,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
       "SourceId": "GymMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\",
       "BasePath": "_content/GymMVC.MVC",
       "RelativePath": "assets/fonts/fontawesome-webfont#[.{fingerprint}]?.woff",
       "AssetKind": "All",
@@ -458,10 +458,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
       "SourceId": "GymMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\",
       "BasePath": "_content/GymMVC.MVC",
       "RelativePath": "assets/fonts/fontawesome-webfont#[.{fingerprint}]?.woff2",
       "AssetKind": "All",
@@ -479,10 +479,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\slick.eot",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\slick.eot",
       "SourceId": "GymMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\",
       "BasePath": "_content/GymMVC.MVC",
       "RelativePath": "assets/fonts/slick#[.{fingerprint}]?.eot",
       "AssetKind": "All",
@@ -500,10 +500,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\slick.eot"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\slick.svg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\slick.svg",
       "SourceId": "GymMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\",
       "BasePath": "_content/GymMVC.MVC",
       "RelativePath": "assets/fonts/slick#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -521,10 +521,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\slick.svg"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\slick.ttf",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\slick.ttf",
       "SourceId": "GymMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\",
       "BasePath": "_content/GymMVC.MVC",
       "RelativePath": "assets/fonts/slick#[.{fingerprint}]?.ttf",
       "AssetKind": "All",
@@ -542,10 +542,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\slick.ttf"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\slick.woff",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\slick.woff",
       "SourceId": "GymMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\",
       "BasePath": "_content/GymMVC.MVC",
       "RelativePath": "assets/fonts/slick#[.{fingerprint}]?.woff",
       "AssetKind": "All",
@@ -563,10 +563,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\slick.woff"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\contact-bg.jpg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\contact-bg.jpg",
       "SourceId": "GymMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\",
       "BasePath": "_content/GymMVC.MVC",
       "RelativePath": "assets/images/contact-bg#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -584,10 +584,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\contact-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\cta-bg.jpg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\cta-bg.jpg",
       "SourceId": "GymMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\",
       "BasePath": "_content/GymMVC.MVC",
       "RelativePath": "assets/images/cta-bg#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -605,10 +605,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\cta-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\features-first-icon.png",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\features-first-icon.png",
       "SourceId": "GymMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\",
       "BasePath": "_content/GymMVC.MVC",
       "RelativePath": "assets/images/features-first-icon#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -626,10 +626,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\features-first-icon.png"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\first-trainer.jpg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\first-trainer.jpg",
       "SourceId": "GymMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\",
       "BasePath": "_content/GymMVC.MVC",
       "RelativePath": "assets/images/first-trainer#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -647,10 +647,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\first-trainer.jpg"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\gym-video.mp4",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\gym-video.mp4",
       "SourceId": "GymMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\",
       "BasePath": "_content/GymMVC.MVC",
       "RelativePath": "assets/images/gym-video#[.{fingerprint}]?.mp4",
       "AssetKind": "All",
@@ -668,10 +668,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\gym-video.mp4"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\line-dec.png",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\line-dec.png",
       "SourceId": "GymMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\",
       "BasePath": "_content/GymMVC.MVC",
       "RelativePath": "assets/images/line-dec#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -689,10 +689,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\line-dec.png"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\schedule-bg.jpg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\schedule-bg.jpg",
       "SourceId": "GymMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\",
       "BasePath": "_content/GymMVC.MVC",
       "RelativePath": "assets/images/schedule-bg#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -710,10 +710,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\schedule-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\second-trainer.jpg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\second-trainer.jpg",
       "SourceId": "GymMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\",
       "BasePath": "_content/GymMVC.MVC",
       "RelativePath": "assets/images/second-trainer#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\second-trainer.jpg"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\slide-01.jpg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\slide-01.jpg",
       "SourceId": "GymMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\",
       "BasePath": "_content/GymMVC.MVC",
       "RelativePath": "assets/images/slide-01#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -752,10 +752,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\slide-01.jpg"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\tabs-first-icon.png",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\tabs-first-icon.png",
       "SourceId": "GymMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\",
       "BasePath": "_content/GymMVC.MVC",
       "RelativePath": "assets/images/tabs-first-icon#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -773,10 +773,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\tabs-first-icon.png"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\third-trainer.jpg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\third-trainer.jpg",
       "SourceId": "GymMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\",
       "BasePath": "_content/GymMVC.MVC",
       "RelativePath": "assets/images/third-trainer#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -794,10 +794,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\third-trainer.jpg"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\training-image-01.jpg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\training-image-01.jpg",
       "SourceId": "GymMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\",
       "BasePath": "_content/GymMVC.MVC",
       "RelativePath": "assets/images/training-image-01#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\training-image-01.jpg"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\training-image-02.jpg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\training-image-02.jpg",
       "SourceId": "GymMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\",
       "BasePath": "_content/GymMVC.MVC",
       "RelativePath": "assets/images/training-image-02#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -836,10 +836,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\training-image-02.jpg"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\training-image-03.jpg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\training-image-03.jpg",
       "SourceId": "GymMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\",
       "BasePath": "_content/GymMVC.MVC",
       "RelativePath": "assets/images/training-image-03#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -857,10 +857,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\training-image-03.jpg"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\training-image-04.jpg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\training-image-04.jpg",
       "SourceId": "GymMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\",
       "BasePath": "_content/GymMVC.MVC",
       "RelativePath": "assets/images/training-image-04#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -878,10 +878,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\training-image-04.jpg"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\accordions.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\accordions.js",
       "SourceId": "GymMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\",
       "BasePath": "_content/GymMVC.MVC",
       "RelativePath": "assets/js/accordions#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -899,10 +899,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\accordions.js"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\bootstrap.min.js",
       "SourceId": "GymMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\",
       "BasePath": "_content/GymMVC.MVC",
       "RelativePath": "assets/js/bootstrap.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -920,10 +920,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\custom.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\custom.js",
       "SourceId": "GymMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\",
       "BasePath": "_content/GymMVC.MVC",
       "RelativePath": "assets/js/custom#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -941,10 +941,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\custom.js"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\imgfix.min.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\imgfix.min.js",
       "SourceId": "GymMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\",
       "BasePath": "_content/GymMVC.MVC",
       "RelativePath": "assets/js/imgfix.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -962,10 +962,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\imgfix.min.js"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\jquery.counterup.min.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\jquery.counterup.min.js",
       "SourceId": "GymMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\",
       "BasePath": "_content/GymMVC.MVC",
       "RelativePath": "assets/js/jquery.counterup.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -983,10 +983,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\jquery.counterup.min.js"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\jquery-2.1.0.min.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\jquery-2.1.0.min.js",
       "SourceId": "GymMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\",
       "BasePath": "_content/GymMVC.MVC",
       "RelativePath": "assets/js/jquery-2.1.0.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1004,10 +1004,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\jquery-2.1.0.min.js"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\mixitup.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\mixitup.js",
       "SourceId": "GymMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\",
       "BasePath": "_content/GymMVC.MVC",
       "RelativePath": "assets/js/mixitup#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1025,10 +1025,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\mixitup.js"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\popper.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\popper.js",
       "SourceId": "GymMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\",
       "BasePath": "_content/GymMVC.MVC",
       "RelativePath": "assets/js/popper#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1046,10 +1046,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\popper.js"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\scrollreveal.min.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\scrollreveal.min.js",
       "SourceId": "GymMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\",
       "BasePath": "_content/GymMVC.MVC",
       "RelativePath": "assets/js/scrollreveal.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1067,10 +1067,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\scrollreveal.min.js"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\waypoints.min.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\waypoints.min.js",
       "SourceId": "GymMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\",
       "BasePath": "_content/GymMVC.MVC",
       "RelativePath": "assets/js/waypoints.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\waypoints.min.js"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\UploadedImages\\Screenshot_10fab7c02-a846-41da-9280-b619f7886c46.png",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\UploadedImages\\Screenshot_10fab7c02-a846-41da-9280-b619f7886c46.png",
       "SourceId": "GymMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\",
       "BasePath": "_content/GymMVC.MVC",
       "RelativePath": "UploadedImages/Screenshot_10fab7c02-a846-41da-9280-b619f7886c46#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -1109,10 +1109,10 @@
       "OriginalItemSpec": "wwwroot\\UploadedImages\\Screenshot_10fab7c02-a846-41da-9280-b619f7886c46.png"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\UploadedImages\\Screenshot_126fb8596-8c77-4cb8-ab7b-038e07cbdc54.png",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\UploadedImages\\Screenshot_126fb8596-8c77-4cb8-ab7b-038e07cbdc54.png",
       "SourceId": "GymMVC.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\",
       "BasePath": "_content/GymMVC.MVC",
       "RelativePath": "UploadedImages/Screenshot_126fb8596-8c77-4cb8-ab7b-038e07cbdc54#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -1133,7 +1133,7 @@
   "Endpoints": [
     {
       "Route": "Admin/assets/css/styles.css",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\Admin\\assets\\css\\styles.css",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\Admin\\assets\\css\\styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1170,7 +1170,7 @@
     },
     {
       "Route": "Admin/assets/css/styles.mf45fbw2f4.css",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\Admin\\assets\\css\\styles.css",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\Admin\\assets\\css\\styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1215,7 +1215,7 @@
     },
     {
       "Route": "Admin/assets/demo/chart-area-demo.8flq4k35dk.js",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\Admin\\assets\\demo\\chart-area-demo.js",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\Admin\\assets\\demo\\chart-area-demo.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1260,7 +1260,7 @@
     },
     {
       "Route": "Admin/assets/demo/chart-area-demo.js",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\Admin\\assets\\demo\\chart-area-demo.js",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\Admin\\assets\\demo\\chart-area-demo.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1297,7 +1297,7 @@
     },
     {
       "Route": "Admin/assets/demo/chart-bar-demo.js",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\Admin\\assets\\demo\\chart-bar-demo.js",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\Admin\\assets\\demo\\chart-bar-demo.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1334,7 +1334,7 @@
     },
     {
       "Route": "Admin/assets/demo/chart-bar-demo.qbt6h4ox5y.js",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\Admin\\assets\\demo\\chart-bar-demo.js",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\Admin\\assets\\demo\\chart-bar-demo.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1379,7 +1379,7 @@
     },
     {
       "Route": "Admin/assets/demo/chart-pie-demo.hw7eaup9v4.js",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\Admin\\assets\\demo\\chart-pie-demo.js",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\Admin\\assets\\demo\\chart-pie-demo.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1424,7 +1424,7 @@
     },
     {
       "Route": "Admin/assets/demo/chart-pie-demo.js",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\Admin\\assets\\demo\\chart-pie-demo.js",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\Admin\\assets\\demo\\chart-pie-demo.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1461,7 +1461,7 @@
     },
     {
       "Route": "Admin/assets/demo/datatables-demo.js",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\Admin\\assets\\demo\\datatables-demo.js",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\Admin\\assets\\demo\\datatables-demo.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1498,7 +1498,7 @@
     },
     {
       "Route": "Admin/assets/demo/datatables-demo.w9gruc5uo1.js",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\Admin\\assets\\demo\\datatables-demo.js",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\Admin\\assets\\demo\\datatables-demo.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1543,7 +1543,7 @@
     },
     {
       "Route": "Admin/assets/img/error-404-monochrome.svg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\Admin\\assets\\img\\error-404-monochrome.svg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\Admin\\assets\\img\\error-404-monochrome.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1580,7 +1580,7 @@
     },
     {
       "Route": "Admin/assets/img/error-404-monochrome.yp87i3fbss.svg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\Admin\\assets\\img\\error-404-monochrome.svg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\Admin\\assets\\img\\error-404-monochrome.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1625,7 +1625,7 @@
     },
     {
       "Route": "Admin/assets/js/datatables-simple-demo.js",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\Admin\\assets\\js\\datatables-simple-demo.js",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\Admin\\assets\\js\\datatables-simple-demo.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1662,7 +1662,7 @@
     },
     {
       "Route": "Admin/assets/js/datatables-simple-demo.xnqwbb6zwd.js",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\Admin\\assets\\js\\datatables-simple-demo.js",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\Admin\\assets\\js\\datatables-simple-demo.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1707,7 +1707,7 @@
     },
     {
       "Route": "Admin/assets/js/scripts.dqle62frat.js",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\Admin\\assets\\js\\scripts.js",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\Admin\\assets\\js\\scripts.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1752,7 +1752,7 @@
     },
     {
       "Route": "Admin/assets/js/scripts.js",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\Admin\\assets\\js\\scripts.js",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\Admin\\assets\\js\\scripts.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1789,7 +1789,7 @@
     },
     {
       "Route": "assets/css/bootstrap.min.css",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1826,7 +1826,7 @@
     },
     {
       "Route": "assets/css/bootstrap.min.etnb7xlipe.css",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1871,7 +1871,7 @@
     },
     {
       "Route": "assets/css/font-awesome.cn2xyuyfzd.css",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\css\\font-awesome.css",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\css\\font-awesome.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1916,7 +1916,7 @@
     },
     {
       "Route": "assets/css/font-awesome.css",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\css\\font-awesome.css",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\css\\font-awesome.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1953,7 +1953,7 @@
     },
     {
       "Route": "assets/css/templatemo-training-studio.css",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\css\\templatemo-training-studio.css",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\css\\templatemo-training-studio.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1990,7 +1990,7 @@
     },
     {
       "Route": "assets/css/templatemo-training-studio.t29n7cz7r2.css",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\css\\templatemo-training-studio.css",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\css\\templatemo-training-studio.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2035,7 +2035,7 @@
     },
     {
       "Route": "assets/fonts/Flaticon.ns5uaic8cf.woff",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\Flaticon.woff",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\Flaticon.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2080,7 +2080,7 @@
     },
     {
       "Route": "assets/fonts/Flaticon.woff",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\Flaticon.woff",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\Flaticon.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2117,7 +2117,7 @@
     },
     {
       "Route": "assets/fonts/flexslider-icon.3s3q3fwznf.svg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\flexslider-icon.svg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\flexslider-icon.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2162,7 +2162,7 @@
     },
     {
       "Route": "assets/fonts/flexslider-icon.dwgpr9munh.woff",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\flexslider-icon.woff",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\flexslider-icon.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2207,7 +2207,7 @@
     },
     {
       "Route": "assets/fonts/flexslider-icon.eot",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\flexslider-icon.eot",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\flexslider-icon.eot",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2244,7 +2244,7 @@
     },
     {
       "Route": "assets/fonts/flexslider-icon.iv5ga2n08i.eot",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\flexslider-icon.eot",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\flexslider-icon.eot",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2289,7 +2289,7 @@
     },
     {
       "Route": "assets/fonts/flexslider-icon.mkb1s6fzxx.ttf",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\flexslider-icon.ttf",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\flexslider-icon.ttf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2334,7 +2334,7 @@
     },
     {
       "Route": "assets/fonts/flexslider-icon.svg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\flexslider-icon.svg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\flexslider-icon.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2371,7 +2371,7 @@
     },
     {
       "Route": "assets/fonts/flexslider-icon.ttf",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\flexslider-icon.ttf",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\flexslider-icon.ttf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2408,7 +2408,7 @@
     },
     {
       "Route": "assets/fonts/flexslider-icon.woff",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\flexslider-icon.woff",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\flexslider-icon.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2445,7 +2445,7 @@
     },
     {
       "Route": "assets/fonts/FontAwesome.otf",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\FontAwesome.otf",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\FontAwesome.otf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2482,7 +2482,7 @@
     },
     {
       "Route": "assets/fonts/FontAwesome.rm929x5ywu.otf",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\FontAwesome.otf",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\FontAwesome.otf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2527,7 +2527,7 @@
     },
     {
       "Route": "assets/fonts/fontawesome-webfont.1ctvrg87an.svg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2572,7 +2572,7 @@
     },
     {
       "Route": "assets/fonts/fontawesome-webfont.2jv4sgshbf.ttf",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2617,7 +2617,7 @@
     },
     {
       "Route": "assets/fonts/fontawesome-webfont.75hggv1sfq.eot",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2662,7 +2662,7 @@
     },
     {
       "Route": "assets/fonts/fontawesome-webfont.ee5gozaa6y.woff2",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2707,7 +2707,7 @@
     },
     {
       "Route": "assets/fonts/fontawesome-webfont.eot",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2744,7 +2744,7 @@
     },
     {
       "Route": "assets/fonts/fontawesome-webfont.lqa3r9u2ck.woff",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2789,7 +2789,7 @@
     },
     {
       "Route": "assets/fonts/fontawesome-webfont.svg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2826,7 +2826,7 @@
     },
     {
       "Route": "assets/fonts/fontawesome-webfont.ttf",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2863,7 +2863,7 @@
     },
     {
       "Route": "assets/fonts/fontawesome-webfont.woff",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2900,7 +2900,7 @@
     },
     {
       "Route": "assets/fonts/fontawesome-webfont.woff2",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2937,7 +2937,7 @@
     },
     {
       "Route": "assets/fonts/slick.6tyrrxu1yi.eot",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\slick.eot",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\slick.eot",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2982,7 +2982,7 @@
     },
     {
       "Route": "assets/fonts/slick.9869s41upd.ttf",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\slick.ttf",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\slick.ttf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3027,7 +3027,7 @@
     },
     {
       "Route": "assets/fonts/slick.eot",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\slick.eot",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\slick.eot",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3064,7 +3064,7 @@
     },
     {
       "Route": "assets/fonts/slick.m6wwoyv29g.svg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\slick.svg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\slick.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3109,7 +3109,7 @@
     },
     {
       "Route": "assets/fonts/slick.mcq75vfguu.woff",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\slick.woff",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\slick.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3154,7 +3154,7 @@
     },
     {
       "Route": "assets/fonts/slick.svg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\slick.svg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\slick.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3191,7 +3191,7 @@
     },
     {
       "Route": "assets/fonts/slick.ttf",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\slick.ttf",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\slick.ttf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3228,7 +3228,7 @@
     },
     {
       "Route": "assets/fonts/slick.woff",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\slick.woff",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\fonts\\slick.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3265,7 +3265,7 @@
     },
     {
       "Route": "assets/images/contact-bg.jpg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\contact-bg.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\contact-bg.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3302,7 +3302,7 @@
     },
     {
       "Route": "assets/images/contact-bg.pl22z0ut7f.jpg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\contact-bg.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\contact-bg.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3347,7 +3347,7 @@
     },
     {
       "Route": "assets/images/cta-bg.12ppsqyw15.jpg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\cta-bg.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\cta-bg.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3392,7 +3392,7 @@
     },
     {
       "Route": "assets/images/cta-bg.jpg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\cta-bg.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\cta-bg.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3429,7 +3429,7 @@
     },
     {
       "Route": "assets/images/features-first-icon.png",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\features-first-icon.png",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\features-first-icon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3466,7 +3466,7 @@
     },
     {
       "Route": "assets/images/features-first-icon.vgujyq5c9h.png",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\features-first-icon.png",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\features-first-icon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3511,7 +3511,7 @@
     },
     {
       "Route": "assets/images/first-trainer.jpg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\first-trainer.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\first-trainer.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3548,7 +3548,7 @@
     },
     {
       "Route": "assets/images/first-trainer.xa4eyvkz5n.jpg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\first-trainer.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\first-trainer.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3593,7 +3593,7 @@
     },
     {
       "Route": "assets/images/gym-video.mp4",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\gym-video.mp4",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\gym-video.mp4",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3630,7 +3630,7 @@
     },
     {
       "Route": "assets/images/gym-video.vr2g15glss.mp4",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\gym-video.mp4",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\gym-video.mp4",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3675,7 +3675,7 @@
     },
     {
       "Route": "assets/images/line-dec.k83multt9x.png",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\line-dec.png",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\line-dec.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3720,7 +3720,7 @@
     },
     {
       "Route": "assets/images/line-dec.png",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\line-dec.png",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\line-dec.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3757,7 +3757,7 @@
     },
     {
       "Route": "assets/images/schedule-bg.jpg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\schedule-bg.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\schedule-bg.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3794,7 +3794,7 @@
     },
     {
       "Route": "assets/images/schedule-bg.nayfhr5bk3.jpg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\schedule-bg.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\schedule-bg.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3839,7 +3839,7 @@
     },
     {
       "Route": "assets/images/second-trainer.84dzpigzeq.jpg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\second-trainer.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\second-trainer.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3884,7 +3884,7 @@
     },
     {
       "Route": "assets/images/second-trainer.jpg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\second-trainer.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\second-trainer.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3921,7 +3921,7 @@
     },
     {
       "Route": "assets/images/slide-01.jpg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\slide-01.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\slide-01.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3958,7 +3958,7 @@
     },
     {
       "Route": "assets/images/slide-01.rnri1bxj2q.jpg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\slide-01.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\slide-01.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4003,7 +4003,7 @@
     },
     {
       "Route": "assets/images/tabs-first-icon.aba9kwo8ei.png",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\tabs-first-icon.png",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\tabs-first-icon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4048,7 +4048,7 @@
     },
     {
       "Route": "assets/images/tabs-first-icon.png",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\tabs-first-icon.png",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\tabs-first-icon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4085,7 +4085,7 @@
     },
     {
       "Route": "assets/images/third-trainer.iik2k0q1dg.jpg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\third-trainer.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\third-trainer.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4130,7 +4130,7 @@
     },
     {
       "Route": "assets/images/third-trainer.jpg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\third-trainer.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\third-trainer.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4167,7 +4167,7 @@
     },
     {
       "Route": "assets/images/training-image-01.jpg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\training-image-01.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\training-image-01.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4204,7 +4204,7 @@
     },
     {
       "Route": "assets/images/training-image-01.xj7t4vcxkk.jpg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\training-image-01.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\training-image-01.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4249,7 +4249,7 @@
     },
     {
       "Route": "assets/images/training-image-02.jpg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\training-image-02.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\training-image-02.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4286,7 +4286,7 @@
     },
     {
       "Route": "assets/images/training-image-02.qy1ecq36mx.jpg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\training-image-02.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\training-image-02.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4331,7 +4331,7 @@
     },
     {
       "Route": "assets/images/training-image-03.ea6gb74osn.jpg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\training-image-03.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\training-image-03.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4376,7 +4376,7 @@
     },
     {
       "Route": "assets/images/training-image-03.jpg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\training-image-03.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\training-image-03.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4413,7 +4413,7 @@
     },
     {
       "Route": "assets/images/training-image-04.8ybe36x2h2.jpg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\training-image-04.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\training-image-04.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4458,7 +4458,7 @@
     },
     {
       "Route": "assets/images/training-image-04.jpg",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\training-image-04.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\images\\training-image-04.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4495,7 +4495,7 @@
     },
     {
       "Route": "assets/js/accordions.bhkixlkphy.js",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\accordions.js",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\accordions.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4540,7 +4540,7 @@
     },
     {
       "Route": "assets/js/accordions.js",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\accordions.js",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\accordions.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4577,7 +4577,7 @@
     },
     {
       "Route": "assets/js/bootstrap.min.js",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4614,7 +4614,7 @@
     },
     {
       "Route": "assets/js/bootstrap.min.zu238p5lxg.js",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4659,7 +4659,7 @@
     },
     {
       "Route": "assets/js/custom.js",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\custom.js",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\custom.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4696,7 +4696,7 @@
     },
     {
       "Route": "assets/js/custom.we3kzb56uh.js",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\custom.js",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\custom.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4741,7 +4741,7 @@
     },
     {
       "Route": "assets/js/imgfix.min.hqcki6mmtb.js",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\imgfix.min.js",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\imgfix.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4786,7 +4786,7 @@
     },
     {
       "Route": "assets/js/imgfix.min.js",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\imgfix.min.js",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\imgfix.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4823,7 +4823,7 @@
     },
     {
       "Route": "assets/js/jquery.counterup.min.jb73v50jd0.js",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\jquery.counterup.min.js",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\jquery.counterup.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4868,7 +4868,7 @@
     },
     {
       "Route": "assets/js/jquery.counterup.min.js",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\jquery.counterup.min.js",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\jquery.counterup.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4905,7 +4905,7 @@
     },
     {
       "Route": "assets/js/jquery-2.1.0.min.7hmiwvycll.js",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\jquery-2.1.0.min.js",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\jquery-2.1.0.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4950,7 +4950,7 @@
     },
     {
       "Route": "assets/js/jquery-2.1.0.min.js",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\jquery-2.1.0.min.js",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\jquery-2.1.0.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4987,7 +4987,7 @@
     },
     {
       "Route": "assets/js/mixitup.d7wspklibd.js",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\mixitup.js",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\mixitup.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5032,7 +5032,7 @@
     },
     {
       "Route": "assets/js/mixitup.js",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\mixitup.js",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\mixitup.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5069,7 +5069,7 @@
     },
     {
       "Route": "assets/js/popper.1whccgbe5m.js",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\popper.js",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\popper.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5114,7 +5114,7 @@
     },
     {
       "Route": "assets/js/popper.js",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\popper.js",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\popper.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5151,7 +5151,7 @@
     },
     {
       "Route": "assets/js/scrollreveal.min.js",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\scrollreveal.min.js",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\scrollreveal.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5188,7 +5188,7 @@
     },
     {
       "Route": "assets/js/scrollreveal.min.ubwlpkvaqv.js",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\scrollreveal.min.js",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\scrollreveal.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5233,7 +5233,7 @@
     },
     {
       "Route": "assets/js/waypoints.min.js",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\waypoints.min.js",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\waypoints.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5270,7 +5270,7 @@
     },
     {
       "Route": "assets/js/waypoints.min.qz43fw7wn4.js",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\waypoints.min.js",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\assets\\js\\waypoints.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5315,7 +5315,7 @@
     },
     {
       "Route": "UploadedImages/Screenshot_10fab7c02-a846-41da-9280-b619f7886c46.90fkemx3gl.png",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\UploadedImages\\Screenshot_10fab7c02-a846-41da-9280-b619f7886c46.png",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\UploadedImages\\Screenshot_10fab7c02-a846-41da-9280-b619f7886c46.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5360,7 +5360,7 @@
     },
     {
       "Route": "UploadedImages/Screenshot_10fab7c02-a846-41da-9280-b619f7886c46.png",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\UploadedImages\\Screenshot_10fab7c02-a846-41da-9280-b619f7886c46.png",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\UploadedImages\\Screenshot_10fab7c02-a846-41da-9280-b619f7886c46.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5397,7 +5397,7 @@
     },
     {
       "Route": "UploadedImages/Screenshot_126fb8596-8c77-4cb8-ab7b-038e07cbdc54.90fkemx3gl.png",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\UploadedImages\\Screenshot_126fb8596-8c77-4cb8-ab7b-038e07cbdc54.png",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\UploadedImages\\Screenshot_126fb8596-8c77-4cb8-ab7b-038e07cbdc54.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5442,7 +5442,7 @@
     },
     {
       "Route": "UploadedImages/Screenshot_126fb8596-8c77-4cb8-ab7b-038e07cbdc54.png",
-      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.MVC\\wwwroot\\UploadedImages\\Screenshot_126fb8596-8c77-4cb8-ab7b-038e07cbdc54.png",
+      "AssetFile": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.MVC\\wwwroot\\UploadedImages\\Screenshot_126fb8596-8c77-4cb8-ab7b-038e07cbdc54.png",
       "Selectors": [],
       "ResponseHeaders": [
         {

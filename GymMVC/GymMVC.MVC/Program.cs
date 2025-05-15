@@ -12,10 +12,10 @@ namespace GymMVC.MVC
             builder.Services.AddControllersWithViews();
             builder.Services.AddDbContext<AppDbContext>(opt =>
             {
-                opt.UseSqlServer(@"server=DESKTOP-GTVND9D\SQLEXPRESS;database=CharityDB;Trusted_Connection=true;TrustServerCertificate=true;");
+                opt.UseSqlServer(builder.Configuration.GetConnectionString("localDB"));
             });
 
-            builder.Services.AddScoped<ProgramModelService>();
+            builder.Services.AddScoped<IProgramModelService,ProgramModelService>();
 
 
             var app = builder.Build();

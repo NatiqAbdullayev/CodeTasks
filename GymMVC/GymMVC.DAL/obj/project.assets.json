@@ -4012,11 +4012,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.DAL\\GymMVC.DAL.csproj",
+      "projectUniqueName": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.DAL\\GymMVC.DAL.csproj",
       "projectName": "GymMVC.DAL",
-      "projectPath": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.DAL\\GymMVC.DAL.csproj",
+      "projectPath": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.DAL\\GymMVC.DAL.csproj",
       "packagesPath": "C:\\Users\\II Novbe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\II Novbe\\source\\repos\\GymMVC\\GymMVC.DAL\\obj\\",
+      "outputPath": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\GymMVC\\GymMVC.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

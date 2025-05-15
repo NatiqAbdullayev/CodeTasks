@@ -8,9 +8,9 @@ namespace GymMVC.MVC.Areas.Admin.Controllers;
 public class ProgramController : Controller
 {
 
-    private readonly ProgramModelService _services;
+    private readonly IProgramModelService _services;
 
-    public ProgramController(ProgramModelService service)
+    public ProgramController(IProgramModelService service)
     {
         _services = service;
     }

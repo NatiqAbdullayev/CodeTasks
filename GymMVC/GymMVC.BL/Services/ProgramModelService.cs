@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace GymMVC.BL.Services;
 
-public class ProgramModelService
+public class ProgramModelService :IProgramModelService
 {
     private readonly AppDbContext _context;
     public ProgramModelService(AppDbContext context)

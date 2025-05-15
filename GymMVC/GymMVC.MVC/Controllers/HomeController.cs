@@ -6,9 +6,9 @@ namespace GymMVC.MVC.Controllers;
 
 public class HomeController : Controller
 {
-    private readonly ProgramModelService _servcie;
+    private readonly IProgramModelService _servcie;
 
-    public HomeController(ProgramModelService service)
+    public HomeController(IProgramModelService service)
     {
         _servcie = service;
     }

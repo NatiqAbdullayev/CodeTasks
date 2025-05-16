@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NFTMarketMVC.PL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20e0597384477992fb4f0839e9ec3584a3ee2150")]
 [assembly: System.Reflection.AssemblyProductAttribute("NFTMarketMVC.PL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NFTMarketMVC.PL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

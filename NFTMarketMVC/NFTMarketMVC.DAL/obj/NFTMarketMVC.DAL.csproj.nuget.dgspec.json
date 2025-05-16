@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\II Novbe\\source\\repos\\NFTMarketMVC\\NFTMarketMVC.DAL\\NFTMarketMVC.DAL.csproj": {}
+    "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\NFTMarketMVC\\NFTMarketMVC.DAL\\NFTMarketMVC.DAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\II Novbe\\source\\repos\\NFTMarketMVC\\NFTMarketMVC.DAL\\NFTMarketMVC.DAL.csproj": {
+    "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\NFTMarketMVC\\NFTMarketMVC.DAL\\NFTMarketMVC.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\II Novbe\\source\\repos\\NFTMarketMVC\\NFTMarketMVC.DAL\\NFTMarketMVC.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\NFTMarketMVC\\NFTMarketMVC.DAL\\NFTMarketMVC.DAL.csproj",
         "projectName": "NFTMarketMVC.DAL",
-        "projectPath": "C:\\Users\\II Novbe\\source\\repos\\NFTMarketMVC\\NFTMarketMVC.DAL\\NFTMarketMVC.DAL.csproj",
+        "projectPath": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\NFTMarketMVC\\NFTMarketMVC.DAL\\NFTMarketMVC.DAL.csproj",
         "packagesPath": "C:\\Users\\II Novbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\II Novbe\\source\\repos\\NFTMarketMVC\\NFTMarketMVC.DAL\\obj\\",
+        "outputPath": "C:\\Users\\II Novbe\\Desktop\\CodeTasks\\NFTMarketMVC\\NFTMarketMVC.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,14 @@
+C:\Users\II Novbe\source\repos\NFTMarketMVC\NFTMarketMVC.DAL\bin\Debug\net8.0\NFTMarketMVC.DAL.deps.json
+C:\Users\II Novbe\source\repos\NFTMarketMVC\NFTMarketMVC.DAL\bin\Debug\net8.0\NFTMarketMVC.DAL.runtimeconfig.json
+C:\Users\II Novbe\source\repos\NFTMarketMVC\NFTMarketMVC.DAL\bin\Debug\net8.0\NFTMarketMVC.DAL.dll
+C:\Users\II Novbe\source\repos\NFTMarketMVC\NFTMarketMVC.DAL\bin\Debug\net8.0\NFTMarketMVC.DAL.pdb
+C:\Users\II Novbe\source\repos\NFTMarketMVC\NFTMarketMVC.DAL\obj\Debug\net8.0\NFTMarketMVC.DAL.csproj.AssemblyReference.cache
+C:\Users\II Novbe\source\repos\NFTMarketMVC\NFTMarketMVC.DAL\obj\Debug\net8.0\NFTMarketMVC.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\source\repos\NFTMarketMVC\NFTMarketMVC.DAL\obj\Debug\net8.0\NFTMarketMVC.DAL.AssemblyInfoInputs.cache
+C:\Users\II Novbe\source\repos\NFTMarketMVC\NFTMarketMVC.DAL\obj\Debug\net8.0\NFTMarketMVC.DAL.AssemblyInfo.cs
+C:\Users\II Novbe\source\repos\NFTMarketMVC\NFTMarketMVC.DAL\obj\Debug\net8.0\NFTMarketMVC.DAL.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\source\repos\NFTMarketMVC\NFTMarketMVC.DAL\obj\Debug\net8.0\NFTMarketMVC.DAL.dll
+C:\Users\II Novbe\source\repos\NFTMarketMVC\NFTMarketMVC.DAL\obj\Debug\net8.0\refint\NFTMarketMVC.DAL.dll
+C:\Users\II Novbe\source\repos\NFTMarketMVC\NFTMarketMVC.DAL\obj\Debug\net8.0\NFTMarketMVC.DAL.pdb
+C:\Users\II Novbe\source\repos\NFTMarketMVC\NFTMarketMVC.DAL\obj\Debug\net8.0\NFTMarketMVC.DAL.genruntimeconfig.cache
+C:\Users\II Novbe\source\repos\NFTMarketMVC\NFTMarketMVC.DAL\obj\Debug\net8.0\ref\NFTMarketMVC.DAL.dll

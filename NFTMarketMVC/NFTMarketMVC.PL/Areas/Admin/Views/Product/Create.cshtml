@@ -1,0 +1,37 @@
+﻿@model ProductVM
+
+<div class="card-body">
+    <form asp-area="Admin" asp-controller="Product" asp-action="Create" method="post" enctype="multipart/form-data">
+        <div class="form-floating mb-3">
+            <input asp-for="Title" class="form-control" id="inputEmail" />
+            <label for="inputEmail">Title</label>
+            <span asp-validation-for="Title" class="text-danger"></span>
+        </div>
+        <div class="form-floating mb-3">
+            <input asp-for="Category" class="form-control" />
+            <label for="inputEmail">Description</label>
+            <span asp-validation-for="Category" class="text-danger"></span>
+
+        </div>
+
+        <div class="form-floating mb-3">
+            <input asp-for="MinItemCount" type="number" class="form-control" />
+            <label for="inputEmail">Min count</label>
+            <span asp-validation-for="MinItemCount" class="text-danger"></span>
+        </div>
+
+        <div class="form-floating mb-3">
+            <input asp-for="MaxItemCount" type="number" class="form-control" />
+            <label for="inputEmail">Max count</label>
+            <span asp-validation-for="MaxItemCount" class="text-danger"></span>
+        </div>
+
+        <div>
+            <input asp-for="File" />
+            <span asp-validation-for="File" class="text-danger"></span>
+        </div>
+        <div class="d-flex align-items-center justify-content-between mt-4 mb-0">
+            <button class="btn btn-primary" type="submit">Create</button>
+        </div>
+    </form>
+</div>

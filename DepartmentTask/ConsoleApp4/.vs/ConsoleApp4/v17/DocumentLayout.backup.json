@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stduser\\source\\repos\\ConsoleApp4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{285BBB73-0D0E-47C5-8DDE-CC4C9086CBA9}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\stduser\\source\\repos\\consoleapp4\\consoleapp4\\models\\concrete\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{285BBB73-0D0E-47C5-8DDE-CC4C9086CBA9}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\models\\concrete\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{285BBB73-0D0E-47C5-8DDE-CC4C9086CBA9}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\stduser\\source\\repos\\consoleapp4\\consoleapp4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{285BBB73-0D0E-47C5-8DDE-CC4C9086CBA9}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{285BBB73-0D0E-47C5-8DDE-CC4C9086CBA9}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\stduser\\source\\repos\\consoleapp4\\consoleapp4\\models\\concrete\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{285BBB73-0D0E-47C5-8DDE-CC4C9086CBA9}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\models\\concrete\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{285BBB73-0D0E-47C5-8DDE-CC4C9086CBA9}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\stduser\\source\\repos\\consoleapp4\\consoleapp4\\models\\abstract\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{285BBB73-0D0E-47C5-8DDE-CC4C9086CBA9}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\models\\abstract\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{285BBB73-0D0E-47C5-8DDE-CC4C9086CBA9}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\stduser\\source\\repos\\consoleapp4\\consoleapp4\\exceptions\\capacitylimitexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{285BBB73-0D0E-47C5-8DDE-CC4C9086CBA9}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\exceptions\\capacitylimitexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\stduser\\source\\repos\\ConsoleApp4\\ConsoleApp4\\Models\\Concrete\\Department.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Models\\Concrete\\Department.cs",
+              "ToolTip": "C:\\Users\\stduser\\source\\repos\\ConsoleApp4\\ConsoleApp4\\Models\\Concrete\\Department.cs",
+              "RelativeToolTip": "ConsoleApp4\\Models\\Concrete\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T07:23:24.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\stduser\\source\\repos\\ConsoleApp4\\ConsoleApp4\\Models\\Concrete\\Employee.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Models\\Concrete\\Employee.cs",
+              "ToolTip": "C:\\Users\\stduser\\source\\repos\\ConsoleApp4\\ConsoleApp4\\Models\\Concrete\\Employee.cs",
+              "RelativeToolTip": "ConsoleApp4\\Models\\Concrete\\Employee.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T07:16:23.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPerson.cs",
+              "DocumentMoniker": "C:\\Users\\stduser\\source\\repos\\ConsoleApp4\\ConsoleApp4\\Models\\Abstract\\IPerson.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Models\\Abstract\\IPerson.cs",
+              "ToolTip": "C:\\Users\\stduser\\source\\repos\\ConsoleApp4\\ConsoleApp4\\Models\\Abstract\\IPerson.cs",
+              "RelativeToolTip": "ConsoleApp4\\Models\\Abstract\\IPerson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T07:15:24.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CapacityLimitException.cs",
+              "DocumentMoniker": "C:\\Users\\stduser\\source\\repos\\ConsoleApp4\\ConsoleApp4\\Exceptions\\CapacityLimitException.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Exceptions\\CapacityLimitException.cs",
+              "ToolTip": "C:\\Users\\stduser\\source\\repos\\ConsoleApp4\\ConsoleApp4\\Exceptions\\CapacityLimitException.cs",
+              "RelativeToolTip": "ConsoleApp4\\Exceptions\\CapacityLimitException.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T07:13:48.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\stduser\\source\\repos\\ConsoleApp4\\ConsoleApp4\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Program.cs",
+              "ToolTip": "C:\\Users\\stduser\\source\\repos\\ConsoleApp4\\ConsoleApp4\\Program.cs",
+              "RelativeToolTip": "ConsoleApp4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T07:12:33.083Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

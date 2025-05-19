@@ -1,0 +1,265 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\VillaMVC\\VillaMVC.PL\\wwwroot\\Admin\\assets\\css\\styles.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\VillaMVC\\VillaMVC.PL\\wwwroot\\Admin\\assets\\demo\\chart-area-demo.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\demo\\chart-area-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\VillaMVC\\VillaMVC.PL\\wwwroot\\Admin\\assets\\demo\\chart-bar-demo.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\demo\\chart-bar-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\VillaMVC\\VillaMVC.PL\\wwwroot\\Admin\\assets\\demo\\chart-pie-demo.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\demo\\chart-pie-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\VillaMVC\\VillaMVC.PL\\wwwroot\\Admin\\assets\\demo\\datatables-demo.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\demo\\datatables-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\VillaMVC\\VillaMVC.PL\\wwwroot\\Admin\\assets\\img\\error-404-monochrome.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\error-404-monochrome.svg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\VillaMVC\\VillaMVC.PL\\wwwroot\\Admin\\assets\\js\\datatables-simple-demo.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\datatables-simple-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\VillaMVC\\VillaMVC.PL\\wwwroot\\Admin\\assets\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\VillaMVC\\VillaMVC.PL\\wwwroot\\assets\\css\\animate.css",
+      "PackagePath": "staticwebassets\\assets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\VillaMVC\\VillaMVC.PL\\wwwroot\\assets\\css\\flex-slider.css",
+      "PackagePath": "staticwebassets\\assets\\css\\flex-slider.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\VillaMVC\\VillaMVC.PL\\wwwroot\\assets\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\VillaMVC\\VillaMVC.PL\\wwwroot\\assets\\css\\owl.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\VillaMVC\\VillaMVC.PL\\wwwroot\\assets\\css\\templatemo-villa-agency.css",
+      "PackagePath": "staticwebassets\\assets\\css\\templatemo-villa-agency.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\VillaMVC\\VillaMVC.PL\\wwwroot\\assets\\images\\banner-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\VillaMVC\\VillaMVC.PL\\wwwroot\\assets\\images\\banner-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\VillaMVC\\VillaMVC.PL\\wwwroot\\assets\\images\\banner-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\VillaMVC\\VillaMVC.PL\\wwwroot\\assets\\images\\contact-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\contact-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\VillaMVC\\VillaMVC.PL\\wwwroot\\assets\\images\\deal-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\deal-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\VillaMVC\\VillaMVC.PL\\wwwroot\\assets\\images\\deal-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\deal-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\VillaMVC\\VillaMVC.PL\\wwwroot\\assets\\images\\deal-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\deal-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\VillaMVC\\VillaMVC.PL\\wwwroot\\assets\\images\\email-icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\email-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\VillaMVC\\VillaMVC.PL\\wwwroot\\assets\\images\\featured-icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\featured-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\VillaMVC\\VillaMVC.PL\\wwwroot\\assets\\images\\featured.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\featured.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\VillaMVC\\VillaMVC.PL\\wwwroot\\assets\\images\\info-icon-01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\info-icon-01.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\VillaMVC\\VillaMVC.PL\\wwwroot\\assets\\images\\info-icon-02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\info-icon-02.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\VillaMVC\\VillaMVC.PL\\wwwroot\\assets\\images\\info-icon-03.png",
+      "PackagePath": "staticwebassets\\assets\\images\\info-icon-03.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\VillaMVC\\VillaMVC.PL\\wwwroot\\assets\\images\\info-icon-04.png",
+      "PackagePath": "staticwebassets\\assets\\images\\info-icon-04.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\VillaMVC\\VillaMVC.PL\\wwwroot\\assets\\images\\page-heading-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\page-heading-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\VillaMVC\\VillaMVC.PL\\wwwroot\\assets\\images\\phone-icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\phone-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\VillaMVC\\VillaMVC.PL\\wwwroot\\assets\\images\\property-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\property-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\VillaMVC\\VillaMVC.PL\\wwwroot\\assets\\images\\property-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\property-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\VillaMVC\\VillaMVC.PL\\wwwroot\\assets\\images\\property-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\property-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\VillaMVC\\VillaMVC.PL\\wwwroot\\assets\\images\\property-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\property-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\VillaMVC\\VillaMVC.PL\\wwwroot\\assets\\images\\property-05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\property-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\VillaMVC\\VillaMVC.PL\\wwwroot\\assets\\images\\property-06.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\property-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\VillaMVC\\VillaMVC.PL\\wwwroot\\assets\\images\\single-property.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\single-property.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\VillaMVC\\VillaMVC.PL\\wwwroot\\assets\\images\\video-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\video-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\VillaMVC\\VillaMVC.PL\\wwwroot\\assets\\images\\video-frame.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\video-frame.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\VillaMVC\\VillaMVC.PL\\wwwroot\\assets\\js\\counter.js",
+      "PackagePath": "staticwebassets\\assets\\js\\counter.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\VillaMVC\\VillaMVC.PL\\wwwroot\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\VillaMVC\\VillaMVC.PL\\wwwroot\\assets\\js\\isotope.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\isotope.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\VillaMVC\\VillaMVC.PL\\wwwroot\\assets\\js\\owl-carousel.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owl-carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\VillaMVC\\VillaMVC.PL\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\VillaMVC\\VillaMVC.PL\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\VillaMVC\\VillaMVC.PL\\wwwroot\\assets\\vendor\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\VillaMVC\\VillaMVC.PL\\wwwroot\\assets\\vendor\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\VillaMVC\\VillaMVC.PL\\wwwroot\\assets\\vendor\\jquery\\jquery.min.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\jquery\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\VillaMVC\\VillaMVC.PL\\wwwroot\\assets\\vendor\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\VillaMVC\\VillaMVC.PL\\wwwroot\\assets\\vendor\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\VillaMVC\\VillaMVC.PL\\wwwroot\\assets\\vendor\\jquery\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\VillaMVC\\VillaMVC.PL\\wwwroot\\assets\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\VillaMVC\\VillaMVC.PL\\wwwroot\\assets\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\VillaMVC\\VillaMVC.PL\\wwwroot\\assets\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\VillaMVC\\VillaMVC.PL\\wwwroot\\assets\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\VillaMVC\\VillaMVC.PL\\wwwroot\\assets\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\VillaMVC\\VillaMVC.PL\\wwwroot\\assets\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\VillaMVC\\VillaMVC.PL\\wwwroot\\assets\\webfonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\VillaMVC\\VillaMVC.PL\\wwwroot\\assets\\webfonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\VillaMVC\\VillaMVC.PL\\wwwroot\\uploadedImages\\download7a1d3d5b-70c4-4501-b4c7-6fd7b004ae08.jpg",
+      "PackagePath": "staticwebassets\\uploadedImages\\download7a1d3d5b-70c4-4501-b4c7-6fd7b004ae08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\VillaMVC\\VillaMVC.PL\\wwwroot\\uploadedImages\\downloada560630f-52fa-4618-a398-33e879f6167f.jpg",
+      "PackagePath": "staticwebassets\\uploadedImages\\downloada560630f-52fa-4618-a398-33e879f6167f.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.VillaMVC.PL.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.VillaMVC.PL.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.VillaMVC.PL.props",
+      "PackagePath": "build\\VillaMVC.PL.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.VillaMVC.PL.props",
+      "PackagePath": "buildMultiTargeting\\VillaMVC.PL.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.VillaMVC.PL.props",
+      "PackagePath": "buildTransitive\\VillaMVC.PL.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

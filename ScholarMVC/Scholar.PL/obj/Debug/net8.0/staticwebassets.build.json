@@ -1,0 +1,6099 @@
+{
+  "Version": 1,
+  "Hash": "WptQeOanCadww8crYmwAytQvqWxh00ayo/IiQhUfx0M=",
+  "Source": "Scholar.PL",
+  "BasePath": "_content/Scholar.PL",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Scholar.PL\\wwwroot",
+      "Source": "Scholar.PL",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\",
+      "BasePath": "_content/Scholar.PL",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\Admin\\assets\\css\\styles.css",
+      "SourceId": "Scholar.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\",
+      "BasePath": "_content/Scholar.PL",
+      "RelativePath": "Admin/assets/css/styles#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mf45fbw2f4",
+      "Integrity": "Tl/JSPdgPPXWVWSUewZbpR6kZW1nVf8f6PA1SpwxpFo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Admin\\assets\\css\\styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\Admin\\assets\\demo\\chart-area-demo.js",
+      "SourceId": "Scholar.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\",
+      "BasePath": "_content/Scholar.PL",
+      "RelativePath": "Admin/assets/demo/chart-area-demo#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8flq4k35dk",
+      "Integrity": "9LLP7XKqyptnrNbmQqIjm5rIDw5zwE9KWE4hVhK5Jvk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Admin\\assets\\demo\\chart-area-demo.js"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\Admin\\assets\\demo\\chart-bar-demo.js",
+      "SourceId": "Scholar.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\",
+      "BasePath": "_content/Scholar.PL",
+      "RelativePath": "Admin/assets/demo/chart-bar-demo#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qbt6h4ox5y",
+      "Integrity": "9tpvm3R5RdFWxUDIA09CWwnWxpLxiJYWKom8gdLwl3I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Admin\\assets\\demo\\chart-bar-demo.js"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\Admin\\assets\\demo\\chart-pie-demo.js",
+      "SourceId": "Scholar.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\",
+      "BasePath": "_content/Scholar.PL",
+      "RelativePath": "Admin/assets/demo/chart-pie-demo#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hw7eaup9v4",
+      "Integrity": "gXHh8OZnGFZ8Pb+CoSlwJ7lx7tZD1amOLrSASwI8Neo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Admin\\assets\\demo\\chart-pie-demo.js"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\Admin\\assets\\demo\\datatables-demo.js",
+      "SourceId": "Scholar.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\",
+      "BasePath": "_content/Scholar.PL",
+      "RelativePath": "Admin/assets/demo/datatables-demo#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w9gruc5uo1",
+      "Integrity": "3BYZ/ie9x2nIWSAO1N9M0VISPR5FfP5Wg0EKHZzNOoo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Admin\\assets\\demo\\datatables-demo.js"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\Admin\\assets\\img\\error-404-monochrome.svg",
+      "SourceId": "Scholar.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\",
+      "BasePath": "_content/Scholar.PL",
+      "RelativePath": "Admin/assets/img/error-404-monochrome#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yp87i3fbss",
+      "Integrity": "GuryUo0+xyzRuEVttjuLmS8hqxoE9FucfaX/mboMWj8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Admin\\assets\\img\\error-404-monochrome.svg"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\Admin\\assets\\js\\datatables-simple-demo.js",
+      "SourceId": "Scholar.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\",
+      "BasePath": "_content/Scholar.PL",
+      "RelativePath": "Admin/assets/js/datatables-simple-demo#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xnqwbb6zwd",
+      "Integrity": "A5r4X24Y4UOeA7FBC6HS3voj76xkmczywh9qO+Ly5hQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Admin\\assets\\js\\datatables-simple-demo.js"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\Admin\\assets\\js\\scripts.js",
+      "SourceId": "Scholar.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\",
+      "BasePath": "_content/Scholar.PL",
+      "RelativePath": "Admin/assets/js/scripts#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dqle62frat",
+      "Integrity": "hSOKtaoLbtAX3QLxogVcaVg8Fv7Y6HTCcpJqVePv720=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Admin\\assets\\js\\scripts.js"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\css\\animate.css",
+      "SourceId": "Scholar.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\",
+      "BasePath": "_content/Scholar.PL",
+      "RelativePath": "assets/css/animate#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mbktb1n8sc",
+      "Integrity": "IgsSxdy0BWhLIqpKerb/fqpdbDyRgU8MadKB1bN1XWk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\css\\animate.css"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\css\\flex-slider.css",
+      "SourceId": "Scholar.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\",
+      "BasePath": "_content/Scholar.PL",
+      "RelativePath": "assets/css/flex-slider#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6k1vjfxrub",
+      "Integrity": "WodHGchtrvfDFRVmSxRfzCakmnutBSahtrStkRfHSKU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\css\\flex-slider.css"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\css\\fontawesome.css",
+      "SourceId": "Scholar.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\",
+      "BasePath": "_content/Scholar.PL",
+      "RelativePath": "assets/css/fontawesome#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "950eoveqb1",
+      "Integrity": "w7MwROYzckW+mLKOARXHq1wZU5Wrx5SCJ/r+emTnIC8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\css\\fontawesome.css"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\css\\owl.css",
+      "SourceId": "Scholar.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\",
+      "BasePath": "_content/Scholar.PL",
+      "RelativePath": "assets/css/owl#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "c10bbavtrn",
+      "Integrity": "8FfTY8BXrJMQXqixFODx/NnDFum5RSadOgtI2voxI2k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\css\\owl.css"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\css\\templatemo-scholar.css",
+      "SourceId": "Scholar.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\",
+      "BasePath": "_content/Scholar.PL",
+      "RelativePath": "assets/css/templatemo-scholar#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "z9a9yr0mid",
+      "Integrity": "uTUT8yEpCULxAtCETdKnplMoaRxwPMAQfCz9iATCjn4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\css\\templatemo-scholar.css"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\images\\banner-bg.jpg",
+      "SourceId": "Scholar.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\",
+      "BasePath": "_content/Scholar.PL",
+      "RelativePath": "assets/images/banner-bg#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "btm1zhvs6b",
+      "Integrity": "Qf+0q6ykZnbI7JlPxWr3KZVyv6f/DFtsSLp8bdNHP8U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\banner-bg.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\images\\banner-item-01.jpg",
+      "SourceId": "Scholar.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\",
+      "BasePath": "_content/Scholar.PL",
+      "RelativePath": "assets/images/banner-item-01#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "g9g526jjbz",
+      "Integrity": "bBTFY0cptXvhRlwr7XNOaFOvsUkj06FTehzo8lrZib8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\banner-item-01.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\images\\banner-item-02.jpg",
+      "SourceId": "Scholar.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\",
+      "BasePath": "_content/Scholar.PL",
+      "RelativePath": "assets/images/banner-item-02#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w9ixyzhjwa",
+      "Integrity": "xHgagdlMTG8CBlsFkPnD/EAQzLBuoX+yW8IheHRt6tM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\banner-item-02.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\images\\banner-item-03.jpg",
+      "SourceId": "Scholar.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\",
+      "BasePath": "_content/Scholar.PL",
+      "RelativePath": "assets/images/banner-item-03#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "iskmokvvxo",
+      "Integrity": "PlW2mpTPJ46JGU+9IXSpPjzoMqPsCioaduIcNeyFI04=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\banner-item-03.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\images\\contact-dec-01.png",
+      "SourceId": "Scholar.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\",
+      "BasePath": "_content/Scholar.PL",
+      "RelativePath": "assets/images/contact-dec-01#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4tr44gg5ns",
+      "Integrity": "yGmD9DgG9989GH8J/o5S1JFcV80vrEJ/KAQydUSr2gY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\contact-dec-01.png"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\images\\contact-dec-02.png",
+      "SourceId": "Scholar.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\",
+      "BasePath": "_content/Scholar.PL",
+      "RelativePath": "assets/images/contact-dec-02#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jffs23uliy",
+      "Integrity": "H4twL1dFRYB7gG57ZGUJR0gi4Hd9fkr5MdlUDAU4YaE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\contact-dec-02.png"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\images\\course-01.jpg",
+      "SourceId": "Scholar.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\",
+      "BasePath": "_content/Scholar.PL",
+      "RelativePath": "assets/images/course-01#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7b0k3a8fks",
+      "Integrity": "k8lXs1CoBXAA1iOP6yq/lKeIklaa5MPhSr1OWJ23wqE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\course-01.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\images\\course-02.jpg",
+      "SourceId": "Scholar.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\",
+      "BasePath": "_content/Scholar.PL",
+      "RelativePath": "assets/images/course-02#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dcutb9ho8g",
+      "Integrity": "3f0sp1kLNgVmKxSzZHUKjyZB45/n8VPfPiD0tEvlLXQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\course-02.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\images\\course-03.jpg",
+      "SourceId": "Scholar.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\",
+      "BasePath": "_content/Scholar.PL",
+      "RelativePath": "assets/images/course-03#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3hbsha3x46",
+      "Integrity": "F7IB9339gIFK9NnvEr6SXz3aZOrZLfInXQKDvahU9DM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\course-03.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\images\\course-04.jpg",
+      "SourceId": "Scholar.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\",
+      "BasePath": "_content/Scholar.PL",
+      "RelativePath": "assets/images/course-04#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "13czhs8mgc",
+      "Integrity": "EzfnsSt2/qmn1TzggeZjSpQkvMuhgMWKDRMppPYVSAs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\course-04.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\images\\course-05.jpg",
+      "SourceId": "Scholar.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\",
+      "BasePath": "_content/Scholar.PL",
+      "RelativePath": "assets/images/course-05#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xpav93qof0",
+      "Integrity": "BX1JPPztJvNKvruMlV9OoLdWLG32zC3BhXOA+y6bUIU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\course-05.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\images\\course-06.jpg",
+      "SourceId": "Scholar.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\",
+      "BasePath": "_content/Scholar.PL",
+      "RelativePath": "assets/images/course-06#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v3qmjkgtt2",
+      "Integrity": "qzBvwHLLVMxNuiE0j92QLr8lZUhgfUSodLZNC0upo8s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\course-06.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\images\\event-01.jpg",
+      "SourceId": "Scholar.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\",
+      "BasePath": "_content/Scholar.PL",
+      "RelativePath": "assets/images/event-01#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hsmmj0pn3a",
+      "Integrity": "H6AtUPnIbvfICwEp/p4iI1cIuYyADSimNp7LEq7Y7F8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\event-01.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\images\\event-02.jpg",
+      "SourceId": "Scholar.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\",
+      "BasePath": "_content/Scholar.PL",
+      "RelativePath": "assets/images/event-02#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kjeeb2p7l4",
+      "Integrity": "4Ds1zbZCEQ25tpSfheik9KD2QPGmtBM8y+JDDn/S0xQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\event-02.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\images\\event-03.jpg",
+      "SourceId": "Scholar.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\",
+      "BasePath": "_content/Scholar.PL",
+      "RelativePath": "assets/images/event-03#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kpgox57y4y",
+      "Integrity": "mE9ej7iVW0A/VxAJJY/fx1IDLzL2hLLp7PMZ43ZYEvk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\event-03.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\images\\member-01.jpg",
+      "SourceId": "Scholar.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\",
+      "BasePath": "_content/Scholar.PL",
+      "RelativePath": "assets/images/member-01#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "my5cliru95",
+      "Integrity": "0mnOuYsjvyu/6m9P4CEyzaDM0WD/0DBe1vRoH7DQioM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\member-01.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\images\\member-02.jpg",
+      "SourceId": "Scholar.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\",
+      "BasePath": "_content/Scholar.PL",
+      "RelativePath": "assets/images/member-02#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rnf66s9es2",
+      "Integrity": "x1r7fNFpSe1E1JzAHR/KoPw81RHNrAC/O5Kw04GGTU0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\member-02.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\images\\member-03.jpg",
+      "SourceId": "Scholar.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\",
+      "BasePath": "_content/Scholar.PL",
+      "RelativePath": "assets/images/member-03#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "33h3gg6hcf",
+      "Integrity": "P2nrvW60Y4VWF8LlSt8BAXrbASVJvp9i0HguHkOFJmI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\member-03.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\images\\member-04.jpg",
+      "SourceId": "Scholar.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\",
+      "BasePath": "_content/Scholar.PL",
+      "RelativePath": "assets/images/member-04#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "441qzcynp2",
+      "Integrity": "3ORz8VoQPv34CqG4ny/QTAU55D1p5xs3VfFJZ9zYZFY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\member-04.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\images\\service-01.png",
+      "SourceId": "Scholar.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\",
+      "BasePath": "_content/Scholar.PL",
+      "RelativePath": "assets/images/service-01#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ksbqt8iw2m",
+      "Integrity": "NDvQVDRWOloYQdbs8aP9DXYuyL21SV5MK3OdVsLNBuc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\service-01.png"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\images\\service-02.png",
+      "SourceId": "Scholar.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\",
+      "BasePath": "_content/Scholar.PL",
+      "RelativePath": "assets/images/service-02#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ni6ng0vsvp",
+      "Integrity": "v4CPCbQplHs+UaipusWmeWN9/Im8e6cUrXlwgsdyaxc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\service-02.png"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\images\\service-03.png",
+      "SourceId": "Scholar.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\",
+      "BasePath": "_content/Scholar.PL",
+      "RelativePath": "assets/images/service-03#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rnif1tfr6t",
+      "Integrity": "N/EFaBdRO04pbKvIAFveO9TQDoq65sBlsTugX4tbe3o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\service-03.png"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\images\\testimonial-author.jpg",
+      "SourceId": "Scholar.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\",
+      "BasePath": "_content/Scholar.PL",
+      "RelativePath": "assets/images/testimonial-author#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1o71z6m9xc",
+      "Integrity": "76cRMQfb7Gz4t0yDhnve7UMPlmHGjWn6ld2DbRcfRHI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\testimonial-author.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\js\\counter.js",
+      "SourceId": "Scholar.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\",
+      "BasePath": "_content/Scholar.PL",
+      "RelativePath": "assets/js/counter#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "80l8ykkc65",
+      "Integrity": "WI7E4ROXovFuvNEnOrhVbSbbV2cMcRPQnakMfwJ5ZDo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\js\\counter.js"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\js\\custom.js",
+      "SourceId": "Scholar.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\",
+      "BasePath": "_content/Scholar.PL",
+      "RelativePath": "assets/js/custom#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "u8s3mrho2h",
+      "Integrity": "vuOhvYRvSekH+JUDeOvq39SmraFbAyxyc2/OPGGU/6o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\js\\custom.js"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\js\\isotope.min.js",
+      "SourceId": "Scholar.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\",
+      "BasePath": "_content/Scholar.PL",
+      "RelativePath": "assets/js/isotope.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fi4muoliu0",
+      "Integrity": "qTHlr1YbHw769s25aurEwDXDB1bdbt0QkdoaaHR9Nbw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\js\\isotope.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\js\\owl-carousel.js",
+      "SourceId": "Scholar.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\",
+      "BasePath": "_content/Scholar.PL",
+      "RelativePath": "assets/js/owl-carousel#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s0urs9j7h8",
+      "Integrity": "RN8Ln2oIxjjCzlRJicyPww6Q/SvahGUoDQzw8tIUFz4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\js\\owl-carousel.js"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "SourceId": "Scholar.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\",
+      "BasePath": "_content/Scholar.PL",
+      "RelativePath": "assets/vendor/bootstrap/css/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ru9q07t3va",
+      "Integrity": "nT9M0sg4j1bMxRWZeewVD9RrQyIjV127M/JF1C7odGM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "SourceId": "Scholar.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\",
+      "BasePath": "_content/Scholar.PL",
+      "RelativePath": "assets/vendor/bootstrap/js/bootstrap.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ma1nb8ad0o",
+      "Integrity": "sq7gCFiFW3H+c9s4OR+sQSpOQ+78Y5y6TQvjT+9h3TY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\vendor\\jquery\\jquery.js",
+      "SourceId": "Scholar.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\",
+      "BasePath": "_content/Scholar.PL",
+      "RelativePath": "assets/vendor/jquery/jquery#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "a8eee2794i",
+      "Integrity": "igUc00PXGT1YBL1/Kf7QYy9fPlLqZKcEGrCqDz3EFDI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\jquery\\jquery.js"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\vendor\\jquery\\jquery.min.js",
+      "SourceId": "Scholar.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\",
+      "BasePath": "_content/Scholar.PL",
+      "RelativePath": "assets/vendor/jquery/jquery.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jsxrs32yp5",
+      "Integrity": "0wthFPuUlq5GsqjN9ZN5yP/blXU0vR3XPmJsfGHH5n0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\jquery\\jquery.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\vendor\\jquery\\jquery.min.map",
+      "SourceId": "Scholar.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\",
+      "BasePath": "_content/Scholar.PL",
+      "RelativePath": "assets/vendor/jquery/jquery.min#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "b804xvqo1w",
+      "Integrity": "1eiGMA0y1kD5P/bXnTaiTKk8vtvQ8IC2nXAoI1HJXyE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\jquery\\jquery.min.map"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\vendor\\jquery\\jquery.slim.js",
+      "SourceId": "Scholar.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\",
+      "BasePath": "_content/Scholar.PL",
+      "RelativePath": "assets/vendor/jquery/jquery.slim#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "khhs5umk4w",
+      "Integrity": "iASwdbd3qZtfn/hmjgKAujvTe93Fp8nT2eCFUYkKj08=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\jquery\\jquery.slim.js"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\vendor\\jquery\\jquery.slim.min.js",
+      "SourceId": "Scholar.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\",
+      "BasePath": "_content/Scholar.PL",
+      "RelativePath": "assets/vendor/jquery/jquery.slim.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dcowqscbhr",
+      "Integrity": "w/K14c9es++XoHzIMaMmA0G6Ea9ndjvAXvPp5V26jB8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\vendor\\jquery\\jquery.slim.min.map",
+      "SourceId": "Scholar.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\",
+      "BasePath": "_content/Scholar.PL",
+      "RelativePath": "assets/vendor/jquery/jquery.slim.min#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hiqumc4mhz",
+      "Integrity": "R9iD2BZjLu3OzwrErQRNtxPK5tUuGdtBa2iefT78g2c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\vendor\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\webfonts\\fa-brands-400.ttf",
+      "SourceId": "Scholar.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\",
+      "BasePath": "_content/Scholar.PL",
+      "RelativePath": "assets/webfonts/fa-brands-400#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ec7av0s957",
+      "Integrity": "Uj3HLKpCaHyUblqNfmtDiICiaIGWRGbPFCXOURTklwE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\webfonts\\fa-brands-400.woff2",
+      "SourceId": "Scholar.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\",
+      "BasePath": "_content/Scholar.PL",
+      "RelativePath": "assets/webfonts/fa-brands-400#[.{fingerprint}]?.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xbaqrjsnrd",
+      "Integrity": "M6JS1jk8vW3r4KxRcinHqiWKDuaPwCU/i+anzui2Xuk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\webfonts\\fa-regular-400.ttf",
+      "SourceId": "Scholar.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\",
+      "BasePath": "_content/Scholar.PL",
+      "RelativePath": "assets/webfonts/fa-regular-400#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "07aei3q65k",
+      "Integrity": "5HYWGFSBsOzWNtw1/EZzpKMysayWWF/B+c8NBVPawqA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\webfonts\\fa-regular-400.woff2",
+      "SourceId": "Scholar.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\",
+      "BasePath": "_content/Scholar.PL",
+      "RelativePath": "assets/webfonts/fa-regular-400#[.{fingerprint}]?.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8s1ufbha8g",
+      "Integrity": "iG/R5s6ZLt5RR0OoJvpx/v21dwR6KomcqV9vKPMwXQk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\webfonts\\fa-solid-900.ttf",
+      "SourceId": "Scholar.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\",
+      "BasePath": "_content/Scholar.PL",
+      "RelativePath": "assets/webfonts/fa-solid-900#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gff89q9hdp",
+      "Integrity": "HCEME0w0ChEzmRpgWwqsmQzoUFxI/ON8kVBjQClk6ZQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\webfonts\\fa-solid-900.woff2",
+      "SourceId": "Scholar.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\",
+      "BasePath": "_content/Scholar.PL",
+      "RelativePath": "assets/webfonts/fa-solid-900#[.{fingerprint}]?.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4gteh1wgpd",
+      "Integrity": "lOG7wcKkHrxz+lJT/VYyVsADW01pGB5I+a755HShElE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\webfonts\\fa-v4compatibility.ttf",
+      "SourceId": "Scholar.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\",
+      "BasePath": "_content/Scholar.PL",
+      "RelativePath": "assets/webfonts/fa-v4compatibility#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "51fdvt6etl",
+      "Integrity": "p3/E2UhQ5amzlk0I9eLS+tXGY1umjTiyp+F89MVgvzc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\webfonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\webfonts\\fa-v4compatibility.woff2",
+      "SourceId": "Scholar.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\",
+      "BasePath": "_content/Scholar.PL",
+      "RelativePath": "assets/webfonts/fa-v4compatibility#[.{fingerprint}]?.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "n3njcu80rr",
+      "Integrity": "TcCPFfYc4WuXwMRYC9IzvgyepSFlMz/kYK9UBApcQlw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\UploadedImages\\download84aa88c3-14de-44f7-82fd-05dd3333f16b.jpg",
+      "SourceId": "Scholar.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\",
+      "BasePath": "_content/Scholar.PL",
+      "RelativePath": "UploadedImages/download84aa88c3-14de-44f7-82fd-05dd3333f16b#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4zk9023wjh",
+      "Integrity": "cErYhjYQIxJxLR4275DMOc1+PwnilGgZuTXyhp4DXrg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\UploadedImages\\download84aa88c3-14de-44f7-82fd-05dd3333f16b.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\UploadedImages\\download8ec8ab91-8d52-4f28-ba5c-840bd6dadc88.jpg",
+      "SourceId": "Scholar.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\",
+      "BasePath": "_content/Scholar.PL",
+      "RelativePath": "UploadedImages/download8ec8ab91-8d52-4f28-ba5c-840bd6dadc88#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4zk9023wjh",
+      "Integrity": "cErYhjYQIxJxLR4275DMOc1+PwnilGgZuTXyhp4DXrg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\UploadedImages\\download8ec8ab91-8d52-4f28-ba5c-840bd6dadc88.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\UploadedImages\\downloadb58128e7-650d-48f2-a8b5-083ebb21a75b.jpg",
+      "SourceId": "Scholar.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\",
+      "BasePath": "_content/Scholar.PL",
+      "RelativePath": "UploadedImages/downloadb58128e7-650d-48f2-a8b5-083ebb21a75b#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4zk9023wjh",
+      "Integrity": "cErYhjYQIxJxLR4275DMOc1+PwnilGgZuTXyhp4DXrg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\UploadedImages\\downloadb58128e7-650d-48f2-a8b5-083ebb21a75b.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Admin/assets/css/styles.css",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\Admin\\assets\\css\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "250226"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Tl/JSPdgPPXWVWSUewZbpR6kZW1nVf8f6PA1SpwxpFo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:09:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Tl/JSPdgPPXWVWSUewZbpR6kZW1nVf8f6PA1SpwxpFo="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/css/styles.mf45fbw2f4.css",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\Admin\\assets\\css\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "250226"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Tl/JSPdgPPXWVWSUewZbpR6kZW1nVf8f6PA1SpwxpFo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:09:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mf45fbw2f4"
+        },
+        {
+          "Name": "label",
+          "Value": "Admin/assets/css/styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Tl/JSPdgPPXWVWSUewZbpR6kZW1nVf8f6PA1SpwxpFo="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/demo/chart-area-demo.8flq4k35dk.js",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\Admin\\assets\\demo\\chart-area-demo.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1530"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9LLP7XKqyptnrNbmQqIjm5rIDw5zwE9KWE4hVhK5Jvk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:09:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8flq4k35dk"
+        },
+        {
+          "Name": "label",
+          "Value": "Admin/assets/demo/chart-area-demo.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9LLP7XKqyptnrNbmQqIjm5rIDw5zwE9KWE4hVhK5Jvk="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/demo/chart-area-demo.js",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\Admin\\assets\\demo\\chart-area-demo.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1530"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9LLP7XKqyptnrNbmQqIjm5rIDw5zwE9KWE4hVhK5Jvk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:09:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9LLP7XKqyptnrNbmQqIjm5rIDw5zwE9KWE4hVhK5Jvk="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/demo/chart-bar-demo.js",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\Admin\\assets\\demo\\chart-bar-demo.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1112"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9tpvm3R5RdFWxUDIA09CWwnWxpLxiJYWKom8gdLwl3I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:09:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9tpvm3R5RdFWxUDIA09CWwnWxpLxiJYWKom8gdLwl3I="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/demo/chart-bar-demo.qbt6h4ox5y.js",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\Admin\\assets\\demo\\chart-bar-demo.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1112"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9tpvm3R5RdFWxUDIA09CWwnWxpLxiJYWKom8gdLwl3I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:09:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qbt6h4ox5y"
+        },
+        {
+          "Name": "label",
+          "Value": "Admin/assets/demo/chart-bar-demo.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9tpvm3R5RdFWxUDIA09CWwnWxpLxiJYWKom8gdLwl3I="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/demo/chart-pie-demo.hw7eaup9v4.js",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\Admin\\assets\\demo\\chart-pie-demo.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "597"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gXHh8OZnGFZ8Pb+CoSlwJ7lx7tZD1amOLrSASwI8Neo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:09:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hw7eaup9v4"
+        },
+        {
+          "Name": "label",
+          "Value": "Admin/assets/demo/chart-pie-demo.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gXHh8OZnGFZ8Pb+CoSlwJ7lx7tZD1amOLrSASwI8Neo="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/demo/chart-pie-demo.js",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\Admin\\assets\\demo\\chart-pie-demo.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "597"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gXHh8OZnGFZ8Pb+CoSlwJ7lx7tZD1amOLrSASwI8Neo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:09:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gXHh8OZnGFZ8Pb+CoSlwJ7lx7tZD1amOLrSASwI8Neo="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/demo/datatables-demo.js",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\Admin\\assets\\demo\\datatables-demo.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "103"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3BYZ/ie9x2nIWSAO1N9M0VISPR5FfP5Wg0EKHZzNOoo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:09:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3BYZ/ie9x2nIWSAO1N9M0VISPR5FfP5Wg0EKHZzNOoo="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/demo/datatables-demo.w9gruc5uo1.js",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\Admin\\assets\\demo\\datatables-demo.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "103"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3BYZ/ie9x2nIWSAO1N9M0VISPR5FfP5Wg0EKHZzNOoo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:09:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w9gruc5uo1"
+        },
+        {
+          "Name": "label",
+          "Value": "Admin/assets/demo/datatables-demo.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3BYZ/ie9x2nIWSAO1N9M0VISPR5FfP5Wg0EKHZzNOoo="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/img/error-404-monochrome.svg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\Admin\\assets\\img\\error-404-monochrome.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6119"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GuryUo0+xyzRuEVttjuLmS8hqxoE9FucfaX/mboMWj8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:09:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GuryUo0+xyzRuEVttjuLmS8hqxoE9FucfaX/mboMWj8="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/img/error-404-monochrome.yp87i3fbss.svg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\Admin\\assets\\img\\error-404-monochrome.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6119"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GuryUo0+xyzRuEVttjuLmS8hqxoE9FucfaX/mboMWj8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:09:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yp87i3fbss"
+        },
+        {
+          "Name": "label",
+          "Value": "Admin/assets/img/error-404-monochrome.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GuryUo0+xyzRuEVttjuLmS8hqxoE9FucfaX/mboMWj8="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/js/datatables-simple-demo.js",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\Admin\\assets\\js\\datatables-simple-demo.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "312"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A5r4X24Y4UOeA7FBC6HS3voj76xkmczywh9qO+Ly5hQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:09:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-A5r4X24Y4UOeA7FBC6HS3voj76xkmczywh9qO+Ly5hQ="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/js/datatables-simple-demo.xnqwbb6zwd.js",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\Admin\\assets\\js\\datatables-simple-demo.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "312"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A5r4X24Y4UOeA7FBC6HS3voj76xkmczywh9qO+Ly5hQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:09:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xnqwbb6zwd"
+        },
+        {
+          "Name": "label",
+          "Value": "Admin/assets/js/datatables-simple-demo.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-A5r4X24Y4UOeA7FBC6HS3voj76xkmczywh9qO+Ly5hQ="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/js/scripts.dqle62frat.js",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\Admin\\assets\\js\\scripts.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "976"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hSOKtaoLbtAX3QLxogVcaVg8Fv7Y6HTCcpJqVePv720=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:09:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dqle62frat"
+        },
+        {
+          "Name": "label",
+          "Value": "Admin/assets/js/scripts.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hSOKtaoLbtAX3QLxogVcaVg8Fv7Y6HTCcpJqVePv720="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/js/scripts.js",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\Admin\\assets\\js\\scripts.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "976"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hSOKtaoLbtAX3QLxogVcaVg8Fv7Y6HTCcpJqVePv720=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:09:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hSOKtaoLbtAX3QLxogVcaVg8Fv7Y6HTCcpJqVePv720="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/animate.css",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\css\\animate.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "57997"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IgsSxdy0BWhLIqpKerb/fqpdbDyRgU8MadKB1bN1XWk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Dec 2021 16:10:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IgsSxdy0BWhLIqpKerb/fqpdbDyRgU8MadKB1bN1XWk="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/animate.mbktb1n8sc.css",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\css\\animate.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "57997"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IgsSxdy0BWhLIqpKerb/fqpdbDyRgU8MadKB1bN1XWk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Dec 2021 16:10:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mbktb1n8sc"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/css/animate.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IgsSxdy0BWhLIqpKerb/fqpdbDyRgU8MadKB1bN1XWk="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/flex-slider.6k1vjfxrub.css",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\css\\flex-slider.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7247"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WodHGchtrvfDFRVmSxRfzCakmnutBSahtrStkRfHSKU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Feb 2019 18:36:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6k1vjfxrub"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/css/flex-slider.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WodHGchtrvfDFRVmSxRfzCakmnutBSahtrStkRfHSKU="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/flex-slider.css",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\css\\flex-slider.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7247"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WodHGchtrvfDFRVmSxRfzCakmnutBSahtrStkRfHSKU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Feb 2019 18:36:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WodHGchtrvfDFRVmSxRfzCakmnutBSahtrStkRfHSKU="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/fontawesome.950eoveqb1.css",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\css\\fontawesome.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "123176"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w7MwROYzckW+mLKOARXHq1wZU5Wrx5SCJ/r+emTnIC8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Dec 2021 18:04:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "950eoveqb1"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/css/fontawesome.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-w7MwROYzckW+mLKOARXHq1wZU5Wrx5SCJ/r+emTnIC8="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/fontawesome.css",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\css\\fontawesome.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "123176"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w7MwROYzckW+mLKOARXHq1wZU5Wrx5SCJ/r+emTnIC8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Dec 2021 18:04:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-w7MwROYzckW+mLKOARXHq1wZU5Wrx5SCJ/r+emTnIC8="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/owl.c10bbavtrn.css",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\css\\owl.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4928"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8FfTY8BXrJMQXqixFODx/NnDFum5RSadOgtI2voxI2k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Feb 2019 18:36:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "c10bbavtrn"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/css/owl.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8FfTY8BXrJMQXqixFODx/NnDFum5RSadOgtI2voxI2k="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/owl.css",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\css\\owl.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4928"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8FfTY8BXrJMQXqixFODx/NnDFum5RSadOgtI2voxI2k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Feb 2019 18:36:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8FfTY8BXrJMQXqixFODx/NnDFum5RSadOgtI2voxI2k="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/templatemo-scholar.css",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\css\\templatemo-scholar.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36995"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uTUT8yEpCULxAtCETdKnplMoaRxwPMAQfCz9iATCjn4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jan 2023 10:33:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uTUT8yEpCULxAtCETdKnplMoaRxwPMAQfCz9iATCjn4="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/templatemo-scholar.z9a9yr0mid.css",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\css\\templatemo-scholar.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36995"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uTUT8yEpCULxAtCETdKnplMoaRxwPMAQfCz9iATCjn4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jan 2023 10:33:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z9a9yr0mid"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/css/templatemo-scholar.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uTUT8yEpCULxAtCETdKnplMoaRxwPMAQfCz9iATCjn4="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/banner-bg.btm1zhvs6b.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\images\\banner-bg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32483"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Qf+0q6ykZnbI7JlPxWr3KZVyv6f/DFtsSLp8bdNHP8U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jan 2023 17:29:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "btm1zhvs6b"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/banner-bg.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Qf+0q6ykZnbI7JlPxWr3KZVyv6f/DFtsSLp8bdNHP8U="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/banner-bg.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\images\\banner-bg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32483"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Qf+0q6ykZnbI7JlPxWr3KZVyv6f/DFtsSLp8bdNHP8U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jan 2023 17:29:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Qf+0q6ykZnbI7JlPxWr3KZVyv6f/DFtsSLp8bdNHP8U="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/banner-item-01.g9g526jjbz.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\images\\banner-item-01.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "103503"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bBTFY0cptXvhRlwr7XNOaFOvsUkj06FTehzo8lrZib8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jan 2023 17:32:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g9g526jjbz"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/banner-item-01.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bBTFY0cptXvhRlwr7XNOaFOvsUkj06FTehzo8lrZib8="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/banner-item-01.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\images\\banner-item-01.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "103503"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bBTFY0cptXvhRlwr7XNOaFOvsUkj06FTehzo8lrZib8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jan 2023 17:32:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bBTFY0cptXvhRlwr7XNOaFOvsUkj06FTehzo8lrZib8="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/banner-item-02.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\images\\banner-item-02.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "71059"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xHgagdlMTG8CBlsFkPnD/EAQzLBuoX+yW8IheHRt6tM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jan 2023 18:17:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xHgagdlMTG8CBlsFkPnD/EAQzLBuoX+yW8IheHRt6tM="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/banner-item-02.w9ixyzhjwa.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\images\\banner-item-02.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "71059"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xHgagdlMTG8CBlsFkPnD/EAQzLBuoX+yW8IheHRt6tM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jan 2023 18:17:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w9ixyzhjwa"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/banner-item-02.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xHgagdlMTG8CBlsFkPnD/EAQzLBuoX+yW8IheHRt6tM="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/banner-item-03.iskmokvvxo.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\images\\banner-item-03.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46577"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PlW2mpTPJ46JGU+9IXSpPjzoMqPsCioaduIcNeyFI04=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jan 2023 18:19:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iskmokvvxo"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/banner-item-03.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PlW2mpTPJ46JGU+9IXSpPjzoMqPsCioaduIcNeyFI04="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/banner-item-03.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\images\\banner-item-03.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46577"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PlW2mpTPJ46JGU+9IXSpPjzoMqPsCioaduIcNeyFI04=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jan 2023 18:19:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PlW2mpTPJ46JGU+9IXSpPjzoMqPsCioaduIcNeyFI04="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/contact-dec-01.4tr44gg5ns.png",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\images\\contact-dec-01.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5116"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yGmD9DgG9989GH8J/o5S1JFcV80vrEJ/KAQydUSr2gY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Jan 2023 21:06:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4tr44gg5ns"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/contact-dec-01.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yGmD9DgG9989GH8J/o5S1JFcV80vrEJ/KAQydUSr2gY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/contact-dec-01.png",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\images\\contact-dec-01.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5116"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yGmD9DgG9989GH8J/o5S1JFcV80vrEJ/KAQydUSr2gY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Jan 2023 21:06:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yGmD9DgG9989GH8J/o5S1JFcV80vrEJ/KAQydUSr2gY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/contact-dec-02.jffs23uliy.png",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\images\\contact-dec-02.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3630"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"H4twL1dFRYB7gG57ZGUJR0gi4Hd9fkr5MdlUDAU4YaE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Jan 2023 21:08:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jffs23uliy"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/contact-dec-02.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-H4twL1dFRYB7gG57ZGUJR0gi4Hd9fkr5MdlUDAU4YaE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/contact-dec-02.png",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\images\\contact-dec-02.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3630"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"H4twL1dFRYB7gG57ZGUJR0gi4Hd9fkr5MdlUDAU4YaE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Jan 2023 21:08:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-H4twL1dFRYB7gG57ZGUJR0gi4Hd9fkr5MdlUDAU4YaE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/course-01.7b0k3a8fks.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\images\\course-01.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56356"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k8lXs1CoBXAA1iOP6yq/lKeIklaa5MPhSr1OWJ23wqE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Jan 2023 22:39:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7b0k3a8fks"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/course-01.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-k8lXs1CoBXAA1iOP6yq/lKeIklaa5MPhSr1OWJ23wqE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/course-01.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\images\\course-01.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56356"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k8lXs1CoBXAA1iOP6yq/lKeIklaa5MPhSr1OWJ23wqE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Jan 2023 22:39:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-k8lXs1CoBXAA1iOP6yq/lKeIklaa5MPhSr1OWJ23wqE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/course-02.dcutb9ho8g.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\images\\course-02.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35445"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3f0sp1kLNgVmKxSzZHUKjyZB45/n8VPfPiD0tEvlLXQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Jan 2023 22:56:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dcutb9ho8g"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/course-02.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3f0sp1kLNgVmKxSzZHUKjyZB45/n8VPfPiD0tEvlLXQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/course-02.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\images\\course-02.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35445"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3f0sp1kLNgVmKxSzZHUKjyZB45/n8VPfPiD0tEvlLXQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Jan 2023 22:56:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3f0sp1kLNgVmKxSzZHUKjyZB45/n8VPfPiD0tEvlLXQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/course-03.3hbsha3x46.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\images\\course-03.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44569"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"F7IB9339gIFK9NnvEr6SXz3aZOrZLfInXQKDvahU9DM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Jan 2023 22:57:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3hbsha3x46"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/course-03.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-F7IB9339gIFK9NnvEr6SXz3aZOrZLfInXQKDvahU9DM="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/course-03.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\images\\course-03.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44569"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"F7IB9339gIFK9NnvEr6SXz3aZOrZLfInXQKDvahU9DM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Jan 2023 22:57:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-F7IB9339gIFK9NnvEr6SXz3aZOrZLfInXQKDvahU9DM="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/course-04.13czhs8mgc.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\images\\course-04.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43195"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EzfnsSt2/qmn1TzggeZjSpQkvMuhgMWKDRMppPYVSAs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Jan 2023 22:57:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "13czhs8mgc"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/course-04.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EzfnsSt2/qmn1TzggeZjSpQkvMuhgMWKDRMppPYVSAs="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/course-04.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\images\\course-04.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43195"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EzfnsSt2/qmn1TzggeZjSpQkvMuhgMWKDRMppPYVSAs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Jan 2023 22:57:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EzfnsSt2/qmn1TzggeZjSpQkvMuhgMWKDRMppPYVSAs="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/course-05.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\images\\course-05.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36278"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BX1JPPztJvNKvruMlV9OoLdWLG32zC3BhXOA+y6bUIU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Jan 2023 22:57:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BX1JPPztJvNKvruMlV9OoLdWLG32zC3BhXOA+y6bUIU="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/course-05.xpav93qof0.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\images\\course-05.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36278"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BX1JPPztJvNKvruMlV9OoLdWLG32zC3BhXOA+y6bUIU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Jan 2023 22:57:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xpav93qof0"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/course-05.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BX1JPPztJvNKvruMlV9OoLdWLG32zC3BhXOA+y6bUIU="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/course-06.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\images\\course-06.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31512"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qzBvwHLLVMxNuiE0j92QLr8lZUhgfUSodLZNC0upo8s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Jan 2023 22:57:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qzBvwHLLVMxNuiE0j92QLr8lZUhgfUSodLZNC0upo8s="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/course-06.v3qmjkgtt2.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\images\\course-06.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31512"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qzBvwHLLVMxNuiE0j92QLr8lZUhgfUSodLZNC0upo8s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Jan 2023 22:57:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v3qmjkgtt2"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/course-06.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qzBvwHLLVMxNuiE0j92QLr8lZUhgfUSodLZNC0upo8s="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/event-01.hsmmj0pn3a.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\images\\event-01.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20434"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"H6AtUPnIbvfICwEp/p4iI1cIuYyADSimNp7LEq7Y7F8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Jan 2023 20:09:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hsmmj0pn3a"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/event-01.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-H6AtUPnIbvfICwEp/p4iI1cIuYyADSimNp7LEq7Y7F8="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/event-01.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\images\\event-01.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20434"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"H6AtUPnIbvfICwEp/p4iI1cIuYyADSimNp7LEq7Y7F8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Jan 2023 20:09:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-H6AtUPnIbvfICwEp/p4iI1cIuYyADSimNp7LEq7Y7F8="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/event-02.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\images\\event-02.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22803"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4Ds1zbZCEQ25tpSfheik9KD2QPGmtBM8y+JDDn/S0xQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Jan 2023 20:24:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4Ds1zbZCEQ25tpSfheik9KD2QPGmtBM8y+JDDn/S0xQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/event-02.kjeeb2p7l4.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\images\\event-02.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22803"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4Ds1zbZCEQ25tpSfheik9KD2QPGmtBM8y+JDDn/S0xQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Jan 2023 20:24:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kjeeb2p7l4"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/event-02.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4Ds1zbZCEQ25tpSfheik9KD2QPGmtBM8y+JDDn/S0xQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/event-03.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\images\\event-03.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22248"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mE9ej7iVW0A/VxAJJY/fx1IDLzL2hLLp7PMZ43ZYEvk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Jan 2023 20:24:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mE9ej7iVW0A/VxAJJY/fx1IDLzL2hLLp7PMZ43ZYEvk="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/event-03.kpgox57y4y.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\images\\event-03.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22248"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mE9ej7iVW0A/VxAJJY/fx1IDLzL2hLLp7PMZ43ZYEvk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Jan 2023 20:24:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kpgox57y4y"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/event-03.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mE9ej7iVW0A/VxAJJY/fx1IDLzL2hLLp7PMZ43ZYEvk="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/member-01.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\images\\member-01.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15791"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0mnOuYsjvyu/6m9P4CEyzaDM0WD/0DBe1vRoH7DQioM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jan 2023 19:30:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0mnOuYsjvyu/6m9P4CEyzaDM0WD/0DBe1vRoH7DQioM="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/member-01.my5cliru95.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\images\\member-01.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15791"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0mnOuYsjvyu/6m9P4CEyzaDM0WD/0DBe1vRoH7DQioM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jan 2023 19:30:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "my5cliru95"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/member-01.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0mnOuYsjvyu/6m9P4CEyzaDM0WD/0DBe1vRoH7DQioM="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/member-02.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\images\\member-02.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14277"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x1r7fNFpSe1E1JzAHR/KoPw81RHNrAC/O5Kw04GGTU0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jan 2023 19:38:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-x1r7fNFpSe1E1JzAHR/KoPw81RHNrAC/O5Kw04GGTU0="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/member-02.rnf66s9es2.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\images\\member-02.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14277"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x1r7fNFpSe1E1JzAHR/KoPw81RHNrAC/O5Kw04GGTU0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jan 2023 19:38:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rnf66s9es2"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/member-02.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-x1r7fNFpSe1E1JzAHR/KoPw81RHNrAC/O5Kw04GGTU0="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/member-03.33h3gg6hcf.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\images\\member-03.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18979"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P2nrvW60Y4VWF8LlSt8BAXrbASVJvp9i0HguHkOFJmI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jan 2023 19:38:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "33h3gg6hcf"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/member-03.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-P2nrvW60Y4VWF8LlSt8BAXrbASVJvp9i0HguHkOFJmI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/member-03.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\images\\member-03.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18979"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P2nrvW60Y4VWF8LlSt8BAXrbASVJvp9i0HguHkOFJmI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jan 2023 19:38:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-P2nrvW60Y4VWF8LlSt8BAXrbASVJvp9i0HguHkOFJmI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/member-04.441qzcynp2.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\images\\member-04.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17171"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3ORz8VoQPv34CqG4ny/QTAU55D1p5xs3VfFJZ9zYZFY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jan 2023 19:39:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "441qzcynp2"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/member-04.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3ORz8VoQPv34CqG4ny/QTAU55D1p5xs3VfFJZ9zYZFY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/member-04.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\images\\member-04.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17171"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3ORz8VoQPv34CqG4ny/QTAU55D1p5xs3VfFJZ9zYZFY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jan 2023 19:39:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3ORz8VoQPv34CqG4ny/QTAU55D1p5xs3VfFJZ9zYZFY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/service-01.ksbqt8iw2m.png",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\images\\service-01.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3844"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NDvQVDRWOloYQdbs8aP9DXYuyL21SV5MK3OdVsLNBuc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jan 2023 19:23:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ksbqt8iw2m"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/service-01.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NDvQVDRWOloYQdbs8aP9DXYuyL21SV5MK3OdVsLNBuc="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/service-01.png",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\images\\service-01.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3844"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NDvQVDRWOloYQdbs8aP9DXYuyL21SV5MK3OdVsLNBuc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jan 2023 19:23:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NDvQVDRWOloYQdbs8aP9DXYuyL21SV5MK3OdVsLNBuc="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/service-02.ni6ng0vsvp.png",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\images\\service-02.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3934"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v4CPCbQplHs+UaipusWmeWN9/Im8e6cUrXlwgsdyaxc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jan 2023 19:25:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ni6ng0vsvp"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/service-02.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-v4CPCbQplHs+UaipusWmeWN9/Im8e6cUrXlwgsdyaxc="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/service-02.png",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\images\\service-02.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3934"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v4CPCbQplHs+UaipusWmeWN9/Im8e6cUrXlwgsdyaxc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jan 2023 19:25:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-v4CPCbQplHs+UaipusWmeWN9/Im8e6cUrXlwgsdyaxc="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/service-03.png",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\images\\service-03.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4300"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N/EFaBdRO04pbKvIAFveO9TQDoq65sBlsTugX4tbe3o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jan 2023 19:25:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-N/EFaBdRO04pbKvIAFveO9TQDoq65sBlsTugX4tbe3o="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/service-03.rnif1tfr6t.png",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\images\\service-03.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4300"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N/EFaBdRO04pbKvIAFveO9TQDoq65sBlsTugX4tbe3o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jan 2023 19:25:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rnif1tfr6t"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/service-03.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-N/EFaBdRO04pbKvIAFveO9TQDoq65sBlsTugX4tbe3o="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/testimonial-author.1o71z6m9xc.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\images\\testimonial-author.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5074"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"76cRMQfb7Gz4t0yDhnve7UMPlmHGjWn6ld2DbRcfRHI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Jan 2023 18:47:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1o71z6m9xc"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/testimonial-author.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-76cRMQfb7Gz4t0yDhnve7UMPlmHGjWn6ld2DbRcfRHI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/testimonial-author.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\images\\testimonial-author.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5074"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"76cRMQfb7Gz4t0yDhnve7UMPlmHGjWn6ld2DbRcfRHI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Jan 2023 18:47:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-76cRMQfb7Gz4t0yDhnve7UMPlmHGjWn6ld2DbRcfRHI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/counter.80l8ykkc65.js",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\js\\counter.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3447"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WI7E4ROXovFuvNEnOrhVbSbbV2cMcRPQnakMfwJ5ZDo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Jan 2023 21:28:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "80l8ykkc65"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/js/counter.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WI7E4ROXovFuvNEnOrhVbSbbV2cMcRPQnakMfwJ5ZDo="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/counter.js",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\js\\counter.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3447"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WI7E4ROXovFuvNEnOrhVbSbbV2cMcRPQnakMfwJ5ZDo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Jan 2023 21:28:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WI7E4ROXovFuvNEnOrhVbSbbV2cMcRPQnakMfwJ5ZDo="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/custom.js",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\js\\custom.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6216"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vuOhvYRvSekH+JUDeOvq39SmraFbAyxyc2/OPGGU/6o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jan 2023 14:27:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vuOhvYRvSekH+JUDeOvq39SmraFbAyxyc2/OPGGU/6o="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/custom.u8s3mrho2h.js",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\js\\custom.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6216"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vuOhvYRvSekH+JUDeOvq39SmraFbAyxyc2/OPGGU/6o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jan 2023 14:27:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u8s3mrho2h"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/js/custom.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vuOhvYRvSekH+JUDeOvq39SmraFbAyxyc2/OPGGU/6o="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/isotope.min.fi4muoliu0.js",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\js\\isotope.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35456"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qTHlr1YbHw769s25aurEwDXDB1bdbt0QkdoaaHR9Nbw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 14 Jan 2023 23:34:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fi4muoliu0"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/js/isotope.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qTHlr1YbHw769s25aurEwDXDB1bdbt0QkdoaaHR9Nbw="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/isotope.min.js",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\js\\isotope.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35456"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qTHlr1YbHw769s25aurEwDXDB1bdbt0QkdoaaHR9Nbw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 14 Jan 2023 23:34:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qTHlr1YbHw769s25aurEwDXDB1bdbt0QkdoaaHR9Nbw="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/owl-carousel.js",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\js\\owl-carousel.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "93438"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RN8Ln2oIxjjCzlRJicyPww6Q/SvahGUoDQzw8tIUFz4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Feb 2019 18:37:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RN8Ln2oIxjjCzlRJicyPww6Q/SvahGUoDQzw8tIUFz4="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/owl-carousel.s0urs9j7h8.js",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\js\\owl-carousel.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "93438"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RN8Ln2oIxjjCzlRJicyPww6Q/SvahGUoDQzw8tIUFz4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Feb 2019 18:37:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s0urs9j7h8"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/js/owl-carousel.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RN8Ln2oIxjjCzlRJicyPww6Q/SvahGUoDQzw8tIUFz4="
+        }
+      ]
+    },
+    {
+      "Route": "assets/vendor/bootstrap/css/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "220785"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nT9M0sg4j1bMxRWZeewVD9RrQyIjV127M/JF1C7odGM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jan 2023 16:12:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nT9M0sg4j1bMxRWZeewVD9RrQyIjV127M/JF1C7odGM="
+        }
+      ]
+    },
+    {
+      "Route": "assets/vendor/bootstrap/css/bootstrap.min.ru9q07t3va.css",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "220785"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nT9M0sg4j1bMxRWZeewVD9RrQyIjV127M/JF1C7odGM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jan 2023 16:12:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ru9q07t3va"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/vendor/bootstrap/css/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nT9M0sg4j1bMxRWZeewVD9RrQyIjV127M/JF1C7odGM="
+        }
+      ]
+    },
+    {
+      "Route": "assets/vendor/bootstrap/js/bootstrap.min.js",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "60560"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sq7gCFiFW3H+c9s4OR+sQSpOQ+78Y5y6TQvjT+9h3TY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jan 2023 16:12:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sq7gCFiFW3H+c9s4OR+sQSpOQ+78Y5y6TQvjT+9h3TY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/vendor/bootstrap/js/bootstrap.min.ma1nb8ad0o.js",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "60560"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sq7gCFiFW3H+c9s4OR+sQSpOQ+78Y5y6TQvjT+9h3TY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jan 2023 16:12:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ma1nb8ad0o"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/vendor/bootstrap/js/bootstrap.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sq7gCFiFW3H+c9s4OR+sQSpOQ+78Y5y6TQvjT+9h3TY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/vendor/jquery/jquery.a8eee2794i.js",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\vendor\\jquery\\jquery.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "282115"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"igUc00PXGT1YBL1/Kf7QYy9fPlLqZKcEGrCqDz3EFDI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 10 Feb 2019 02:06:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a8eee2794i"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/vendor/jquery/jquery.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-igUc00PXGT1YBL1/Kf7QYy9fPlLqZKcEGrCqDz3EFDI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/vendor/jquery/jquery.js",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\vendor\\jquery\\jquery.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "282115"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"igUc00PXGT1YBL1/Kf7QYy9fPlLqZKcEGrCqDz3EFDI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 10 Feb 2019 02:06:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-igUc00PXGT1YBL1/Kf7QYy9fPlLqZKcEGrCqDz3EFDI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/vendor/jquery/jquery.min.b804xvqo1w.map",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\vendor\\jquery\\jquery.min.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "132370"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1eiGMA0y1kD5P/bXnTaiTKk8vtvQ8IC2nXAoI1HJXyE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Feb 2019 18:39:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b804xvqo1w"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/vendor/jquery/jquery.min.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1eiGMA0y1kD5P/bXnTaiTKk8vtvQ8IC2nXAoI1HJXyE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/vendor/jquery/jquery.min.js",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\vendor\\jquery\\jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "86927"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0wthFPuUlq5GsqjN9ZN5yP/blXU0vR3XPmJsfGHH5n0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Feb 2019 18:39:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0wthFPuUlq5GsqjN9ZN5yP/blXU0vR3XPmJsfGHH5n0="
+        }
+      ]
+    },
+    {
+      "Route": "assets/vendor/jquery/jquery.min.jsxrs32yp5.js",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\vendor\\jquery\\jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "86927"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0wthFPuUlq5GsqjN9ZN5yP/blXU0vR3XPmJsfGHH5n0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Feb 2019 18:39:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jsxrs32yp5"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/vendor/jquery/jquery.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0wthFPuUlq5GsqjN9ZN5yP/blXU0vR3XPmJsfGHH5n0="
+        }
+      ]
+    },
+    {
+      "Route": "assets/vendor/jquery/jquery.min.map",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\vendor\\jquery\\jquery.min.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "132370"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1eiGMA0y1kD5P/bXnTaiTKk8vtvQ8IC2nXAoI1HJXyE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Feb 2019 18:39:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1eiGMA0y1kD5P/bXnTaiTKk8vtvQ8IC2nXAoI1HJXyE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/vendor/jquery/jquery.slim.js",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\vendor\\jquery\\jquery.slim.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "227166"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iASwdbd3qZtfn/hmjgKAujvTe93Fp8nT2eCFUYkKj08=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Feb 2019 18:38:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iASwdbd3qZtfn/hmjgKAujvTe93Fp8nT2eCFUYkKj08="
+        }
+      ]
+    },
+    {
+      "Route": "assets/vendor/jquery/jquery.slim.khhs5umk4w.js",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\vendor\\jquery\\jquery.slim.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "227166"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iASwdbd3qZtfn/hmjgKAujvTe93Fp8nT2eCFUYkKj08=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Feb 2019 18:38:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "khhs5umk4w"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/vendor/jquery/jquery.slim.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iASwdbd3qZtfn/hmjgKAujvTe93Fp8nT2eCFUYkKj08="
+        }
+      ]
+    },
+    {
+      "Route": "assets/vendor/jquery/jquery.slim.min.dcowqscbhr.js",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\vendor\\jquery\\jquery.slim.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "69919"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w/K14c9es++XoHzIMaMmA0G6Ea9ndjvAXvPp5V26jB8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Feb 2019 18:38:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dcowqscbhr"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/vendor/jquery/jquery.slim.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-w/K14c9es++XoHzIMaMmA0G6Ea9ndjvAXvPp5V26jB8="
+        }
+      ]
+    },
+    {
+      "Route": "assets/vendor/jquery/jquery.slim.min.hiqumc4mhz.map",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\vendor\\jquery\\jquery.slim.min.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "105346"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R9iD2BZjLu3OzwrErQRNtxPK5tUuGdtBa2iefT78g2c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Feb 2019 18:38:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hiqumc4mhz"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/vendor/jquery/jquery.slim.min.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-R9iD2BZjLu3OzwrErQRNtxPK5tUuGdtBa2iefT78g2c="
+        }
+      ]
+    },
+    {
+      "Route": "assets/vendor/jquery/jquery.slim.min.js",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\vendor\\jquery\\jquery.slim.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "69919"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w/K14c9es++XoHzIMaMmA0G6Ea9ndjvAXvPp5V26jB8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Feb 2019 18:38:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-w/K14c9es++XoHzIMaMmA0G6Ea9ndjvAXvPp5V26jB8="
+        }
+      ]
+    },
+    {
+      "Route": "assets/vendor/jquery/jquery.slim.min.map",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\vendor\\jquery\\jquery.slim.min.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "105346"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R9iD2BZjLu3OzwrErQRNtxPK5tUuGdtBa2iefT78g2c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Feb 2019 18:38:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-R9iD2BZjLu3OzwrErQRNtxPK5tUuGdtBa2iefT78g2c="
+        }
+      ]
+    },
+    {
+      "Route": "assets/webfonts/fa-brands-400.ec7av0s957.ttf",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\webfonts\\fa-brands-400.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "181260"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Uj3HLKpCaHyUblqNfmtDiICiaIGWRGbPFCXOURTklwE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Nov 2021 19:03:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ec7av0s957"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/webfonts/fa-brands-400.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Uj3HLKpCaHyUblqNfmtDiICiaIGWRGbPFCXOURTklwE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/webfonts/fa-brands-400.ttf",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\webfonts\\fa-brands-400.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "181260"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Uj3HLKpCaHyUblqNfmtDiICiaIGWRGbPFCXOURTklwE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Nov 2021 19:03:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Uj3HLKpCaHyUblqNfmtDiICiaIGWRGbPFCXOURTklwE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/webfonts/fa-brands-400.woff2",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\webfonts\\fa-brands-400.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "105204"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M6JS1jk8vW3r4KxRcinHqiWKDuaPwCU/i+anzui2Xuk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Nov 2021 19:03:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-M6JS1jk8vW3r4KxRcinHqiWKDuaPwCU/i+anzui2Xuk="
+        }
+      ]
+    },
+    {
+      "Route": "assets/webfonts/fa-brands-400.xbaqrjsnrd.woff2",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\webfonts\\fa-brands-400.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "105204"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M6JS1jk8vW3r4KxRcinHqiWKDuaPwCU/i+anzui2Xuk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Nov 2021 19:03:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xbaqrjsnrd"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/webfonts/fa-brands-400.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-M6JS1jk8vW3r4KxRcinHqiWKDuaPwCU/i+anzui2Xuk="
+        }
+      ]
+    },
+    {
+      "Route": "assets/webfonts/fa-regular-400.07aei3q65k.ttf",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\webfonts\\fa-regular-400.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "60208"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5HYWGFSBsOzWNtw1/EZzpKMysayWWF/B+c8NBVPawqA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Nov 2021 19:03:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "07aei3q65k"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/webfonts/fa-regular-400.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5HYWGFSBsOzWNtw1/EZzpKMysayWWF/B+c8NBVPawqA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/webfonts/fa-regular-400.8s1ufbha8g.woff2",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\webfonts\\fa-regular-400.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23760"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iG/R5s6ZLt5RR0OoJvpx/v21dwR6KomcqV9vKPMwXQk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Nov 2021 19:03:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8s1ufbha8g"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/webfonts/fa-regular-400.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iG/R5s6ZLt5RR0OoJvpx/v21dwR6KomcqV9vKPMwXQk="
+        }
+      ]
+    },
+    {
+      "Route": "assets/webfonts/fa-regular-400.ttf",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\webfonts\\fa-regular-400.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "60208"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5HYWGFSBsOzWNtw1/EZzpKMysayWWF/B+c8NBVPawqA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Nov 2021 19:03:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5HYWGFSBsOzWNtw1/EZzpKMysayWWF/B+c8NBVPawqA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/webfonts/fa-regular-400.woff2",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\webfonts\\fa-regular-400.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23760"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iG/R5s6ZLt5RR0OoJvpx/v21dwR6KomcqV9vKPMwXQk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Nov 2021 19:03:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iG/R5s6ZLt5RR0OoJvpx/v21dwR6KomcqV9vKPMwXQk="
+        }
+      ]
+    },
+    {
+      "Route": "assets/webfonts/fa-solid-900.4gteh1wgpd.woff2",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\webfonts\\fa-solid-900.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "125064"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lOG7wcKkHrxz+lJT/VYyVsADW01pGB5I+a755HShElE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Nov 2021 19:03:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4gteh1wgpd"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/webfonts/fa-solid-900.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lOG7wcKkHrxz+lJT/VYyVsADW01pGB5I+a755HShElE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/webfonts/fa-solid-900.gff89q9hdp.ttf",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\webfonts\\fa-solid-900.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "298276"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HCEME0w0ChEzmRpgWwqsmQzoUFxI/ON8kVBjQClk6ZQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Nov 2021 19:03:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gff89q9hdp"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/webfonts/fa-solid-900.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HCEME0w0ChEzmRpgWwqsmQzoUFxI/ON8kVBjQClk6ZQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/webfonts/fa-solid-900.ttf",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\webfonts\\fa-solid-900.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "298276"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HCEME0w0ChEzmRpgWwqsmQzoUFxI/ON8kVBjQClk6ZQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Nov 2021 19:03:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HCEME0w0ChEzmRpgWwqsmQzoUFxI/ON8kVBjQClk6ZQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/webfonts/fa-solid-900.woff2",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\webfonts\\fa-solid-900.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "125064"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lOG7wcKkHrxz+lJT/VYyVsADW01pGB5I+a755HShElE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Nov 2021 19:03:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lOG7wcKkHrxz+lJT/VYyVsADW01pGB5I+a755HShElE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/webfonts/fa-v4compatibility.51fdvt6etl.ttf",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\webfonts\\fa-v4compatibility.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10552"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p3/E2UhQ5amzlk0I9eLS+tXGY1umjTiyp+F89MVgvzc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Nov 2021 19:03:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "51fdvt6etl"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/webfonts/fa-v4compatibility.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-p3/E2UhQ5amzlk0I9eLS+tXGY1umjTiyp+F89MVgvzc="
+        }
+      ]
+    },
+    {
+      "Route": "assets/webfonts/fa-v4compatibility.n3njcu80rr.woff2",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\webfonts\\fa-v4compatibility.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5016"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TcCPFfYc4WuXwMRYC9IzvgyepSFlMz/kYK9UBApcQlw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Nov 2021 19:03:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n3njcu80rr"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/webfonts/fa-v4compatibility.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TcCPFfYc4WuXwMRYC9IzvgyepSFlMz/kYK9UBApcQlw="
+        }
+      ]
+    },
+    {
+      "Route": "assets/webfonts/fa-v4compatibility.ttf",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\webfonts\\fa-v4compatibility.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10552"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p3/E2UhQ5amzlk0I9eLS+tXGY1umjTiyp+F89MVgvzc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Nov 2021 19:03:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-p3/E2UhQ5amzlk0I9eLS+tXGY1umjTiyp+F89MVgvzc="
+        }
+      ]
+    },
+    {
+      "Route": "assets/webfonts/fa-v4compatibility.woff2",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\assets\\webfonts\\fa-v4compatibility.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5016"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TcCPFfYc4WuXwMRYC9IzvgyepSFlMz/kYK9UBApcQlw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Nov 2021 19:03:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TcCPFfYc4WuXwMRYC9IzvgyepSFlMz/kYK9UBApcQlw="
+        }
+      ]
+    },
+    {
+      "Route": "UploadedImages/download84aa88c3-14de-44f7-82fd-05dd3333f16b.4zk9023wjh.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\UploadedImages\\download84aa88c3-14de-44f7-82fd-05dd3333f16b.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10426"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cErYhjYQIxJxLR4275DMOc1+PwnilGgZuTXyhp4DXrg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 14:42:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4zk9023wjh"
+        },
+        {
+          "Name": "label",
+          "Value": "UploadedImages/download84aa88c3-14de-44f7-82fd-05dd3333f16b.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cErYhjYQIxJxLR4275DMOc1+PwnilGgZuTXyhp4DXrg="
+        }
+      ]
+    },
+    {
+      "Route": "UploadedImages/download84aa88c3-14de-44f7-82fd-05dd3333f16b.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\UploadedImages\\download84aa88c3-14de-44f7-82fd-05dd3333f16b.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10426"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cErYhjYQIxJxLR4275DMOc1+PwnilGgZuTXyhp4DXrg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 14:42:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cErYhjYQIxJxLR4275DMOc1+PwnilGgZuTXyhp4DXrg="
+        }
+      ]
+    },
+    {
+      "Route": "UploadedImages/download8ec8ab91-8d52-4f28-ba5c-840bd6dadc88.4zk9023wjh.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\UploadedImages\\download8ec8ab91-8d52-4f28-ba5c-840bd6dadc88.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10426"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cErYhjYQIxJxLR4275DMOc1+PwnilGgZuTXyhp4DXrg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 14:43:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4zk9023wjh"
+        },
+        {
+          "Name": "label",
+          "Value": "UploadedImages/download8ec8ab91-8d52-4f28-ba5c-840bd6dadc88.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cErYhjYQIxJxLR4275DMOc1+PwnilGgZuTXyhp4DXrg="
+        }
+      ]
+    },
+    {
+      "Route": "UploadedImages/download8ec8ab91-8d52-4f28-ba5c-840bd6dadc88.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\UploadedImages\\download8ec8ab91-8d52-4f28-ba5c-840bd6dadc88.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10426"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cErYhjYQIxJxLR4275DMOc1+PwnilGgZuTXyhp4DXrg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 14:43:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cErYhjYQIxJxLR4275DMOc1+PwnilGgZuTXyhp4DXrg="
+        }
+      ]
+    },
+    {
+      "Route": "UploadedImages/downloadb58128e7-650d-48f2-a8b5-083ebb21a75b.4zk9023wjh.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\UploadedImages\\downloadb58128e7-650d-48f2-a8b5-083ebb21a75b.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10426"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cErYhjYQIxJxLR4275DMOc1+PwnilGgZuTXyhp4DXrg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 14:43:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4zk9023wjh"
+        },
+        {
+          "Name": "label",
+          "Value": "UploadedImages/downloadb58128e7-650d-48f2-a8b5-083ebb21a75b.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cErYhjYQIxJxLR4275DMOc1+PwnilGgZuTXyhp4DXrg="
+        }
+      ]
+    },
+    {
+      "Route": "UploadedImages/downloadb58128e7-650d-48f2-a8b5-083ebb21a75b.jpg",
+      "AssetFile": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\wwwroot\\UploadedImages\\downloadb58128e7-650d-48f2-a8b5-083ebb21a75b.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10426"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cErYhjYQIxJxLR4275DMOc1+PwnilGgZuTXyhp4DXrg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 14:43:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cErYhjYQIxJxLR4275DMOc1+PwnilGgZuTXyhp4DXrg="
+        }
+      ]
+    }
+  ]
+}

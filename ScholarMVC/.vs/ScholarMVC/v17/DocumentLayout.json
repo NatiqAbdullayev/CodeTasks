@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56BF5E07-9852-4BBA-ACE4-672FB2090AE3}|Scholar.PL\\Scholar.PL.csproj|c:\\users\\ii novbe\\source\\repos\\scholarmvc\\scholar.pl\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56BF5E07-9852-4BBA-ACE4-672FB2090AE3}|Scholar.PL\\Scholar.PL.csproj|solutionrelative:scholar.pl\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56BF5E07-9852-4BBA-ACE4-672FB2090AE3}|Scholar.PL\\Scholar.PL.csproj|c:\\users\\ii novbe\\source\\repos\\scholarmvc\\scholar.pl\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56BF5E07-9852-4BBA-ACE4-672FB2090AE3}|Scholar.PL\\Scholar.PL.csproj|solutionrelative:scholar.pl\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56BF5E07-9852-4BBA-ACE4-672FB2090AE3}|Scholar.PL\\Scholar.PL.csproj|c:\\users\\ii novbe\\source\\repos\\scholarmvc\\scholar.pl\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56BF5E07-9852-4BBA-ACE4-672FB2090AE3}|Scholar.PL\\Scholar.PL.csproj|solutionrelative:scholar.pl\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56BF5E07-9852-4BBA-ACE4-672FB2090AE3}|Scholar.PL\\Scholar.PL.csproj|c:\\users\\ii novbe\\source\\repos\\scholarmvc\\scholar.pl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56BF5E07-9852-4BBA-ACE4-672FB2090AE3}|Scholar.PL\\Scholar.PL.csproj|solutionrelative:scholar.pl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56BF5E07-9852-4BBA-ACE4-672FB2090AE3}|Scholar.PL\\Scholar.PL.csproj|c:\\users\\ii novbe\\source\\repos\\scholarmvc\\scholar.pl\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56BF5E07-9852-4BBA-ACE4-672FB2090AE3}|Scholar.PL\\Scholar.PL.csproj|solutionrelative:scholar.pl\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56BF5E07-9852-4BBA-ACE4-672FB2090AE3}|Scholar.PL\\Scholar.PL.csproj|c:\\users\\ii novbe\\source\\repos\\scholarmvc\\scholar.pl\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56BF5E07-9852-4BBA-ACE4-672FB2090AE3}|Scholar.PL\\Scholar.PL.csproj|solutionrelative:scholar.pl\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56BF5E07-9852-4BBA-ACE4-672FB2090AE3}|Scholar.PL\\Scholar.PL.csproj|c:\\users\\ii novbe\\source\\repos\\scholarmvc\\scholar.pl\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56BF5E07-9852-4BBA-ACE4-672FB2090AE3}|Scholar.PL\\Scholar.PL.csproj|solutionrelative:scholar.pl\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56BF5E07-9852-4BBA-ACE4-672FB2090AE3}|Scholar.PL\\Scholar.PL.csproj|c:\\users\\ii novbe\\source\\repos\\scholarmvc\\scholar.pl\\areas\\admin\\views\\course\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56BF5E07-9852-4BBA-ACE4-672FB2090AE3}|Scholar.PL\\Scholar.PL.csproj|solutionrelative:scholar.pl\\areas\\admin\\views\\course\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56BF5E07-9852-4BBA-ACE4-672FB2090AE3}|Scholar.PL\\Scholar.PL.csproj|c:\\users\\ii novbe\\source\\repos\\scholarmvc\\scholar.pl\\areas\\admin\\views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56BF5E07-9852-4BBA-ACE4-672FB2090AE3}|Scholar.PL\\Scholar.PL.csproj|solutionrelative:scholar.pl\\areas\\admin\\views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56BF5E07-9852-4BBA-ACE4-672FB2090AE3}|Scholar.PL\\Scholar.PL.csproj|c:\\users\\ii novbe\\source\\repos\\scholarmvc\\scholar.pl\\areas\\admin\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56BF5E07-9852-4BBA-ACE4-672FB2090AE3}|Scholar.PL\\Scholar.PL.csproj|solutionrelative:scholar.pl\\areas\\admin\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56BF5E07-9852-4BBA-ACE4-672FB2090AE3}|Scholar.PL\\Scholar.PL.csproj|c:\\users\\ii novbe\\source\\repos\\scholarmvc\\scholar.pl\\areas\\admin\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56BF5E07-9852-4BBA-ACE4-672FB2090AE3}|Scholar.PL\\Scholar.PL.csproj|solutionrelative:scholar.pl\\areas\\admin\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF0AC54-D68E-4850-8C61-7B703DD84F53}|Scholar.DAL\\Scholar.DAL.csproj|c:\\users\\ii novbe\\source\\repos\\scholarmvc\\scholar.dal\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF0AC54-D68E-4850-8C61-7B703DD84F53}|Scholar.DAL\\Scholar.DAL.csproj|solutionrelative:scholar.dal\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56BF5E07-9852-4BBA-ACE4-672FB2090AE3}|Scholar.PL\\Scholar.PL.csproj|c:\\users\\ii novbe\\source\\repos\\scholarmvc\\scholar.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56BF5E07-9852-4BBA-ACE4-672FB2090AE3}|Scholar.PL\\Scholar.PL.csproj|solutionrelative:scholar.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56BF5E07-9852-4BBA-ACE4-672FB2090AE3}|Scholar.PL\\Scholar.PL.csproj|c:\\users\\ii novbe\\source\\repos\\scholarmvc\\scholar.pl\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{56BF5E07-9852-4BBA-ACE4-672FB2090AE3}|Scholar.PL\\Scholar.PL.csproj|solutionrelative:scholar.pl\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56BF5E07-9852-4BBA-ACE4-672FB2090AE3}|Scholar.PL\\Scholar.PL.csproj|c:\\users\\ii novbe\\source\\repos\\scholarmvc\\scholar.pl\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56BF5E07-9852-4BBA-ACE4-672FB2090AE3}|Scholar.PL\\Scholar.PL.csproj|solutionrelative:scholar.pl\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B512860F-0468-4473-BF04-17589C6C3B0E}|Scholar.BL\\Scholar.BL.csproj|c:\\users\\ii novbe\\source\\repos\\scholarmvc\\scholar.bl\\services\\concrete\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B512860F-0468-4473-BF04-17589C6C3B0E}|Scholar.BL\\Scholar.BL.csproj|solutionrelative:scholar.bl\\services\\concrete\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B512860F-0468-4473-BF04-17589C6C3B0E}|Scholar.BL\\Scholar.BL.csproj|c:\\users\\ii novbe\\source\\repos\\scholarmvc\\scholar.bl\\exceptions\\courseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B512860F-0468-4473-BF04-17589C6C3B0E}|Scholar.BL\\Scholar.BL.csproj|solutionrelative:scholar.bl\\exceptions\\courseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B512860F-0468-4473-BF04-17589C6C3B0E}|Scholar.BL\\Scholar.BL.csproj|c:\\users\\ii novbe\\source\\repos\\scholarmvc\\scholar.bl\\viewmodels\\coursevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B512860F-0468-4473-BF04-17589C6C3B0E}|Scholar.BL\\Scholar.BL.csproj|solutionrelative:scholar.bl\\viewmodels\\coursevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B512860F-0468-4473-BF04-17589C6C3B0E}|Scholar.BL\\Scholar.BL.csproj|c:\\users\\ii novbe\\source\\repos\\scholarmvc\\scholar.bl\\services\\abstract\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B512860F-0468-4473-BF04-17589C6C3B0E}|Scholar.BL\\Scholar.BL.csproj|solutionrelative:scholar.bl\\services\\abstract\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF0AC54-D68E-4850-8C61-7B703DD84F53}|Scholar.DAL\\Scholar.DAL.csproj|c:\\users\\ii novbe\\source\\repos\\scholarmvc\\scholar.dal\\migrations\\20250520134210_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF0AC54-D68E-4850-8C61-7B703DD84F53}|Scholar.DAL\\Scholar.DAL.csproj|solutionrelative:scholar.dal\\migrations\\20250520134210_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56BF5E07-9852-4BBA-ACE4-672FB2090AE3}|Scholar.PL\\Scholar.PL.csproj|c:\\users\\ii novbe\\source\\repos\\scholarmvc\\scholar.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{56BF5E07-9852-4BBA-ACE4-672FB2090AE3}|Scholar.PL\\Scholar.PL.csproj|solutionrelative:scholar.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF0AC54-D68E-4850-8C61-7B703DD84F53}|Scholar.DAL\\Scholar.DAL.csproj|c:\\users\\ii novbe\\source\\repos\\scholarmvc\\scholar.dal\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF0AC54-D68E-4850-8C61-7B703DD84F53}|Scholar.DAL\\Scholar.DAL.csproj|solutionrelative:scholar.dal\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Scholar.PL\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Scholar.PL\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T14:49:43.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Scholar.PL\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Scholar.PL\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T14:49:32.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Scholar.PL\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Scholar.PL\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAgwGUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T14:48:47.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\Areas\\Admin\\Views\\Course\\Update.cshtml",
+              "RelativeDocumentMoniker": "Scholar.PL\\Areas\\Admin\\Views\\Course\\Update.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\Areas\\Admin\\Views\\Course\\Update.cshtml",
+              "RelativeToolTip": "Scholar.PL\\Areas\\Admin\\Views\\Course\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T14:41:17.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\Areas\\Admin\\Views\\Course\\Create.cshtml",
+              "RelativeDocumentMoniker": "Scholar.PL\\Areas\\Admin\\Views\\Course\\Create.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\Areas\\Admin\\Views\\Course\\Create.cshtml",
+              "RelativeToolTip": "Scholar.PL\\Areas\\Admin\\Views\\Course\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T14:38:22.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Scholar.PL\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Scholar.PL\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T14:33:53.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Scholar.PL\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Scholar.PL\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T14:33:40.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Scholar.PL\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Scholar.PL\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAuwIkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T14:33:01.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\Areas\\Admin\\Views\\Course\\Index.cshtml",
+              "RelativeDocumentMoniker": "Scholar.PL\\Areas\\Admin\\Views\\Course\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\Areas\\Admin\\Views\\Course\\Index.cshtml",
+              "RelativeToolTip": "Scholar.PL\\Areas\\Admin\\Views\\Course\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T14:12:44.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\Areas\\Admin\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "Scholar.PL\\Areas\\Admin\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\Areas\\Admin\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "Scholar.PL\\Areas\\Admin\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAIwCgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T14:12:23.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Scholar.PL\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Scholar.PL\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-20T14:11:55.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Scholar.PL\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Scholar.PL\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T14:05:29.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Scholar.PL\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Scholar.PL\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T14:05:17.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CourseException.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.BL\\Exceptions\\CourseException.cs",
+              "RelativeDocumentMoniker": "Scholar.BL\\Exceptions\\CourseException.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.BL\\Exceptions\\CourseException.cs",
+              "RelativeToolTip": "Scholar.BL\\Exceptions\\CourseException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:48:35.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.BL\\Services\\Concrete\\CourseService.cs",
+              "RelativeDocumentMoniker": "Scholar.BL\\Services\\Concrete\\CourseService.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.BL\\Services\\Concrete\\CourseService.cs",
+              "RelativeToolTip": "Scholar.BL\\Services\\Concrete\\CourseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:46:11.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CourseVM.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.BL\\ViewModels\\CourseVM.cs",
+              "RelativeDocumentMoniker": "Scholar.BL\\ViewModels\\CourseVM.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.BL\\ViewModels\\CourseVM.cs",
+              "RelativeToolTip": "Scholar.BL\\ViewModels\\CourseVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:45:39.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ICourseService.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.BL\\Services\\Abstract\\ICourseService.cs",
+              "RelativeDocumentMoniker": "Scholar.BL\\Services\\Abstract\\ICourseService.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.BL\\Services\\Abstract\\ICourseService.cs",
+              "RelativeToolTip": "Scholar.BL\\Services\\Abstract\\ICourseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:43:15.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20250520134210_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.DAL\\Migrations\\20250520134210_Initial.cs",
+              "RelativeDocumentMoniker": "Scholar.DAL\\Migrations\\20250520134210_Initial.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.DAL\\Migrations\\20250520134210_Initial.cs",
+              "RelativeToolTip": "Scholar.DAL\\Migrations\\20250520134210_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:42:11.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\Program.cs",
+              "RelativeDocumentMoniker": "Scholar.PL\\Program.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\Program.cs",
+              "RelativeToolTip": "Scholar.PL\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:39:34.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\appsettings.json",
+              "RelativeDocumentMoniker": "Scholar.PL\\appsettings.json",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.PL\\appsettings.json",
+              "RelativeToolTip": "Scholar.PL\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-20T13:39:19.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.DAL\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Scholar.DAL\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.DAL\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "Scholar.DAL\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:35:12.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.DAL\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Scholar.DAL\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\Scholar.DAL\\Models\\Course.cs",
+              "RelativeToolTip": "Scholar.DAL\\Models\\Course.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:32:20.739Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
